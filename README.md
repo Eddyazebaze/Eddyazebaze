@@ -23,7 +23,7 @@ J’accompagne les DSI, RSSI, auditeurs et chefs de projet à fort impact à :
 - 💼 **Gestion de projet** (PMP®, PRINCE2®, PSPO, PSM)
 - 🔐 **Gouvernance & Conformité** (GRC, ITSM, ISO 27001, NIS2, AI Act)
 - 🧠 **IA responsable & Cybersécurité**
-- 🧰 Architecture documentaire, SDLC, CMDB, audits TrustArc
+- 🧰 Architecture documentaire, SDLC, CMDB, audits IT
 
 ---
 
