@@ -1,77 +1,105 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Profil public d’Eddy Azebaze – PMP, GRC, Cyber, IA, IT Strategy" />
-  <title>Eddy Azebaze | PMP, GRC, Cyber, IA, Stratégie IT</title>
+  <meta name="description" content="Profil public d’Eddy Azebaze - PMP, GRC, Cyber, IA, stratégie IT." />
+  <title>Eddy Azebaze | PMP, GRC, Cyber, IA & IT Strategy</title>
   <style>
     body {
       margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to bottom right, #0f2027, #203a43, #2c5364);
       color: #fff;
-      text-align: center;
-      padding: 30px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem;
     }
-    img.profile {
-      width: 150px;
-      height: 150px;
-      border-radius: 50%;
+
+    img.photo-profil {
+      width: 130px;
+      height: 130px;
       object-fit: cover;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+      border-radius: 100%;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+      margin-bottom: 1rem;
     }
+
+    h1 {
+      font-size: 1.8rem;
+      margin-bottom: 0.3rem;
+    }
+
+    p.subtitle {
+      font-size: 1rem;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+
     .card {
-      background-color: rgba(20, 30, 48, 0.9);
-      padding: 30px;
+      background-color: rgba(0, 0, 0, 0.3);
       border-radius: 12px;
-      max-width: 720px;
-      margin: 40px auto;
+      padding: 2rem;
+      max-width: 600px;
+      width: 100%;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
     }
-    h1, h2 {
-      color: #ffffff;
+
+    h2 {
+      margin-top: 1.5rem;
+      margin-bottom: 0.5rem;
     }
-    p {
-      font-size: 1.1em;
-      margin-bottom: 15px;
-    }
+
     ul {
-      list-style-type: disc;
-      text-align: left;
-      padding-left: 20px;
+      padding-left: 1rem;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
       color: #ffc107;
     }
-    a.button {
+
+    .btn {
       display: inline-block;
-      margin: 8px;
-      padding: 12px 20px;
       background-color: #ffc107;
       color: #000;
       font-weight: bold;
-      text-decoration: none;
+      padding: 0.6rem 1.2rem;
+      margin: 0.4rem;
+      border: none;
       border-radius: 6px;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      text-decoration: none;
+      transition: all 0.3s ease-in-out;
     }
-    a.button:hover {
+
+    .btn:hover {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
       transform: translateY(-2px);
-      box-shadow: 0 4px 10px rgba(255, 193, 7, 0.6);
     }
-    @media (max-width: 600px) {
-      body {
-        padding: 15px;
-      }
+
+    .footer {
+      margin-top: 3rem;
+      font-size: 0.85rem;
+      opacity: 0.7;
+      text-align: center;
+    }
+
+    @media screen and (max-width: 600px) {
       .card {
-        padding: 20px;
+        padding: 1rem;
       }
     }
   </style>
 </head>
+
 <body>
-  <img src="assets/eddy-azebaze.jpeg" alt="Eddy Azebaze" class="profile" />
+  <img src="assets/eddy-azebaze.jpeg" alt="Eddy Azebaze" class="photo-profil" />
   <h1>Bienvenue sur mon espace GitHub !</h1>
-  <p>On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable.</p>
-  <p><strong>Je suis Eddy Azebaze</strong>, chef de projet stratégique certifié PMP®, expert en GRC, cybersécurité et IA, passionné par la stratégie IT, la gouvernance et les schémas directeurs.</p>
+  <p class="subtitle">
+    Je suis <strong>Eddy Azebaze</strong>, Chef de projet stratégique. On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable.
+  </p>
 
   <div class="card">
     <h2>🛠️ Domaines d'expertise</h2>
@@ -80,21 +108,28 @@
       <li>GRC, cybersécurité, conformité réglementaire</li>
       <li>IA responsable, transformation digitale</li>
       <li>Architecture documentaire, SDLC, CMDB, Audits IT</li>
-      <li>Stratégie IT, Schémas directeurs, alignement Business/Tech</li>
+      <li>Stratégie IT, schémas directeurs, évaluation de la maturité</li>
     </ul>
 
     <h2>📌 Liens utiles</h2>
-    <a href="https://www.linkedin.com/in/eddy-azebaze-034a20226/" class="button">🔗 Mon profil LinkedIn</a>
-    <a href="https://github.com/Eddyazebaze/pmp-bootcamp-by-eddy" class="button">🚀 Accéder au PMP Bootcamp</a>
+    <a class="btn" href="https://www.linkedin.com/in/eddy-azebaze-034a20226" target="_blank">💼 Mon profil LinkedIn</a>
+    <a class="btn" href="https://eddyazebaze.github.io/pmp-bootcamp-by-eddy" target="_blank">🚀 Accéder au PMP Bootcamp</a>
 
     <h2>🎖️ Mes certifications</h2>
-    <a href="https://www.credly.com/users/eddy-azebaze-tonleu" class="button">💼 Voir mes certifications sur Credly</a>
-    <a href="https://www.scrum.org/user/832913" class="button">🌀 Voir mes certifications PSPO & PSM sur Scrum.org</a>
+    <ul>
+      <li>🍥 <a href="https://www.credly.com/users/eddy-azebaze-tonleu" style="color: black; font-weight: bold;">Voir mes certifications sur Credly</a></li>
+      <li>🌀 <a href="https://www.scrum.org/user/832913" style="color: black; font-weight: bold;">Voir mes certifications PSPO & PSM sur Scrum.org</a></li>
+    </ul>
 
     <h2>💛 Mentoring</h2>
-    <a href="https://www.mentoring-club.com/profiles/eddy-azebaze#mentor-profile" class="button">👨‍🏫 Voir mon profil Mentoring Club</a>
+    <a class="btn" href="https://www.mentoring-club.com/profiles/eddy-azebaze#mentor-profile" target="_blank">✨ Voir mon profil Mentoring Club</a>
   </div>
 
-  <p style="margin-top: 30px; font-size: 0.9em;">© 2025 Eddy Azebaze | Dernière mise à jour : Mai 2025</p>
+  <div class="footer">
+    © 2025 Eddy Azebaze | Dernière mise à jour : Mai 2025
+    <br />
+    <a href="https://github.com/Eddyazebaze" target="_blank" style="color: #ccc">GitHub principal</a>
+  </div>
 </body>
+
 </html>
