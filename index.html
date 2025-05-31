@@ -1,147 +1,100 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Eddy Azebaze | GitHub</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Profil public d’Eddy Azebaze – PMP, GRC, Cyber, IA, IT Strategy" />
+  <title>Eddy Azebaze | PMP, GRC, Cyber, IA, Stratégie IT</title>
   <style>
     body {
       margin: 0;
-      padding: 0;
-      font-family: Arial, sans-serif;
-      background: linear-gradient(to bottom right, #0f2027, #203a43, #2c5364);
-      color: #f1f1f1;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-
-    header {
-      margin-top: 30px;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      color: #fff;
       text-align: center;
-    }
-
-    header img {
-      width: 120px;
-      border-radius: 50%;
-      margin-bottom: 10px;
-    }
-
-    h1 {
-      font-size: 28px;
-      margin-bottom: 10px;
-    }
-
-    p.slogan {
-      font-size: 16px;
-      color: #ccc;
-    }
-
-    main {
-      background-color: rgba(0, 0, 0, 0.25);
       padding: 30px;
-      border-radius: 10px;
-      margin: 30px;
-      max-width: 700px;
-      width: 90%;
-      box-shadow: 0 0 12px rgba(0,0,0,0.3);
     }
-
-    h2 {
+    img.profile {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    }
+    .card {
+      background-color: rgba(20, 30, 48, 0.9);
+      padding: 30px;
+      border-radius: 12px;
+      max-width: 720px;
+      margin: 40px auto;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+    }
+    h1, h2 {
       color: #ffffff;
-      margin-bottom: 10px;
     }
-
+    p {
+      font-size: 1.1em;
+      margin-bottom: 15px;
+    }
     ul {
+      list-style-type: disc;
+      text-align: left;
       padding-left: 20px;
-      margin-bottom: 20px;
-    }
-
-    ul li {
-      margin-bottom: 8px;
       color: #ffc107;
     }
-
-    .section-title {
-      margin-top: 25px;
-      margin-bottom: 10px;
-      font-weight: bold;
-      font-size: 20px;
-    }
-
-    .button-link {
+    a.button {
       display: inline-block;
+      margin: 8px;
+      padding: 12px 20px;
       background-color: #ffc107;
-      color: #111;
-      padding: 10px 20px;
-      margin: 8px 5px;
-      border-radius: 8px;
+      color: #000;
       font-weight: bold;
       text-decoration: none;
-      transition: all 0.3s ease;
+      border-radius: 6px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
     }
-
-    .button-link:hover {
-      background-color: #ffca2b;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    a.button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 10px rgba(255, 193, 7, 0.6);
     }
-
-    .certification-links p a {
-      color: #111;
-      font-weight: bold;
-      text-decoration: none;
-    }
-
-    .certification-links p a:hover {
-      text-decoration: underline;
-    }
-
-    footer {
-      text-align: center;
-      padding: 20px;
-      font-size: 13px;
-      color: #ccc;
+    @media (max-width: 600px) {
+      body {
+        padding: 15px;
+      }
+      .card {
+        padding: 20px;
+      }
     }
   </style>
 </head>
 <body>
-  <header>
-    <img src="assets/eddy-azebaze.jpeg" alt="Eddy Azebaze photo">
-    <h1>Bienvenue sur mon espace GitHub !</h1>
-    <p class="slogan">On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable.</p>
-  </header>
+  <img src="assets/eddy-azebaze.jpeg" alt="Eddy Azebaze" class="profile" />
+  <h1>Bienvenue sur mon espace GitHub !</h1>
+  <p>On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable.</p>
+  <p><strong>Je suis Eddy Azebaze</strong>, chef de projet stratégique certifié PMP®, expert en GRC, cybersécurité et IA, passionné par la stratégie IT, la gouvernance et les schémas directeurs.</p>
 
-  <main>
-    <div class="section">
-      <h2>🛠️ Domaines d'expertise</h2>
-      <ul>
-        <li>PMP®, PRINCE2®, ITIL4®, PSPO, PSM, CISM®</li>
-        <li>GRC, cybersécurité, conformité réglementaire</li>
-        <li>IA responsable, transformation digitale</li>
-        <li>Architecture documentaire, SDLC, CMDB, Audits IT</li>
-      </ul>
-    </div>
+  <div class="card">
+    <h2>🛠️ Domaines d'expertise</h2>
+    <ul>
+      <li>PMP®, PRINCE2®, ITIL4®, PSPO, PSM, CISM®</li>
+      <li>GRC, cybersécurité, conformité réglementaire</li>
+      <li>IA responsable, transformation digitale</li>
+      <li>Architecture documentaire, SDLC, CMDB, Audits IT</li>
+      <li>Stratégie IT, Schémas directeurs, alignement Business/Tech</li>
+    </ul>
 
-    <div class="section">
-      <h2>📌 Liens utiles</h2>
-      <a href="https://www.linkedin.com/in/eddy-azebaze-034a20226" class="button-link">🔗 Mon profil LinkedIn</a>
-      <a href="https://github.com/Eddyazebaze/pmp-bootcamp-by-eddy" class="button-link">🚀 Accéder au PMP Bootcamp</a>
-    </div>
+    <h2>📌 Liens utiles</h2>
+    <a href="https://www.linkedin.com/in/eddy-azebaze-034a20226/" class="button">🔗 Mon profil LinkedIn</a>
+    <a href="https://github.com/Eddyazebaze/pmp-bootcamp-by-eddy" class="button">🚀 Accéder au PMP Bootcamp</a>
 
-    <div class="section certification-links">
-      <h2>🎖️ Mes certifications</h2>
-      <p>📛 <a href="https://www.credly.com/users/eddy-azebaze-tonleu" target="_blank">Voir mes certifications sur Credly</a></p>
-      <p>🌀 <a href="https://www.scrum.org/user/832913" target="_blank">Voir mes certifications PSPO & PSM sur Scrum.org</a></p>
-    </div>
+    <h2>🎖️ Mes certifications</h2>
+    <a href="https://www.credly.com/users/eddy-azebaze-tonleu" class="button">💼 Voir mes certifications sur Credly</a>
+    <a href="https://www.scrum.org/user/832913" class="button">🌀 Voir mes certifications PSPO & PSM sur Scrum.org</a>
 
-    <div class="section">
-      <h2>💛 Mentoring</h2>
-      <a href="https://www.mentoring-club.com/profiles/eddy-azebaze#mentor-profile" class="button-link" target="_blank">🌟 Voir mon profil Mentoring Club</a>
-    </div>
-  </main>
+    <h2>💛 Mentoring</h2>
+    <a href="https://www.mentoring-club.com/profiles/eddy-azebaze#mentor-profile" class="button">👨‍🏫 Voir mon profil Mentoring Club</a>
+  </div>
 
-  <footer>
-    © 2025 Eddy Azebaze | Dernière mise à jour : Mai 2025
-  </footer>
+  <p style="margin-top: 30px; font-size: 0.9em;">© 2025 Eddy Azebaze | Dernière mise à jour : Mai 2025</p>
 </body>
 </html>
