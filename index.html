@@ -4,121 +4,162 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Eddy Azebaze - PMP® Trainer & Strategic IT Partner</title>
-  <link rel="stylesheet" href="assets/style.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #0a0f2c;
+      color: #fff;
+      scroll-behavior: smooth;
+    }
+    header {
+      background: url('assets/banner-eddy.jpg') center/cover no-repeat fixed;
+      height: 90vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 2rem;
+      color: white;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      font-weight: 800;
+      animation: fadeIn 2s ease-out;
+    }
+    header p {
+      max-width: 700px;
+      font-size: 1.2rem;
+      margin-top: 1rem;
+      animation: fadeIn 3s ease-out;
+    }
+    .cta {
+      background-color: #1a73e8;
+      color: white;
+      border: none;
+      padding: 1rem 2rem;
+      border-radius: 50px;
+      margin-top: 2rem;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+    .cta:hover {
+      background-color: #0f57c1;
+    }
+    section {
+      padding: 4rem 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .profile-pic {
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 1rem;
+    }
+    .fade-in {
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 1.2s ease, transform 1.2s ease;
+    }
+    .fade-in.visible {
+      opacity: 1;
+      transform: none;
+    }
+    footer {
+      background-color: #10163a;
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+    .button-group a {
+      display: inline-block;
+      margin: 0.5rem;
+      padding: 0.8rem 1.4rem;
+      border-radius: 40px;
+      background-color: #1a73e8;
+      color: white;
+      text-decoration: none;
+      transition: background 0.3s;
+    }
+    .button-group a:hover {
+      background-color: #0f57c1;
+    }
+    @keyframes fadeIn {
+      from {opacity: 0;}
+      to {opacity: 1;}
+    }
+    @media screen and (max-width: 768px) {
+      header h1 { font-size: 1.8rem; }
+      header p { font-size: 1rem; }
+      section { padding: 2rem 1rem; }
+    }
+  </style>
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const sections = document.querySelectorAll('.fade-in');
+      const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) entry.target.classList.add('visible');
+        });
+      }, { threshold: 0.1 });
+      sections.forEach(section => observer.observe(section));
+    });
+  </script>
 </head>
 <body>
-
-  <!-- HEADER -->
-  <header class="header">
-    <img src="assets/banner-eddy.jpg" alt="Bannière professionnelle" class="banner-img">
-    <nav class="navbar">
-      <div class="logo">Eddy Azebaze</div>
-      <ul class="nav-links">
-        <li><a href="#about">Qui suis-je</a></li>
-        <li><a href="#skills">Compétences</a></li>
-        <li><a href="#projects">Projets</a></li>
-        <li><a href="#mentoring">Mentoring</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-      <div class="burger">
-        <div class="line1"></div>
-        <div class="line2"></div>
-        <div class="line3"></div>
-      </div>
-    </nav>
+  <header>
+    <img src="assets/eddy-azebaze.jpg" alt="Eddy Azebaze" class="profile-pic" />
+    <h1>PMP® Trainer | Strategic IT Partner</h1>
+    <p>Enabling CIOs to Turn AI, GRC & Roadmaps into Measurable Business Value</p>
+    <a class="cta" href="https://calendly.com/eddyazebaze/30min" target="_blank">Discutons ensemble</a>
   </header>
 
-  <!-- PHOTO DE PROFIL -->
-  <section class="profile">
-    <img src="assets/eddy-azebaze.jpg" alt="Eddy Azebaze photo" class="profile-img" />
-    <h1>Eddy Azebaze</h1>
-    <h2>PMP® Trainer | Strategic IT Partner</h2>
-    <p>Enabling CIOs to Turn AI, GRC & Roadmaps into Measurable Business Value</p>
-    <a href="#contact" class="cta-button">📩 Planifier un échange</a>
-  </section>
-
-  <!-- QUI SUIS-JE -->
-  <section id="about" class="section fade-in-up">
+  <section class="fade-in">
     <h2>Qui suis-je ?</h2>
-    <p>Je suis Eddy Azebaze, PMP® Trainer, Strategic IT Partner, expert en GRC, cybersécurité, intelligence artificielle et pilotage stratégique. J'accompagne les DSI et les chefs de projets à transformer leurs enjeux complexes en valeur mesurable. Mon parcours dans des groupes comme Accenture, BNP Paribas, MSD m’a permis d’allier rigueur, vision business et excellence terrain.</p>
+    <p>Je suis Eddy Azebaze, PMP® Trainer et expert en stratégie IT, cybersécurité, IA et gouvernance. Fort d'une expérience au sein de groupes Fortune 500, j’interviens comme formateur, consultant et mentor pour aider DSI, PMO et chefs de projets à faire de leurs enjeux réglementaires et technologiques un levier d’impact.</p>
   </section>
 
-  <!-- COMPÉTENCES -->
-  <section id="skills" class="section fade-in-up">
-    <h2>Mes domaines d’intervention</h2>
+  <section class="fade-in">
+    <h2>Mes Expertises</h2>
     <ul>
-      <li>✔️ Gestion de projet (PMP®, Agile, Scrum)</li>
-      <li>✔️ Gouvernance, Risques et Conformité (GRC)</li>
-      <li>✔️ Stratégie IT & schémas directeurs</li>
-      <li>✔️ Cybersécurité & NIS2, DORA, RGPD</li>
-      <li>✔️ IA responsable & IA appliquée à la gestion</li>
+      <li>Gestion de projet (PMP®, Agile, Scrum, PSPO)</li>
+      <li>Schémas directeurs IT, stratégie digitale</li>
+      <li>Conformité & Gouvernance (GRC, NIS2, ISO 27001)</li>
+      <li>Cybersécurité & IA Responsable</li>
+      <li>Formateur certifié PMP® - <a href="https://www.credly.com/users/eddy-azebaze" target="_blank">Voir mes certifications</a></li>
     </ul>
   </section>
 
-  <!-- PROJETS -->
-  <section id="projects" class="section fade-in-up">
-    <h2>Projets & Livrables</h2>
+  <section class="fade-in">
+    <h2>Initiatives & projets</h2>
     <ul>
-      <li><a href="https://eddyazebaze.github.io/pmp-bootcamp-by-eddy/" target="_blank">📘 PMP® Bootcamp by Eddy</a></li>
-      <li><a href="https://eddyazebaze.github.io" target="_blank">💡 GitHub - Résumé & Starter Kits (à venir)</a></li>
-      <li><a href="#" target="_blank">🧩 AI Readiness Kit (à venir)</a></li>
+      <li><strong>PMP Bootcamp</strong> – Formation intensive pour chefs de projet (📂 <a href="https://github.com/Eddyazebaze/pmp-bootcamp-by-eddy" target="_blank">GitHub</a>)</li>
+      <li><strong>AI Act Readiness Kit</strong> – Outil d’analyse IA et conformité (📢 à venir)</li>
+      <li><strong>Starter Kit PM / IA / GRC</strong> – En préparation pour 2025</li>
     </ul>
   </section>
 
-  <!-- MENTORING -->
-  <section id="mentoring" class="section fade-in-up">
-    <h2>Mentoring</h2>
-    <p>🎓 Mentor sur <a href="https://www.mentoring-club.com/profiles/eddy-azebaze#mentor-profile" target="_blank">Mentoring Club</a>.  
-    <br>Extrait d’avis : « Eddy sait rendre les choses simples et structurées. Sa bienveillance m’a permis d’avancer avec clarté. »</p>
+  <section class="fade-in">
+    <h2>Mentoring & Engagement</h2>
+    <p>🎓 J’accompagne régulièrement des professionnels en transition ou montée en compétences sur la plateforme <a href="https://www.mentoring-club.com/" target="_blank">Mentoring Club</a> avec une note de satisfaction 5/5.</p>
   </section>
 
-  <!-- JE PEUX INTERVENIR -->
-  <section class="section fade-in-up highlighted-block">
+  <section class="fade-in">
     <h2>Je peux intervenir sur…</h2>
-    <ul>
-      <li>🚀 Missions en portage (stratégie, conformité, transformation digitale)</li>
-      <li>🎯 Interventions ciblées en gestion de projet & formation PMP®</li>
-    </ul>
+    <div class="button-group">
+      <a href="https://calendly.com/eddyazebaze/30min" target="_blank">Mission en portage</a>
+      <a href="mailto:eddy.azebaze@proton.me">Intervention rapide / Conseil</a>
+    </div>
   </section>
 
-  <!-- CERTIFICATIONS -->
-  <section class="section fade-in-up">
-    <h2>Certifications</h2>
-    <ul>
-      <li><a href="https://www.credly.com/users/eddy-azebaze-tonleu" target="_blank">🎓 Profil complet sur Credly</a></li>
-      <li><a href="https://www.scrum.org/user/832913" target="_blank">📜 PSPO & PSM - Scrum.org</a></li>
-    </ul>
-  </section>
-
-  <!-- CALL TO ACTION -->
-  <section class="section fade-in-up">
-    <h2>Discutons ensemble</h2>
-    <p>Vous avez une opportunité ou un challenge stratégique ? Je suis prêt à intervenir rapidement.</p>
-    <a href="https://calendly.com/eddyazebaze/30min" target="_blank" class="cta-button">📆 Réserver un créneau</a>
-  </section>
-
-  <!-- FOOTER -->
-  <footer class="footer fade-in">
-    <p>© 2025 Eddy Azebaze - Tous droits réservés</p>
-    <p><a href="mailto:eddy.azebaze@proton.me">📧 Contact : eddy.azebaze@proton.me</a></p>
+  <footer>
+    <p>© 2025 Eddy Azebaze — Tous droits réservés</p>
   </footer>
-
-  <!-- BOUTON RETOUR -->
-  <button id="scrollToTopBtn" class="scroll-top">⬆</button>
-
-  <script>
-    // Burger menu
-    const burger = document.querySelector('.burger');
-    const nav = document.querySelector('.nav-links');
-    burger.addEventListener('click', () => nav.classList.toggle('nav-active'));
-
-    // Scroll to top
-    const scrollToTopBtn = document.getElementById('scrollToTopBtn');
-    window.onscroll = function () {
-      scrollToTopBtn.style.display = window.scrollY > 300 ? 'block' : 'none';
-    };
-    scrollToTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
-  </script>
-
 </body>
 </html>
