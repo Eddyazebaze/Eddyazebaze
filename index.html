@@ -1,137 +1,159 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Eddy Azebaze | PMP®, GRC & AI Project Strategist</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="PMP® Trainer | Strategic IT Partner | GRC, IA, Cybersecurity, Schémas directeurs">
+  <title>Eddy Azebaze | PMP® Trainer & Strategic IT Partner</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
   <style>
-    body {
+    :root {
+      --primary: #1a1a1a;
+      --secondary: #f5f5f5;
+      --accent: #007bff;
+    }
+    * {
+      box-sizing: border-box;
       margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(to bottom right, #ffffff, #f4f4f4);
-      color: #333;
+      padding: 0;
+      font-family: 'Inter', sans-serif;
+    }
+    body {
+      background-color: var(--secondary);
+      color: var(--primary);
+      line-height: 1.6;
     }
     header {
-      background: url('assets/banner.jpg') center/cover no-repeat;
-      height: 300px;
-      position: relative;
-    }
-    .profile-img {
-      position: absolute;
-      bottom: -50px;
-      left: 50%;
-      transform: translateX(-50%);
-      border-radius: 50%;
-      width: 100px;
-      height: 100px;
-      object-fit: cover;
-      border: 3px solid #fff;
-    }
-    .container {
-      padding: 80px 20px 20px;
-      max-width: 900px;
-      margin: 0 auto;
-    }
-    h1, h2 {
+      background: url('assets/banner.png') center/cover no-repeat;
       text-align: center;
+      color: white;
+      padding: 4rem 2rem 6rem;
     }
-    .buttons {
-      display: flex;
-      justify-content: center;
-      gap: 15px;
-      margin-top: 15px;
+    header h1 {
+      font-size: 2.5rem;
+      font-weight: 800;
     }
-    .buttons a {
+    header p {
+      font-size: 1.2rem;
+      margin-top: 1rem;
+    }
+    section {
+      padding: 3rem 2rem;
+      max-width: 960px;
+      margin: auto;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
       text-decoration: none;
-      background: #000;
-      color: #fff;
-      padding: 10px 20px;
-      border-radius: 25px;
-      transition: all 0.3s ease;
+      transition: 0.3s;
+      margin-top: 1rem;
     }
-    .buttons a:hover {
-      background: #444;
-      box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+    .btn:hover {
+      box-shadow: 0 4px 12px rgba(0, 123, 255, 0.3);
     }
-    .section {
-      margin: 40px 0;
+    .block {
+      background: white;
+      padding: 2rem;
+      border-radius: 12px;
+      margin-bottom: 2rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      animation: fadeInUp 0.6s ease-out;
     }
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .block h2 {
+      margin-bottom: 1rem;
+      color: var(--primary);
+      font-size: 1.6rem;
+    }
+    .trust-bullets li {
+      margin-bottom: 0.5rem;
+      font-weight: 600;
     }
     footer {
-      background: #000;
-      color: #fff;
-      padding: 20px;
       text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      background: #111;
+      color: white;
     }
-    iframe {
-      width: 100%;
-      height: 315px;
-      border: none;
-      border-radius: 10px;
+    .footer-quote {
+      font-style: italic;
+      margin-top: 1rem;
     }
   </style>
 </head>
+
 <body>
   <header>
-    <img src="assets/eddy-azebaze.jpeg" alt="Eddy Azebaze" class="profile-img" />
+    <h1>PMP® Trainer | Strategic IT Partner</h1>
+    <p>Enabling CIOs to Turn AI, GRC & Roadmaps into Measurable Business Value</p>
+    <a href="https://calendly.com/eddyazebaze/30min" class="btn">Réserver un échange</a>
   </header>
 
-  <div class="container">
-    <h1>Eddy Azebaze</h1>
-    <p style="text-align:center; font-weight:bold;">PMP® Trainer | GRC & AI Strategist | Helping CIOs & PMs Deliver What Matters</p>
+  <section class="block">
+    <h2>Qui suis-je ?</h2>
+    <p>Je suis Eddy Azebaze, PMP® Trainer certifié, stratège IT et expert en GRC, IA responsable et cybersécurité. Fort d'une expérience dans les plus grands groupes (Fortune 500), j'accompagne les DSI, chefs de projets et équipes transverses vers une exécution alignée et un impact mesurable. Je m'engage aussi comme mentor au Mentoring Club & au PMI France pour transmettre ce qui compte vraiment.</p>
+  </section>
 
-    <div class="buttons">
-      <a href="https://www.linkedin.com/in/eddy-azebaze-034a20226" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-      <a href="https://www.credly.com/users/eddy-azebaze-tonleu" target="_blank"><i class="fas fa-certificate"></i> Certifications</a>
-      <a href="https://www.scrum.org/user/832913" target="_blank"><i class="fas fa-tasks"></i> Scrum.org</a>
-      <a href="https://github.com/Eddyazebaze/pmp-bootcamp-by-eddy" target="_blank"><i class="fab fa-github"></i> PMP Bootcamp</a>
-    </div>
+  <section class="block">
+    <h2>Pourquoi me faire confiance ?</h2>
+    <ul class="trust-bullets">
+      <li>✨ Plus de 8 ans dans des environnements Fortune 500 (MSD, BNP Paribas, Accenture...)</li>
+      <li>🔹 Certifié PMP® Trainer (ATP PMI) + CISM, ITIL, PSPO, Scrum, ISO 27001</li>
+      <li>🙏 Engagement humain reconnu : Mentoring, PMI, Conférences IA/GRC</li>
+    </ul>
+  </section>
 
-    <div class="section">
-      <h2>Qui suis-je ?</h2>
-      <p>Je suis Eddy Azebaze, formateur certifié PMP® (PMI ATP), expert en cybersécurité, gouvernance IT (GRC) et IA responsable. J’aide les DSI, RSSI et chefs de projet à structurer leurs projets, à passer leurs certifications clés, et à naviguer dans les enjeux réglementaires (RGPD, NIS2, AI Act).</p>
-    </div>
+  <section class="block">
+    <h2>Certifications</h2>
+    <p><a href="https://www.credly.com/users/eddy-azebaze-tonleu" target="_blank"><strong>Voir mes certifications sur Credly</strong></a> • <a href="https://www.scrum.org/user/832913" target="_blank"><strong>Scrum.org (PSM, PSPO)</strong></a></p>
+  </section>
 
-    <div class="section">
-      <h2>Ressources & Projets</h2>
-      <div class="grid">
-        <div>
-          <strong>PMP Bootcamp</strong>
-          <p>Programme intensif de préparation à la certification PMP®.</p>
-        </div>
-        <div>
-          <strong>AI Act Readiness Kit</strong>
-          <p>Auto-évaluation, plan d'action et veille réglementaire IA.</p>
-        </div>
-        <div>
-          <strong>Starter Kit PM IA / GRC</strong>
-          <p>Templates RACI, backlog, plan de com, logs risques, etc.</p>
-        </div>
-      </div>
-    </div>
+  <section class="block">
+    <h2>Projets et ressources</h2>
+    <p>🔗 <a href="https://github.com/Eddyazebaze/pmp-bootcamp-by-eddy" target="_blank">Bootcamp PMP®</a> • 🔗 <a href="https://github.com/Eddyazebaze" target="_blank">Mes starter kits AI / GRC / Roadmaps</a></p>
+  </section>
 
-    <div class="section">
-      <h2>Mentoring</h2>
-      <p>📬 Besoin d’un conseil carrière ou d’un coaching projet ? Retrouvez-moi sur : <a href="https://www.mentoring-club.com/profiles/eddy-azebaze#mentor-profile" target="_blank">Mentoring Club</a></p>
-    </div>
+  <section class="block">
+    <h2>Mentoring</h2>
+    <p>"Eddy m'a offert un éclairage rare, combinant exigence et bienveillance. Une vraie référence."
+      — <em>avis vérifié</em> <br>
+      <a href="https://www.mentoring-club.com/profiles/eddy-azebaze#mentor-profile" target="_blank">Voir mon profil Mentoring Club</a></p>
+  </section>
 
-    <div class="section">
-      <h2>Ce que je crois</h2>
-      <blockquote>
-        "On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable."
-        <br />
-        "Un projet sans gouvernance ? Un ticket de loterie. Une IA sans cadre ? Un procès en attente."
-      </blockquote>
-    </div>
-  </div>
+  <section class="block">
+    <h2>Je peux intervenir sur…</h2>
+    <ul>
+      <li><strong>En portage</strong> pour accélérer vos projets (PMO, schéma directeur, IA responsable)</li>
+      <li><strong>En intervention rapide</strong> pour audit GRC / conformity / AI readiness</li>
+    </ul>
+  </section>
+
+  <section class="block">
+    <h2>Contact</h2>
+    <form name="contact" method="POST" data-netlify="true">
+      <input type="text" name="name" placeholder="Nom" required><br><br>
+      <input type="email" name="email" placeholder="Email" required><br><br>
+      <textarea name="message" placeholder="Votre message..." required></textarea><br><br>
+      <button type="submit" class="btn">Envoyer</button>
+      <p style="font-size: 0.8rem; margin-top: 1rem;">Ce formulaire respecte le RGPD. Vos données ne seront jamais partagées.</p>
+    </form>
+  </section>
 
   <footer>
-    <p>&copy; 2024 Eddy Azebaze | Landing page GitHub powered</p>
+    <p>Contact direct : <a href="mailto:eddy.azebaze@proton.me">eddy.azebaze@proton.me</a></p>
+    <p class="footer-quote">"La rigueur est la politesse du stratège. Soyons alignés, soyons prêts."</p>
   </footer>
 </body>
+
 </html>
