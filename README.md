@@ -3,6 +3,18 @@
 🎯 **Chef de projet stratégique | PMP®, GRC, Cyber, ITSM, IA responsable**  
 📍 France | 🌐 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-034a20226)
 
+## ✍️ Publications & articles
+
+Je publie des réflexions stratégiques sur la transformation IT, la gouvernance des SI, le management de projet et la conformité (GRC, NIS2, IA, RGPD...).
+
+👉 Retrouvez mes articles sur Medium : [@eddyazebaze](https://medium.com/@eddyazebaze)
+
+**Dernier article publié :**  
+
+📌 [Build vs Run : Réconcilier stratégie, gouvernance et impact dans les DSI modernes](https://medium.com/@eddyazebaze/build-vs-run-réconcilier-stratégie-gouvernance-et-impact-dans-les-dsi-modernes-9cb55740f9a4)
+
+🎯 Objectif : aider les PMs, CIOs et décideurs IT à piloter ce qui compte vraiment.
+
 ---
 
 ## 🔍 Qui suis-je ?
