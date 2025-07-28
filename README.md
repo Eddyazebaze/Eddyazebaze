@@ -1,7 +1,7 @@
 # 👨‍💻 Eddy AZEBAZE
 
-🎯 **Chef de projet stratégique | Formateur PMP® accrédité PMI | GRC • IA • Data & Insights • Cybersécurité**  
-📍 France | 🌐 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-034a20226) | ✍️ [Medium](https://medium.com/@eddyazebaze)
+🎯 **Chef de projet IT stratégique | Formateur PMP® accrédité PMI | GRC • IA • Data & Insights • Cybersécurité**  
+📍 France | 🌐 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-034a20226) | ✍️ [Medium](https://medium.com/@eddyazebaze) | 🎓 [Mentoring Club](https://www.mentoring-club.com/profiles/eddy-azebaze#mentor-profile)
 
 ---
 
@@ -50,16 +50,16 @@ Voici mon cadre éprouvé : clair, réplicable, orienté valeur.
 
 ## 📌 Projets démonstrateurs
 
-> Ces projets sont concrets, documentés et déployés – ils reflètent ma capacité à penser et livrer des outils à impact pour les DSI, PMO, RSSI et directions métier.
+> Ces projets sont concrets, documentés et déployés - ils reflètent ma capacité à penser et livrer des outils à impact pour les DSI, PMO, RSSI et directions métier.
 
 | Projet | Description | Lien |
 |--------|-------------|------|
-| `Assistant Virtuel Eddy AZEBAZE` | Chatbot IA : PMP®, IA, GRC, stratégie IT | [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) · [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) |
-| `Analyse Dépenses Santé – BI` | Tableaux de bord stratégiques sur les dépenses santé | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) |
-| `Audit Sécurité WordPress` | Audit technique OWASP + recommandations concrètes | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/04-audit-securite-wordpress) |
-| `Project Value Canvas` | Canvas stratégique de cadrage de la valeur projet | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-project-value-canvas) |
-| `AI Act Readiness Scorecard` | Score d’auto-évaluation IA + plan d'action réglementaire | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) |
-| `AI Conformity Alert Flow` | Système d'alerte automatisée pour risques IA (Make.com) | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-ai-conformity-alert-flow) |
+| **`Assistant Virtuel Eddy AZEBAZE`** | Chatbot IA : PMP®, IA, GRC, stratégie IT | [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) · [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) |
+| **`Analyse Dépenses Santé - BI`** | Tableaux de bord stratégiques sur les dépenses santé | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) |
+| **`Audit Sécurité WordPress`** | Audit technique OWASP + recommandations concrètes | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/04-audit-securite-wordpress) |
+| **`Project Value Canvas`** | Canvas stratégique de cadrage de la valeur projet | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-project-value-canvas) |
+| **`AI Act Readiness Scorecard`** | Score d’auto-évaluation IA + plan d'action réglementaire | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) |
+| **`AI Conformity Alert Flow`** | Système d'alerte automatisée pour risques IA (Make.com) | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-ai-conformity-alert-flow) |
 
 ---
 
@@ -67,19 +67,19 @@ Voici mon cadre éprouvé : clair, réplicable, orienté valeur.
 
 | Kit stratégique | Contenu | Statut |
 |------------------|---------|--------|
-| `AI Kit – GRC & Conformité` | Templates + checklists + canvas IA | 🔜 En cours |
-| `Starter Kit Chef de Projet IT` | RACI, backlog, feuille de route, plan de com' | 🔜 En cours |
-| `Bootcamp PMP® – by Eddy` | Programme intensif pour la réussite PMP® | 🔜 Finalisation en cours |
+| **`AI Kit – GRC & Conformité`** | Templates + checklists + canvas IA | 🔜 En cours |
+| **`Starter Kit Chef de Projet IT`** | RACI, backlog, feuille de route, plan de com' | 🔜 En cours |
+| **`Bootcamp PMP® – by Eddy`** | Programme intensif pour la réussite PMP® | 🔜 Finalisation en cours |
 
 ---
 
 ## ✍️ Articles stratégiques
 
-> Retrouvez mes publications sur Medium : [@eddyazebaze](https://medium.com/@eddyazebaze)
+> Retrouvez mes publications sur Medium : **[@eddyazebaze](https://medium.com/@eddyazebaze)**
 
-- 🧠 [Build vs Run : Réconcilier stratégie, gouvernance et impact dans les DSI modernes](https://medium.com/@eddyazebaze/build-vs-run-réconcilier-stratégie-gouvernance-et-impact-dans-les-dsi-modernes-9cb55740f9a4)
-- 🔍 [CIO – PMO – GRC : 3 rôles à réconcilier pour un impact réel](https://medium.com/@eddyazebaze/cio-pmo-grc-3-rôles-à-réconcilier-pour-un-impact-réel-e4d3b34a2a3b)
-- 📊 [What Do We Really Mean by “Value” in IT?](https://medium.com/@eddyazebaze/what-do-we-really-mean-by-value-in-it-321b7f04e4f4)
+- 🧠 **[Build vs Run : Réconcilier stratégie, gouvernance et impact dans les DSI modernes](https://medium.com/@eddyazebaze/build-vs-run-réconcilier-stratégie-gouvernance-et-impact-dans-les-dsi-modernes-9cb55740f9a4)**
+- 🔍 **[CIO – PMO – GRC : 3 rôles à réconcilier pour un impact réel](https://medium.com/@eddyazebaze/cio-pmo-grc-3-rôles-à-réconcilier-pour-un-impact-réel-e4d3b34a2a3b)**
+- 📊 **[What Do We Really Mean by “Value” in IT?](https://medium.com/@eddyazebaze/what-do-we-really-mean-by-value-in-it-321b7f04e4f4)**
 
 ---
 
@@ -88,13 +88,13 @@ Voici mon cadre éprouvé : clair, réplicable, orienté valeur.
 > Ce dépôt GitHub est **une vitrine stratégique** : peu de code ici, mais des démonstrateurs réels, assets documentés et outils à impact pour la prise de décision.
 
 **Pourquoi tant de sujets (PMP®, GRC, IA, cybersécurité) ?**  
-→ Parce que ces disciplines sont interconnectées dans les projets modernes. Mon approche les mobilise comme **leviers**, jamais en silo.
+  → Parce que ces disciplines sont interconnectées dans les projets modernes. Mon approche les mobilise comme **leviers**, jamais en silo.
 
 **Où est le code ?**  
-→ Mon rôle est celui d’un **chef de projet augmenté** : je structure, j’oriente, je délivre. Les livrables visibles ici ont tous été construits, testés et mis en ligne dans une logique de valeur.
+  → Mon rôle est celui d’un **chef de projet augmenté** : je structure, j’oriente, je délivre. Les livrables visibles ici ont tous été construits, testés et mis en ligne dans une logique de valeur.
 
 **Est-ce réutilisable ?**  
-→ Oui : la plupart des assets sont reproductibles ou adaptables (scorecards, canvas, alert flows, tableaux de bord, prompts…).
+  → Oui : la plupart des assets sont reproductibles ou adaptables (scorecards, canvas, alert flows, tableaux de bord, prompts…).
 
 ---
 
