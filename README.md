@@ -111,10 +111,15 @@ Voici mon cadre éprouvé : clair, réplicable, orienté valeur.
 ## 📬 Me contacter
 
 - 📧 Email pro : eddy.azebaze[at]proton.me  
-- 🔗 LinkedIn : [eddy-azebaze-034a20226](https://www.linkedin.com/in/eddy-azebaze-034a20226)
+- 🔗 LinkedIn : [eddy-azebaze-034a20226](https://www.linkedin.com/in/eddy-azebaze-034a20226)  
+
+---
+
+- 📅 **Vous avez un projet ou un besoin stratégique ?**  
+Prenons 30 minutes pour activer ensemble les bons leviers de valeur :  ➡️ [Réserver un créneau Calendly](https://calendly.com/eddy-azebaze-proton?utm_source=github&utm_medium=readme&utm_campaign=prise-de-contact)
 
 ---
 
 > ✨ *Un dépôt GitHub, c’est plus qu’un code.  
 C’est une vitrine de votre rigueur, de votre méthode, et de votre leadership.*  
-— **Eddy AZEBAZE**
+- **Eddy AZEBAZE**
