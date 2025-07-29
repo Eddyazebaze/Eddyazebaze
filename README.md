@@ -9,122 +9,100 @@
 
 Je suis **Eddy AZEBAZE**, **Expert en gestion de projets IT**, **formateur certifié PMP® (PMI ATP)**.
 
-Depuis plus de **10 ans**, j’accompagne des 𝐃𝐒𝐈, 𝐏𝐌𝐎 𝐞𝐭 𝐝𝐢𝐫𝐢𝐠𝐞𝐚𝐧𝐭𝐬 pour 𝐫𝐞𝐩𝐫𝐞𝐧𝐝𝐫𝐞 𝐥𝐞 𝐜𝐨𝐧𝐭𝐫𝐨̂𝐥𝐞 𝐬𝐮𝐫 𝐥𝐞𝐮𝐫𝐬 𝐩𝐫𝐨𝐣𝐞𝐭𝐬 𝐈𝐓 𝐚̀ 𝐟𝐨𝐫𝐭𝐬 𝐞𝐧𝐣𝐞𝐮𝐱, dans des environnements IT et réglementaires exigeants (AI Act, RGPD, NIS2, DORA etc.).  
+Depuis plus de **10 ans**, j’accompagne des DSI, PMO et dirigeants pour **reprendre le contrôle sur leurs projets IT à forts enjeux**, dans des environnements IT et réglementaires exigeants (AI Act, RGPD, NIS2, DORA...).
 
-𝐌𝐚 𝐦𝐢𝐬𝐬𝐢𝐨𝐧 ?
+🎯 Ma mission : Être le **co-pilote stratégique** de vos projets IT, avec une approche orientée **résultats, conformité et valeur métier**.  
+Exemples : **MSD, BNP Paribas, Accenture, CGI, SG ...**
 
-Être le 𝐯𝐞́𝐫𝐢𝐭𝐚𝐛𝐥𝐞 𝐜𝐨-𝐩𝐢𝐥𝐨𝐭𝐞 de votre projet IT pour en garantir la réussite, avec une 𝐚𝐩𝐩𝐫𝐨𝐜𝐡𝐞 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐟𝐨𝐜𝐮𝐬 𝐜𝐞𝐧𝐭𝐫𝐞́𝐞 sur la valeur.
-  Ex : **MSD, BNP Paribas, Accenture, CGI, SG ...**
-
-🎤 Intervenant en **écoles d’ingénieurs et écoles de commerce** (jury de mémoire, Pédagogie Gestion de programme, planification avancée et posture PMO).  
-
-🎯 Coordination nationale des projets **"Questions pour un PM 2025" & AI Speaker Tour (PMI France).**
+🎤 Intervenant régulier en **écoles d’ingénieurs & de commerce** (jury, Pédagogie: Gestion de programme, planification avancée, posture PMO).  
+📅 Coordinateur national **"Questions pour un PM 2025" & AI Speaker Tour (PMI France).**
 
 ---
 
-## 🧭 Ma méthode projet en 4 étapes
+## 🧭 Ma méthode projet (Diagnostic → Suivi)
 
-> Un projet à fort enjeu ne se livre pas à l’aveugle : il se pilote avec méthode.  
-Voici mon cadre éprouvé : clair, réplicable, orienté valeur.
+> Un projet à fort enjeu ne se livre pas à l’aveugle : il se pilote avec méthode. Voici mon cadre éprouvé, orienté **impact concret**.
 
-| Étape                     | Objectif clé                                                              | Exemples concrets / Livrables                       |
-|--------------------------|---------------------------------------------------------------------------|----------------------------------------------------|
-| **1. Diagnostic**         | Comprendre le contexte, identifier les risques & opportunités             | Audit IT, analyse de conformité, cartographie IA   |
-| **2. Cadrage**            | Aligner les parties prenantes sur la valeur à délivrer                   | Value Canvas, roadmap, backlog, RACI               |
-| **3. Delivery**           | Piloter l’exécution avec rigueur, outils adaptés et transparence continue | Outils no-code/low-code, alert flows, copilote IA  |
-| **4. Résultats & Suivi**  | Assurer l’impact, la conformité et la réutilisabilité du projet           | Scorecards, tableaux de bord, capitalisation GRC   |
+| Étape                     | Objectif                                                               | Exemples de livrables                              |
+|--------------------------|------------------------------------------------------------------------|----------------------------------------------------|
+| **1. Diagnostic**         | Identifier enjeux, contraintes, opportunités                          | Audit IT, analyse conformité, cartographie IA      |
+| **2. Cadrage**            | Aligner les parties prenantes sur une feuille de route claire         | Canvas de valeur, roadmap, RACI, backlog           |
+| **3. Delivery**           | Exécuter avec transparence, outils no-code, IA & automations          | Copilotage IA, alert flows, automatisations        |
+| **4. Résultats & Suivi**  | Consolider l’impact, assurer la conformité et capitaliser             | Scorecards, tableaux de bord, bilan GRC            |
 
 ---
 
-## 🛠️ Outils à impact stratégique
+## 🛠️ Mes outils de prédilection
 
-- **Gestion de projet & gouvernance** : Ms Project, Notion, Miro, GitHub Projects  
-- **Data & visualisation** : Power BI, Qlik Sense, Tableau  
-- **Automatisation & orchestrations** : Make, Zapier, N8N  
-- **Langages & structuration** : Python, SQL, Markdown ... 
-- **IA & Langchain** : OpenAI API, LangChain, Prompt engineering, Retrieval QA  
-- **Cybersécurité & conformité** : OWASP ZAP, outils d’audit, frameworks GRC  
-- **Plateformes & intégration** : GitHub, Streamlit, Botpress, Vercel ...
+- **Gestion de projet & gouvernance** : GitHub Projects, Notion, Miro, Ms Project  
+- **Data & Visualisation** : Power BI, Qlik Sense, Tableau, Dataiku   
+- **IA & structuration** : OpenAI API, LangChain, Prompt engineering  
+- **Cybersécurité & conformité** : OWASP ZAP, NIS2, GRC Tools  
+- **Automatisation** : Make.com, Zapier, N8N ...
+- **Langages / formats** : Python, SQL, DAX, Markdown, Html ...  
 
 ---
 
 ## 📌 Projets démonstrateurs
 
-> Ces projets sont concrets, documentés et déployés – ils reflètent ma capacité à penser et livrer des outils à impact pour les DSI, PMO, RSSI et directions métiers.
+> Des projets **simples, stratégiques, concrets**. Tous conçus, documentés et livrés par moi-même.
 
-| Projet                             | Description                                                          | Lien                                                   |
-|------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------|
-| **Assistant Virtuel Eddy AZEBAZE** | Chatbot IA : PMP®, IA, GRC, stratégie IT                             | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) · [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) |
-| **Analyse Dépenses Santé – BI**    | Tableaux de bord stratégiques sur les dépenses santé                 | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) · [Reporting](https://app.powerbi.com/links/...) |
-| **Audit Sécurité WordPress**       | Audit technique OWASP + recommandations concrètes                    | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/04-audit-securite-wordpress) · [Synthèse](https://cybersecurite50.wordpress.com) |
-| **Project Value Canvas**           | Canvas stratégique de cadrage de la valeur projet                    | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-project-value-canvas) · [Démo](https://project-value-canvas.vercel.app/) |
-| **AI Act Readiness Scorecard**     | Score d’auto-évaluation IA + plan d'action réglementaire             | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) · [Scorecard](https://ai-act-score.vercel.app) |
-| **AI Conformity Alert Flow**       | Système d'alerte automatisée pour risques IA (Make.com)              | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-ai-conformity-alert-flow) |
-
----
-
-🔗 Pour découvrir les détails de chaque projet, visitez les dossiers correspondants dans ce dépôt ou explorez les démos publiques ci-dessus.
+| Projet                          | Description                                                                 | Liens                                                                                          |
+|----------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Assistant Virtuel Eddy**       | Chatbot IA (PMP®, IA, GRC, stratégie IT)                                    | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) · [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) |
+| **Analyse Dépenses Santé – BI** | Tableaux de bord stratégiques santé (OMS & OCDE)                           | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) · [Reporting](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi/reporting) |
+| **Audit Sécurité WordPress**    | Audit OWASP ZAP + synthèse de sécurité d’un site WordPress                 | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/04-audit-securite-wordpress) · [Synthèse](https://github.com/Eddyazebaze/portfolio-projets/blob/main/04-audit-securite-wordpress/exports/security-summary.md) |
+| **Project Value Canvas**        | Canvas de cadrage valeur projet (décisionnel, Miro + démo web)             | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-project-value-canvas) · [Démo](https://project-value-canvas.vercel.app/) |
+| **AI Act Readiness Scorecard**  | Score IA + plan d’action réglementaire (AI Act)                            | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) · [Scorecard](https://ai-act-score.vercel.app) |
+| **AI Conformity Alert Flow**    | Alerte automatisée risques IA via Make.com                                 | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-ai-conformity-alert-flow) |
 
 ---
 
-## 🧩 Kits à venir (WIP)
+## 🧠 Résultats & crédibilité
 
-| Kit stratégique | Contenu | Statut |
-|------------------|---------|--------|
-| **`AI Kit – GRC & Conformité`** | Templates + checklists + canvas IA | 🔜 En cours |
-| **`Starter Kit Chef de Projet IT`** | RACI, backlog, feuille de route, plan de com' | 🔜 En cours |
-| **`Bootcamp PMP® – by Eddy`** | Programme intensif pour la réussite PMP® | 🔜 Finalisation en cours |
+- ✅ Tous les livrables sont **pensés, documentés et déployés** par mes soins.  
+- 🔄 Plusieurs projets ont été **testés auprès d’étudiants, mentorés, recruteurs ou pairs tech** avec retour positif.  
+- 🔗 Chaque asset est **réutilisable** dans vos propres projets (scorecards, flows, dashboards...).
 
 ---
 
-## ✍️ Articles stratégiques
+## 🧩 Kits à venir
 
-> Retrouvez mes publications sur Medium : **[@eddyazebaze](https://medium.com/@eddyazebaze)**
-
-- 🧠 **[Build vs Run : Réconcilier stratégie, gouvernance et impact dans les DSI modernes](https://medium.com/@eddyazebaze/build-vs-run-réconcilier-stratégie-gouvernance-et-impact-dans-les-dsi-modernes-9cb55740f9a4)**
-- 🔍 **[CIO – PMO – GRC : 3 rôles à réconcilier pour un impact réel](https://medium.com/@eddyazebaze/cio-pmo-grc-3-rôles-à-réconcilier-pour-un-impact-réel-e4d3b34a2a3b)**
-- 📊 **[What Do We Really Mean by “Value” in IT?](https://medium.com/@eddyazebaze/what-do-we-really-mean-by-value-in-it-321b7f04e4f4)**
-
----
-
-## 💬 FAQ stratégique (pour les profils tech, RH ou sceptiques)
-
-> Ce dépôt GitHub est **une vitrine stratégique** : peu de code ici, mais des démonstrateurs réels, assets documentés et outils à impact pour la prise de décision.
-
-**Pourquoi tant de sujets (PMP®, GRC, IA, cybersécurité) ?**  
-  → Parce que ces disciplines sont interconnectées dans les projets modernes. Mon approche les mobilise comme **leviers**, jamais en silo.
-
-**Où est le code ?**  
-  → Mon rôle est celui d’un **chef de projet augmenté** : je structure, j’oriente, je délivre. Les livrables visibles ici ont tous été construits, testés et mis en ligne dans une logique de valeur.
-
-**Est-ce réutilisable ?**  
-  → Oui : la plupart des assets sont reproductibles ou adaptables (scorecards, canvas, alert flows, tableaux de bord, prompts…).
+| Kit stratégique                  | Contenu (extrait)                               | Statut          |
+|----------------------------------|--------------------------------------------------|-----------------|
+| **AI Kit - GRC & Conformité**    | Checklists, prompts, matrices IA                | 🔜 En cours     |
+| **Starter Kit Chef de Projet IT**| RACI, Roadmap, Backlog, plan de com’            | 🔜 En cours     |
+| **Bootcamp PMP® by Eddy**        | Parcours intensif & pragmatique pour PMP®       | ✅ Finalisation |
 
 ---
 
-## 🧠 Ce que je crois
+## ✍️ Articles Medium
 
-> "On ne livre pas un projet.  
-> On construit un **actif stratégique** : durable, traçable et auditable."
+> Retrouvez mes réflexions stratégiques ici : **[@eddyazebaze](https://medium.com/@eddyazebaze)**
 
-🚨 *Une IA sans cadre ? Un procès en attente.*  
-📉 *Un projet sans gouvernance ? Une dette déguisée.*
-
----
-
-> ✨ *Un dépôt GitHub, c’est plus qu’un code.  
-C’est une vitrine de votre rigueur, de votre méthode, et de votre leadership.*  
+- 🧠 [Build vs Run : Réconcilier stratégie, gouvernance et impact dans les DSI modernes](https://medium.com/@eddyazebaze/build-vs-run-réconcilier-stratégie-gouvernance-et-impact-dans-les-dsi-modernes-9cb55740f9a4)  
+- 📊 [What Do We Really Mean by “Value” in IT?](https://medium.com/@eddyazebaze/what-do-we-really-mean-by-value-in-it-321b7f04e4f4)  
+- 🔍 [CIO – PMO – GRC : 3 rôles à réconcilier pour un impact réel](https://medium.com/@eddyazebaze/cio-pmo-grc-3-rôles-à-réconcilier-pour-un-impact-réel-e4d3b34a2a3b)
 
 ---
 
-## 📬 Contact  
+## 💬 FAQ stratégique
 
-**Eddy AZEBAZE** - 🛠️ **Votre Co-pilote pour garantir la réussite de vos projets IT à fort enjeu | Formateur certifié PMP® (PMI ATP) | Expert IA, GRC, Cyber & IT Strategy**  
+**Pourquoi si peu de code ?**  
+Je suis **chef de projet augmenté** : j’oriente, structure et délivre des assets exploitables. Ce dépôt est une **vitrine méthodologique**.
 
-📅 **Vous avez un projet ou un besoin stratégique ?** Prenons 30 minutes pour activer ensemble les bons leviers de valeur : [Réserver un appel de cadrage](https://calendly.com/eddy-azebaze-proton/30min)
-📧 [eddy.azebaze@proton.me](mailto:eddy.azebaze@proton.me?subject=Demande%20de%20contact&body=Bonjour%20Eddy%2C%0A%0AJe%20souhaite%20vous%20contacter%20concernant...)
-👤 [linkedin.com/in/eddy-azebaze-034a20226](https://www.linkedin.com/in/eddy-azebaze-034a20226)  
+**Peut-on tout réutiliser ?**  
+Oui, tous les assets sont pensés pour être adaptés ou reproduits dans votre contexte.
 
-> “On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable.”  
-> 
+**Quel est le fil rouge ?**  
+GRC • IA • Data & Insights • Cybersécurité • Stratégie IT **ne sont pas des silos**, ce sont des **leviers de gouvernance et de réussite**.
 
+---
+
+## 📬 Contact & appel stratégique
+
+📅 **Un projet à fort enjeu, un cadrage à lancer ?** Prenons 30 min ensemble : [Réserver un appel](https://calendly.com/eddy-azebaze-proton/30min)  
+📧 [eddy.azebaze@proton.me](mailto:eddy.azebaze@proton.me)  
+👤 [linkedin.com/in/eddy-azebaze-034a20226](https://www.linkedin.com/in/eddy-azebaze-034a20226)
+
+> 🧠 “On ne livre pas un projet. On construit un **actif stratégique** : durable, traçable, auditable.”  
