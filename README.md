@@ -54,12 +54,12 @@ Voici mon cadre éprouvé : clair, réplicable, orienté valeur.
 
 | Projet | Description | Lien |
 |--------|-------------|------|
-| **`Assistant Virtuel Eddy AZEBAZE`** | Chatbot IA : PMP®, IA, GRC, stratégie IT | [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) · [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) |
-| **`Analyse Dépenses Santé - BI`** | Tableaux de bord stratégiques sur les dépenses santé | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) |
-| **`Audit Sécurité WordPress`** | Audit technique OWASP + recommandations concrètes | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/04-audit-securite-wordpress) |
-| **`Project Value Canvas`** | Canvas stratégique de cadrage de la valeur projet | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-project-value-canvas) |
-| **`AI Act Readiness Scorecard`** | Score d’auto-évaluation IA + plan d'action réglementaire | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) |
-| **`AI Conformity Alert Flow`** | Système d'alerte automatisée pour risques IA (Make.com) | [Voir](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-ai-conformity-alert-flow) |
+| **Assistant Virtuel Eddy AZEBAZE** | Chatbot IA : PMP®, IA, GRC, stratégie IT | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) · [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) |
+| **Analyse Dépenses Santé – BI** | Tableaux de bord stratégiques sur les dépenses santé | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) · [Reporting](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi/reporting) |
+| **Audit Sécurité WordPress** | Audit technique OWASP + recommandations concrètes | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/04-audit-securite-wordpress) · [Synthèse](https://github.com/Eddyazebaze/portfolio-projets/blob/main/04-audit-securite-wordpress/exports/security-summary.md) |
+| **Project Value Canvas** | Canvas stratégique de cadrage de la valeur projet | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-project-value-canvas) |
+| **AI Act Readiness Scorecard** | Score d’auto-évaluation IA + plan d'action réglementaire | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) |
+| **AI Conformity Alert Flow** | Système d'alerte automatisée pour risques IA (Make.com) | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-ai-conformity-alert-flow) |
 
 ---
 
