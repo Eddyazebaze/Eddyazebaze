@@ -14,7 +14,7 @@ Depuis plus de **10 ans**, j’accompagne des DSI, PMO et dirigeants pour **repr
 🎯 Ma mission : Être le **co-pilote stratégique** de vos projets IT, avec une approche orientée **résultats, conformité et valeur métier**.  
 Exemples : **MSD, BNP Paribas, Accenture, CGI, SG ...**
 
-🎤 Intervenant régulier en **écoles d’ingénieurs & de commerce** (jury, Pédagogie: Gestion de programme, planification avancée, posture PMO).  
+🎤 Intervenant régulier en **écoles d’ingénieurs & de commerce** ( **Pédagogie:** Gestion de programme/projet, planification avancée, posture PMO, **Jury de mémoires Master**).  
 📅 Coordinateur national **"Questions pour un PM 2025" & AI Speaker Tour (PMI France).**
 
 ---
@@ -56,7 +56,7 @@ Exemples : **MSD, BNP Paribas, Accenture, CGI, SG ...**
 | **AI Act Readiness Scorecard**  | Score IA + plan d’action réglementaire (AI Act)                            | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) · [Scorecard](https://ai-act-score.vercel.app) |
 | **AI Conformity Alert Flow**    | Alerte automatisée risques IA via Make.com                                 | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-ai-conformity-alert-flow) |
 
----
+--- 
 
 ## 🧠 Résultats & crédibilité
 
@@ -70,9 +70,9 @@ Exemples : **MSD, BNP Paribas, Accenture, CGI, SG ...**
 
 | Kit stratégique                  | Contenu (extrait)                               | Statut          |
 |----------------------------------|--------------------------------------------------|-----------------|
-| **AI Kit - GRC & Conformité**    | Checklists, prompts, matrices IA                | 🔜 En cours     |
-| **Starter Kit Chef de Projet IT**| RACI, Roadmap, Backlog, plan de com’            | 🔜 En cours     |
-| **Bootcamp PMP® by Eddy**        | Parcours intensif & pragmatique pour PMP®       | ✅ Finalisation |
+| **AI Kit - GRC & Conformité**    | Checklists, prompts, matrices IA                | 🔜 Finalisation en cours |
+| **Starter Kit Chef de Projet IT**| RACI, Roadmap, Backlog, plan de com’            | 🔜 Finalisation en cours |
+| **Bootcamp PMP® by Eddy**        | Parcours intensif & pragmatique pour PMP®       | 🔜 Finalisation en cours |
 
 ---
 
