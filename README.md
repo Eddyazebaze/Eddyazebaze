@@ -11,7 +11,7 @@ Je suis **Eddy AZEBAZE**, **Expert en gestion de projets IT**, **formateur certi
 
 Depuis plus de **10 ans**, j’accompagne des DSI, PMO et dirigeants pour **reprendre le contrôle sur leurs projets IT à forts enjeux**, dans des environnements IT et réglementaires exigeants (AI Act, RGPD, NIS2, DORA...).
 
-🎯 Ma mission : Être le **co-pilote stratégique** de vos projets IT, avec une approche orientée **résultats, conformité et valeur métier**.  
+🎯 Ma mission : Être le **Co-pilote stratégique** de vos projets IT, avec une approche orientée **résultats, conformité et valeur métier**.  
 Exemples : **MSD, BNP Paribas, Accenture, CGI, SG ...**
 
 🎤 Intervenant régulier en **écoles d’ingénieurs & de commerce** ( **Pédagogie:** Gestion de programme/projet, planification avancée, posture PMO, **Jury de mémoires Master**).  
@@ -19,7 +19,7 @@ Exemples : **MSD, BNP Paribas, Accenture, CGI, SG ...**
 
 ---
 
-## 🧭 Ma méthode projet (Diagnostic → Suivi)
+## 🧭 Ma méthode projet en 4étapes (Diagnostic → Suivi)
 
 > Un projet à fort enjeu ne se livre pas à l’aveugle : il se pilote avec méthode. Voici mon cadre éprouvé, orienté **impact concret**.
 
@@ -86,16 +86,39 @@ Exemples : **MSD, BNP Paribas, Accenture, CGI, SG ...**
 
 ---
 
+## 🎯 Ce que vous trouverez ici
+
+| **Axe**               | **Valeur ajoutée perçue**                                      |
+|-------------------|------------------------------------------------------------|
+| **Leadership**        | Vision claire, posture de co-pilote                        |
+| **Crédibilité**       | PMP®, écoles, PMI France, missions terrain, entreprises Fortune 500 |
+| **Expertise 360°**    | GRC · IA · Data & Insights · Cybersécurité                 |
+| **Méthodologie**      | Approche structurée 4 temps (Diagnostic, etc.)             |
+| **Livrabilité**       | Projets réels, démos publiques, outputs                    |
+| **Communication UX**  | Navigation fluide · Call-to-action · Design clair          |
+| **Éthique & gouvernance** | Respect des cadres réglementaires et durabilité     |
+
+---
+
 ## 💬 FAQ stratégique
 
-**Pourquoi si peu de code ?**  
-Je suis **chef de projet augmenté** : j’oriente, structure et délivre des assets exploitables. Ce dépôt est une **vitrine méthodologique**.
+**🧑‍💻 "Tu es développeur ?"**  
+→ Non. Je suis **chef de projet stratégique augmenté** : je structure, je pilote, je délivre. Mes livrables sont pensés pour les DSI, les métiers et la conformité — pas pour la ligne de code en elle-même.
 
-**Peut-on tout réutiliser ?**  
-Oui, tous les assets sont pensés pour être adaptés ou reproduits dans votre contexte.
+**🧩 "Pourquoi si peu de code ?"**  
+→ Parce que le code n’est qu’un **composant** parmi d’autres. Ce dépôt met en avant des **livrables stratégiques et métiers** : scorecards, dashboards, flows, prompts ... Ce sont des démonstrateurs concrets orientés **valeur**.
 
-**Quel est le fil rouge ?**  
-GRC • IA • Data & Insights • Cybersécurité • Stratégie IT **ne sont pas des silos**, ce sont des **leviers de gouvernance et de réussite**.
+**🔍 "Où est le code ?"**  
+→ Là où il est **nécessaire et pertinent**. En tant qu’expert IT, je conçois et pilote des solutions robustes, structurées, souvent intégrées à des environnements réglementaires ou critiques. Je mobilise les bons outils (Python, SQL, orchestrateurs, frameworks, automatisations…) et je travaille en collaboration avec des développeurs si besoin. L’objectif reste toujours : **livrer un actif fonctionnel, fiable et traçable**.
+
+**🧪 "Tu les as faits toi-même ?"**  
+→ Oui. **Chaque projet a été conçu, réalisé, structuré et documenté par moi-même**, dans une logique de rigueur professionnelle. Les livrables sont **testés, validés par des pairs, mentorés ou experts IT**.
+
+**♻️ "C’est réutilisable ?"**  
+→ Absolument. Les livrables sont pensés pour être **reproductibles, adaptables et activables** selon le contexte métier ou réglementaire.
+
+**🧠 "Quel est le fil rouge ?"**  
+→ **GRC, IA, Data, Cybersécurité et Gouvernance IT** ne sont pas des silos. Ce sont des **leviers de pilotage stratégique** que je mobilise pour garantir **valeur, conformité et impact durable**.
 
 ---
 
