@@ -50,16 +50,20 @@ Voici mon cadre éprouvé : clair, réplicable, orienté valeur.
 
 ## 📌 Projets démonstrateurs
 
-> Ces projets sont concrets, documentés et déployés - ils reflètent ma capacité à penser et livrer des outils à impact pour les DSI, PMO, RSSI et directions métier.
+> Ces projets sont concrets, documentés et déployés – ils reflètent ma capacité à penser et livrer des outils à impact pour les DSI, PMO, RSSI et directions métiers.
 
-| Projet | Description | Lien |
-|--------|-------------|------|
-| **Assistant Virtuel Eddy AZEBAZE** | Chatbot IA : PMP®, IA, GRC, stratégie IT | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) · [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) |
-| **Analyse Dépenses Santé – BI** | Tableaux de bord stratégiques sur les dépenses santé | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) · [Reporting](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi/reporting) |
-| **Audit Sécurité WordPress** | Audit technique OWASP + recommandations concrètes | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/04-audit-securite-wordpress) · [Synthèse](https://github.com/Eddyazebaze/portfolio-projets/blob/main/04-audit-securite-wordpress/exports/security-summary.md) |
-| **Project Value Canvas** | Canvas stratégique de cadrage de la valeur projet | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-project-value-canvas) |
-| **AI Act Readiness Scorecard** | Score d’auto-évaluation IA + plan d'action réglementaire | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) |
-| **AI Conformity Alert Flow** | Système d'alerte automatisée pour risques IA (Make.com) | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-ai-conformity-alert-flow) |
+| Projet                             | Description                                                          | Lien                                                   |
+|------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------|
+| **Assistant Virtuel Eddy AZEBAZE** | Chatbot IA : PMP®, IA, GRC, stratégie IT                             | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) · [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) |
+| **Analyse Dépenses Santé – BI**    | Tableaux de bord stratégiques sur les dépenses santé                 | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) · [Reporting](https://app.powerbi.com/links/...) |
+| **Audit Sécurité WordPress**       | Audit technique OWASP + recommandations concrètes                    | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/04-audit-securite-wordpress) · [Synthèse](https://cybersecurite50.wordpress.com) |
+| **Project Value Canvas**           | Canvas stratégique de cadrage de la valeur projet                    | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-project-value-canvas) · [Démo](https://project-value-canvas.vercel.app/) |
+| **AI Act Readiness Scorecard**     | Score d’auto-évaluation IA + plan d'action réglementaire             | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) · [Scorecard](https://ai-act-score.vercel.app) |
+| **AI Conformity Alert Flow**       | Système d'alerte automatisée pour risques IA (Make.com)              | [GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-ai-conformity-alert-flow) |
+
+---
+
+🔗 Pour découvrir les détails de chaque projet, visitez les dossiers correspondants dans ce dépôt ou explorez les démos publiques ci-dessus.
 
 ---
 
