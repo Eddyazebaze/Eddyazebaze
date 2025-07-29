@@ -114,8 +114,17 @@ Voici mon cadre éprouvé : clair, réplicable, orienté valeur.
 
 > ✨ *Un dépôt GitHub, c’est plus qu’un code.  
 C’est une vitrine de votre rigueur, de votre méthode, et de votre leadership.*  
-- **Eddy AZEBAZE**
-  - 📅 **Vous avez un projet ou un besoin stratégique ?** Prenons 30 minutes pour activer ensemble les bons leviers de valeur : [Réserver un appel de cadrage](https://calendly.com/eddy-azebaze-proton/30min)
-  - 📧 Email pro : eddy.azebaze[at]proton.me  
-  - 👤 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-034a20226)
+
+---
+
+## 📬 Contact  
+
+**Eddy AZEBAZE** - 🛠️ **Votre Co-pilote pour garantir la réussite de vos projets IT à fort enjeu | Formateur certifié PMP® (PMI ATP) | Expert IA, GRC, Cyber & IT Strategy**  
+
+📅 **Vous avez un projet ou un besoin stratégique ?** Prenons 30 minutes pour activer ensemble les bons leviers de valeur : [Réserver un appel de cadrage](https://calendly.com/eddy-azebaze-proton/30min)
+📧 [eddy.azebaze@proton.me](mailto:eddy.azebaze@proton.me?subject=Demande%20de%20contact&body=Bonjour%20Eddy%2C%0A%0AJe%20souhaite%20vous%20contacter%20concernant...)
+👤 [linkedin.com/in/eddy-azebaze-034a20226](https://www.linkedin.com/in/eddy-azebaze-034a20226)  
+
+> “On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable.”  
+> 
 
