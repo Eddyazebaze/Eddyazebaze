@@ -34,12 +34,13 @@ Exemples : **MSD, BNP Paribas, Accenture, CGI, SG ...**
 
 ## 🛠️ Mes outils de prédilection
 
-- **Gestion de projet & gouvernance** : GitHub Projects, Notion, Miro, Ms Project  
-- **Data & Visualisation** : Power BI, Qlik Sense, Tableau, Dataiku   
-- **IA & structuration** : OpenAI API, LangChain, Prompt engineering  
-- **Cybersécurité & conformité** : OWASP ZAP, NIS2, GRC Tools  
-- **Automatisation** : Make.com, Zapier, N8N ...
-- **Langages / formats** : Python, SQL, DAX, Markdown, Html ...  
+- **Gestion de projet & gouvernance** : GitHub Projects, Notion, Miro, Ms Project, ClickUp ...
+- **Data & Visualisation** : Power BI, Qlik Sense, Tableau Software, Dataiku, Google Sheets, CSV structuré ...
+- **IA & structuration** : OpenAI API, Claude AI, Qwen AI, Prompt engineering, Context engineering ...
+- **Cybersécurité & conformité** : OWASP ZAP, Mozilla Observatory, Security Headers, GRC Tools (Aravo, Archer, OneTrust ...)  
+- **Automatisation** : Make.com, Zapier, N8N, Databricks, Airflow ...
+- **Langages / formats** : Python, SQL, DAX, Markdown, Html,  Python, Pandas, Power Query ...
+-  **AI Agent Framework** : Botpress, LangChain, Microsoft AutoGen, LangFlow ...
 
 ---
 
@@ -50,11 +51,11 @@ Exemples : **MSD, BNP Paribas, Accenture, CGI, SG ...**
 | Projet                          | Description                                                                 | Liens                                                                                          |
 |----------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | **Assistant Virtuel Eddy**       | Chatbot IA (PMP®, IA, GRC, stratégie IT)                                    | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) · [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) |
-| **Analyse Dépenses Santé – BI** | Tableaux de bord stratégiques santé (OMS & OCDE)                           | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) · [Reporting](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi/reporting) |
+| **Analyse Dépenses Santé - BI** | Tableaux de bord stratégiques santé (OMS & OCDE)                           | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) · [Reporting](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi/reporting) |
 | **Audit Sécurité WordPress**    | Audit OWASP ZAP + synthèse de sécurité d’un site WordPress                 | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/04-audit-securite-wordpress) · [Synthèse](https://github.com/Eddyazebaze/portfolio-projets/blob/main/04-audit-securite-wordpress/exports/security-summary.md) |
-| **Project Value Canvas**        | Canvas de cadrage valeur projet (décisionnel, Miro + démo web)             | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-project-value-canvas) · [Démo](https://project-value-canvas.vercel.app/) |
+| **Project Value Canvas**        | Canvas de cadrage valeur projet (décisionnel + démo application native créee)             | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-project-value-canvas) · [Démo](https://project-value-canvas.vercel.app/) |
 | **AI Act Readiness Scorecard**  | Score IA + plan d’action réglementaire (AI Act)                            | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) · [Scorecard](https://ai-act-score.vercel.app) |
-| **AI Conformity Alert Flow**    | Alerte automatisée risques IA via Make.com                                 | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-ai-conformity-alert-flow) |
+| **Automated Compliance & Incident Alert Flow**    | Alerte réglementaire automatisée via **Make.com**                                 | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-ai-conformity-alert-flow) |
 
 --- 
 
