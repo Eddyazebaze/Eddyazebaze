@@ -34,13 +34,13 @@ Exemples : **MSD, BNP Paribas, Accenture, CGI, SG ...**
 
 ## 🛠️ Mes outils de prédilection
 
-- **Gestion de projet & gouvernance** : GitHub Projects, Notion, Miro, Ms Project, ClickUp ...
-- **Data & Visualisation** : Power BI, Qlik Sense, Tableau Software, Dataiku, Google Sheets, CSV structuré ...
-- **IA & structuration** : OpenAI API, Claude AI, Qwen AI, Prompt engineering, Context engineering ...
+- **Gestion de projet & gouvernance** : GitHub Projects, Notion, Miro, Ms Project, ClickUp 
+- **Data & Visualisation** : Power BI, Qlik Sense, Tableau Software, Dataiku, Google Sheets, CSV structuré 
+- **IA & structuration** : OpenAI API, Claude AI, Qwen AI, Prompt engineering, Context engineering 
 - **Cybersécurité & conformité** : OWASP ZAP, Mozilla Observatory, Security Headers, GRC Tools (Aravo, Archer, OneTrust ...)  
-- **Automatisation** : Make.com, Zapier, N8N, Databricks, Airflow ...
-- **Langages / formats** : Python, SQL, DAX, Markdown, Html,  Python, Pandas, Power Query ...
--  **AI Agent Framework** : Botpress, LangChain, Microsoft AutoGen, LangFlow ...
+- **Automatisation** : Make.com, Zapier, N8N, Databricks, Airflow 
+- **Langages / formats** : Python, SQL, DAX, Markdown, Html,  Python, Pandas, Power Query 
+-  **AI Agent Framework** : Botpress, LangChain, Microsoft AutoGen, LangFlow 
 
 ---
 
