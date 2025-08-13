@@ -37,16 +37,61 @@
 
 ---
 
-## 🚀 Stack (sélection)
+## 🚀 Stack
 
+## 🚀 Stack (sélection)
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-yellow?logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-Advanced-orange?logo=tableau)
-![OpenAI](https://img.shields.io/badge/OpenAI-API%20User-black?logo=openai)
+![Open AI API](https://img.shields.io/badge/Open%20AI%20API-User-black?logo=openai)
 ![Botpress](https://img.shields.io/badge/Botpress-Chatbots-purple)
 ![Make.com](https://img.shields.io/badge/Make.com-Automation-blue)
-![n8n](https://img.shields.io/badge/n8n-Automation-green)
+![n8n](https://img.shields.io/badge/n8n-Automation-green?logo=n8n)
 ![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-PMO-black?logo=github)
+
+<details>
+  <summary>🧰 Voir toute la stack par thème (cliquer pour déplier)</summary>
+
+### 🧭 Gouvernance & Delivery
+![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-PMO-black?logo=github)
+![Notion](https://img.shields.io/badge/Notion-Workspace-black?logo=notion)
+![Miro](https://img.shields.io/badge/Miro-Design%20Thinking-yellow?logo=miro)
+![MS Project](https://img.shields.io/badge/MS%20Project-Planning-brightgreen)
+![ClickUp](https://img.shields.io/badge/ClickUp-Portfolio%20Mgmt-7b68ee)
+
+### 📊 Data & Insights
+![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-yellow?logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-Advanced-orange?logo=tableau)
+![Qlik Sense](https://img.shields.io/badge/Qlik-Sense-6aa84f?logo=qlik)
+![Dataiku](https://img.shields.io/badge/Dataiku-Flow-0f8b8d?logo=dataiku)
+![Python](https://img.shields.io/badge/Python-Pandas-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Queries-336791)
+![DAX](https://img.shields.io/badge/DAX-Measures-2b579a)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Frames-150458?logo=pandas)
+
+### 🤖 IA & Agents
+![OpenAI](https://img.shields.io/badge/OpenAI-API%20User-black?logo=openai)
+![Claude](https://img.shields.io/badge/Anthropic-Claude-121212)
+![Qwen](https://img.shields.io/badge/Alibaba%20Cloud-Qwen-ff3500)
+![Botpress](https://img.shields.io/badge/Botpress-Chatbots-purple)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-00b894)
+![LangFlow](https://img.shields.io/badge/LangFlow-Orchestration-6c5ce7)
+
+### 🔒 Cybersécurité & Conformité
+![OWASP ZAP](https://img.shields.io/badge/OWASP-ZAP-000000?logo=owasp)
+![Security Headers](https://img.shields.io/badge/Security-Headers-333333)
+![Archer](https://img.shields.io/badge/RSA-Archer-gray)
+![OneTrust](https://img.shields.io/badge/OneTrust-GRC-3cb371)
+
+### ⚙️ Automatisation & Orchestration
+![Make.com](https://img.shields.io/badge/Make.com-Automation-blue)
+![Zapier](https://img.shields.io/badge/Zapier-Automation-orange?logo=zapier)
+![n8n](https://img.shields.io/badge/n8n-Workflows-green?logo=n8n)
+![Databricks](https://img.shields.io/badge/Databricks-Workflows-ee3b2d?logo=databricks)
+![Apache Airflow](https://img.shields.io/badge/Apache-Airflow-017CEE?logo=apacheairflow)
+
+</details>
+
 
 ---
 
