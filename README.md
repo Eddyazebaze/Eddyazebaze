@@ -90,11 +90,11 @@ J’accompagne DSI, PMO, dirigeants et équipes pour **reprendre le contrôle** 
 
 ## 🛠️ Outils
 
-**Gouvernance IT** : GitHub Projects, Notion, Miro, **MS Project**, ClickUp  
-**Data/BI** : Power BI, Tableau, Qlik, Dataiku, Python, SQL, DAX, Pandas  
-**IA & Agents** : OpenAI, Claude, Qwen, Botpress, LangChain, LangFlow  
-**Cybersécurité** : OWASP ZAP, Security Headers, Aravo, Archer, OneTrust  
-**Automatisation** : Make.com, Zapier, n8n, Databricks, Airflow
+- **Gouvernance IT** : GitHub Projects, Notion, Miro, **MS Project**, ClickUp  
+- **Data/BI** : Power BI, Tableau, Qlik, Dataiku, Python, SQL, DAX, Pandas  
+- **IA & Agents** : OpenAI, Claude, Qwen, Botpress, LangChain, LangFlow  
+- **Cybersécurité** : OWASP ZAP, Security Headers, Aravo, Archer, OneTrust  
+- **Automatisation** : Make.com, Zapier, n8n, Databricks, Airflow
 
 ---
 
@@ -105,7 +105,7 @@ J’accompagne DSI, PMO, dirigeants et équipes pour **reprendre le contrôle** 
 
 - **AI Kit - GRC & Conformité** : checklists IA, prompts, matrices, outils d’évaluation réglementaire  
 - **Starter Kit Chef de Projet IT** : RACI, roadmap, backlog, templates de pilotage, plan de com’  
-- **Bootcamp PMP® by Eddy** : parcours intensif, guides & outils pour réussir la PMP®
+- **Bootcamp PMP® by Eddy** : parcours intensif, guides & outils pour réussir la certification PMP®
 
 ---
 
@@ -129,12 +129,12 @@ J’accompagne DSI, PMO, dirigeants et équipes pour **reprendre le contrôle** 
 
 | Projet | Description | Impact| Pour qui | Livrables & effets | Repo | Démo / Lien |
 |---|---|---|---|---|---|---|
-| **Assistant Virtuel Eddy (Botpress)** | Chatbot IA **offline** entraîné sur votre base interne : répond à la FAQ, propose un plan d’action et oriente vers un **RDV 30 min**.<br>Spécialisé PMP®/GRC/IA/Data/Cyber, avec triage et handover humain. | Transforme des questions diffuses en **réponses fiables + prochain pas**, sans hallucinations. | DSI, PMO, équipes support, Comex | FAQ cadrée • **Triage premium** • Capture lead 60s • **Handover humain** clair | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) | [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) |
+| **Assistant Virtuel Eddy (Botpress)** | Chatbot IA **offline** entraîné sur base de données interne : répond à la FAQ, propose un plan d’action et oriente vers un **RDV 30 min**.<br>Spécialiste PMP®/GRC/IA/Data/Cyber, avec triage et handover humain. | Transforme des questions diffuses en **réponses fiables + prochain pas**, sans hallucinations. | DSI, PMO, équipes support, Comex | FAQ cadrée • **Triage premium** • Capture lead 60s • **Handover humain** clair | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) | [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) |
 | **AI Act Readiness Scorecard** | Outil d’**évaluation de maturité** AI Act : scoring, écarts et **plan d’actions** priorisé.<br>Artefacts prêts audit (DPIA, journaux, notices). | Passe du flou à un **score de conformité** et une **roadmap** exploitable. | DSI, CISO, responsables IA, juristes IT | Écarts identifiés • **Artefacts prêts audit** • Calendrier d’actions | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) | [Scorecard](https://ai-act-score.vercel.app) |
 | **Compliance & Incident Alert Flow (Make.com)** | **Workflow d’alerte** conformité/sécurité : détection, notification, journalisation et **escalade** normalisée.<br>Intégrations Slack/Sheets ; réduction MTTD/MTTR. | **Réduit MTTD/MTTR** via alertes traçables et playbook d’escalade. | RSSI, DPO, Ops, PMO | Scénarios prêts (Slack/Sheets) • **Journalisation** • KPIs d’alerte | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-automated-compliance-incident-alert-flow) | [Export scénario](https://github.com/Eddyazebaze/portfolio-projets/blob/main/03-automated-compliance-incident-alert-flow/scenarios/make-scenario.json.json) |
-| **Project Value Canvas** | **Canvas 1-page** + démo web pour cadrer **valeur/risques/dépendances** et décider **lancer/stopper/arbitrer**.<br>Narratif “board-ready”. | **Décider vite en 1 page** avec un cadrage exécutif lisible. | Sponsors, PMO, Comex/DSI | Canvas rempli • **Critères d’arbitrage** • Narratif **board-ready** | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-project-value-canvas) | [Démo](https://project-value-canvas.vercel.app/) |
+| **Project Value Canvas** | **Canvas 1-page** + démo web pour cadrer **valeur/risques/dépendances** et décider **lancer/stopper/arbitrer** un projet.<br>Narratif “board-ready”. | **Décider vite en 1 page** avec un cadrage exécutif lisible. | Sponsors, PMO, Comex/DSI | Canvas rempli • **Critères d’arbitrage** • Narratif **board-ready** | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-project-value-canvas) | [Démo](https://project-value-canvas.vercel.app/) |
 | **Audit Sécurité WordPress** | Audit technique **OWASP ZAP** : vulnérabilités, configuration, correctifs priorisés.<br>Guide “before/after” pour passage à l’action. | Met au jour les **vulnérabilités** et délivre des **quick wins** utiles. | Com/Marketing/IT (site exposé) | Rapport OWASP ZAP • **Remédiations priorisées** • Guide “before/after” | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/04-audit-securite-wordpress) | [Synthèse](https://github.com/Eddyazebaze/portfolio-projets/blob/main/04-audit-securite-wordpress/exports/security-summary.md) |
-| **Analyse Dépenses Santé — BI** | Dashboard BI croisant **OMS/OCDE** : KPIs, tendances, benchmarks et **scénarios d’arbitrage** budgétaire.<br>Storytelling pour comité. | Convertit des données OMS/OCDE en **décisions budgétaires** et **scénarios**. | Directions santé/finance, politiques publiques | KPIs clairs • Tendances • **Reco actionnables** • Narratif comité | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) | [Reporting](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi/reporting) |
+| **Analyse Dépenses Santé - BI** | Dashboard BI croisant **OMS/OCDE** : KPIs, tendances, benchmarks et **scénarios d’arbitrage** budgétaire.<br>Storytelling pour comité. | Convertit des données OMS/OCDE en **décisions budgétaires** et **scénarios**. | Directions santé/finance, politiques publiques | KPIs clairs • Tendances • **Reco actionnables** • Narratif comité | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) | [Reporting](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi/reporting) |
 
 ---
 
@@ -167,11 +167,11 @@ Livrables pensés, documentés et déployés par mes soins (validés et testés)
 
 ## 🧩 Glossaire express
 
-**GRC** : Gouvernance, Risques, Conformité  
-**AI Act/NIS2/RGPD** : réglementation IA, cybersécurité, données personnelles 
-**Runbook** : guide d’exploitation / mode opératoire  
-**KPI/OKR** : indicateurs de performance / objectifs mesurables
-**Delivery** : exécution
+- **GRC** : Gouvernance, Risques, Conformité  
+- **AI Act/NIS2/RGPD** : réglementation IA, cybersécurité, données personnelles 
+- **Runbook** : guide d’exploitation / mode opératoire  
+- **KPI/OKR** : indicateurs de performance / objectifs mesurables
+- **Delivery** : exécution
 
 ---
 
@@ -183,7 +183,10 @@ Accès au moindre privilège · chiffrement · journalisation· conformité **RG
 
 ## ⚡ Plan 30/60/90 & mesure
 
-**J+30** : diagnostic, quick wins, gouvernance stabilisée · **J+60** : exécution rythmée, KPI visibles, backlog priorisé  · **J+90** : transferts, runbook, dashboards, amélioration continue · **Mesure** : outcomes, ROI, satisfaction, conformité (auditabilité)
+- **J+30** : diagnostic, quick wins, gouvernance stabilisée  
+- **J+60** : exécution rythmée, KPI visibles, backlog priorisé  
+- **J+90** : transferts, runbook, dashboards, amélioration continue  
+- **Mesure** : outcomes, ROI, satisfaction, conformité (auditabilité)
 
 ---
 
@@ -192,10 +195,12 @@ Accès au moindre privilège · chiffrement · journalisation· conformité **RG
 Certaines demandes sortent du cadre de cette vitrine, ou méritent un traitement sur-mesure. Pour maximiser valeur & impact :  
 
 - Reformulez votre question en **une phrase**    
-- Parcourez la **FAQ interactive**  
+- Parcourez la **[la FAQ interactive](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json)**
 - 📅 **[Prendre RDV 30 min](https://calendly.com/eddy-azebaze-proton/30min)**  
 
 📧 **[eddy.azebaze@proton.me](mailto:eddy.azebaze@proton.me)** 
+
+> 🧠 “On ne livre pas un projet. On construit un **actif stratégique** : durable, traçable, auditable.”
 
 ---
 
