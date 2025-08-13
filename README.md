@@ -176,7 +176,7 @@ J’accompagne DSI, PMO, dirigeants et équipes pour **reprendre le contrôle** 
 > B., Data Analyst (Mentoring Club)
 
 > *“J’ai testé le **AI Act Readiness Scorecard** conçu par Eddy. Démarche rigoureuse et pédagogique : diagnostic, plan d’action, documentation — vraie valeur ajoutée pour DSI confrontés à la conformité IA. Traçabilité et auditabilité exemplaires.”*  
-> **Malika Mir**, DSI — [mirmaliki](https://github.com/mirmaliki)
+> **Malika Mir**, DSI - [mirmaliki](https://github.com/mirmaliki)
 
 > *“Projet de conformité bancaire à la Société Générale : rigueur méthodologique, clarification des exigences, coordination IT-métier. Livrables structurés, adoption rapide. Une vraie valeur ajoutée.”*  
 > **Yannick Ouvrieu**, Directeur de projet IT
