@@ -19,9 +19,21 @@
 
 ## 🏅 Certifications & Accréditations
 
-![PMP®](https://img.shields.io/badge/PMP%C2%AE-Certified-blue?logo=pmiprojectmanagement)
-![PMI ATP](https://img.shields.io/badge/PMI-ATP%20Trainer-brightgreen?logo=projectmanagement)
-![ITIL4](https://img.shields.io/badge/ITIL%C2%AE%204-Certified-purple?logo=itil)  
+<details>
+  <summary>🎖️ Voir mes certifications (Credly)</summary>
+
+[![PMI ATP Trainer](https://img.shields.io/badge/PMI-ATP%20Trainer-brightgreen?logo=pmiprojectmanagement)](https://www.credly.com/badges/3797a0f9-e5de-4ad9-acf0-d463596983ca)
+[![PMP®](https://img.shields.io/badge/PMP%C2%AE-Certified-blue?logo=pmiprojectmanagement)](https://www.credly.com/badges/80aef1a1-8173-45a6-b508-0892da3a8ef9)
+[![Inclusive & Ethical Leadership](https://img.shields.io/badge/Inclusive%20%26%20Ethical%20Leadership-Certificate-blueviolet)](https://www.credly.com/badges/1f347e3c-02ae-4065-a611-be44c666b2b6)
+[![IBM Enterprise Design Thinking Practitioner](https://img.shields.io/badge/IBM-Enterprise%20Design%20Thinking%20Practitioner-0F62FE?logo=ibm&logoColor=white)](https://www.credly.com/badges/a845fad5-e86e-46cc-a275-725a3cb987b7)
+[![Strategic Cybersecurity Management](https://img.shields.io/badge/Strategic%20Cybersecurity-Management-important)](https://www.credly.com/badges/fc330e54-b250-45e8-8d6a-f703906d482d)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)
+![PRINCE2®](https://img.shields.io/badge/PRINCE2%C2%AE-Certified-4B2C83)
+![ITIL® 4](https://img.shields.io/badge/ITIL%C2%AE%204-Certified-purple)
+[![PSM I](https://img.shields.io/badge/Scrum-PSM%20I-0A66C2)](https://www.credly.com/badges/4650929a-95e3-44f4-bc86-c7b1d6048d44)
+[![PSPO I](https://img.shields.io/badge/Scrum-PSPO%20I-0A66C2)](https://www.credly.com/badges/6ca2f43b-6f8a-4362-ad7c-7327c41ee5ce)
+
+</details>
 
 ---
 
