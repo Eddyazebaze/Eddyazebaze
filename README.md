@@ -267,9 +267,9 @@ Certaines demandes sortent du cadre de cette vitrine, ou méritent un traitement
 
 ## 🏷️ Tags & Keywords
 
-**Rôles & accréditations** - `chef de projet IT` `PMP` `PMI ATP` `PMO` `DSI` `PMI` `ISACA`  
-**Gouvernance & conformité** - `GRC` `gouvernance IT` `AI governance` `AI Act` `NIS2` `RGPD` `compliance` `risk management`  
-**Sécurité** - `cybersécurité` `security` `audit` `best practices`  
-**Data & performance** - `Data & Insights` `business intelligence` `data analytics` `KPI` `OKR` `scorecard` `dashboard` `runbook`  
-**Outils & stacks** - `Power BI` `Tableau` `Python` `OpenAI` `Botpress` `LangChain` `no-code` `low-code` `process automation`  
-**Stratégie & services** - `IT strategy` `digital transformation` `project delivery` `consulting` `formation` `mentoring` `value creation` `documentation`
+- **Rôles & accréditations** - `chef de projet IT` `PMP` `PMI ATP` `PMO` `DSI` `PMI` `ISACA`  
+- **Gouvernance & conformité** - `GRC` `gouvernance IT` `AI governance` `AI Act` `NIS2` `RGPD` `compliance` `risk management`  
+- **Sécurité** - `cybersécurité` `security` `audit` `best practices`  
+- **Data & performance** - `Data & Insights` `business intelligence` `data analytics` `KPI` `OKR` `scorecard` `dashboard` `runbook`  
+- **Outils & stacks** - `Power BI` `Tableau` `Python` `OpenAI` `Botpress` `LangChain` `no-code` `low-code` `process automation`  
+- **Stratégie & services** - `IT strategy` `digital transformation` `project delivery` `consulting` `formation` `mentoring` `value creation` `documentation`
