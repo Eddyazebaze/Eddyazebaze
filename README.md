@@ -198,7 +198,10 @@ J’accompagne DSI, PMO, dirigeants et équipes pour **reprendre le contrôle** 
 
 ## 🧠 Résultats & crédibilité
 
-Livrables pensés, documentés et déployés par mes soins (validés et testés) · Retours concrets (étudiants, mentorés, recruteurs, pairs tech) · Assets **réutilisables**, **personnalisables** et **activables** dans vos projets
+- Livrables pensés, documentés et déployés par mes soins (validés et testés) 
+- Retours concrets (étudiants, mentorés, recruteurs, pairs tech)
+- Assets **réutilisables**, 
+- **personnalisables** et **activables** dans vos projets
 
 ---
 
