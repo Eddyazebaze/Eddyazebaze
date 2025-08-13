@@ -175,7 +175,7 @@ J’accompagne DSI, PMO, dirigeants et équipes pour **reprendre le contrôle** 
 > *“Eddy doesn’t just answer questions, he connects the dots, anticipates doubts, and empowers action. Highly recommended for anyone transitioning into IT roles.”*  
 > B., Data Analyst (Mentoring Club)
 
-> *“J’ai testé le **AI Act Readiness Scorecard** conçu par Eddy. Démarche rigoureuse et pédagogique : diagnostic, plan d’action, documentation — vraie valeur ajoutée pour DSI confrontés à la conformité IA. Traçabilité et auditabilité exemplaires.”*  
+> *“J’ai testé le **AI Act Readiness Scorecard** conçu par Eddy. Démarche rigoureuse et pédagogique : diagnostic, plan d’action, documentation - vraie valeur ajoutée pour DSI confrontés à la conformité IA. Traçabilité et auditabilité exemplaires.”*  
 > **Malika Mir**, DSI 
 
 > *“Projet de conformité bancaire à la Société Générale : rigueur méthodologique, clarification des exigences, coordination IT-métier. Livrables structurés, adoption rapide. Une vraie valeur ajoutée.”*  
@@ -183,16 +183,19 @@ J’accompagne DSI, PMO, dirigeants et équipes pour **reprendre le contrôle** 
 
 ---
 
-## 📌 Projets démonstrateurs (vue 3 colonnes, compact)
+## 📌 Projets démonstrateurs 
+
+## 📌 Projets démonstrateurs (vue 3 colonnes, compact v2)
 
 | Projet | Description | Liens |
 |---|---|---|
-| **Assistant Virtuel Eddy** | Chatbot vitrine **offline**, spécialisé **GRC-IA-Data-PMP®** : il **présente**, **qualifie** et **planifie un RDV** — clair, conforme, **zéro hallucination**. | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) · [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) |
-| **AI Act Readiness Scorecard** | Évalue la **maturité AI Act** (scoring), détecte les écarts et **priorise** un plan d’actions.<br>Inclut des artefacts **prêts audit** (DPIA, journaux, notices). | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) · [Scorecard](https://ai-act-score.vercel.app) |
+| **Assistant Virtuel Eddy (Botpress)** | Chatbot IA **hors-ligne** (base interne) - FAQ, qualification, plan d’action.<br>Spécialiste **GRC-IA-Data-PMP®**, **RDV 30 min**, **zéro hallucination**. | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) · [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) |
+| **AI Act Readiness Scorecard** | Évalue la **maturité AI Act** (scoring), détecte les écarts et **priorise** les actions.<br>Inclut des artefacts **prêts audit** (DPIA, journaux, notices). | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) · [Scorecard](https://ai-act-score.vercel.app) |
 | **Compliance & Incident Alert Flow (Make.com)** | **Workflow d’alerte** conformité/sécurité : détection → notification → journalisation → **escalade**.<br>Intégrations Slack/Sheets, réduction **MTTD/MTTR**. | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-automated-compliance-incident-alert-flow) · [Export](https://github.com/Eddyazebaze/portfolio-projets/blob/main/03-automated-compliance-incident-alert-flow/scenarios/make-scenario.json.json) |
-| **Project Value Canvas** | **Canvas 1-page** pour cadrer **valeur/risques/dépendances** et hypothèses clés.<br>Décision **lancer/stopper/arbitrer**, narratif **board-ready**. | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-project-value-canvas) · [Démo](https://project-value-canvas.vercel.app/) |
-| **Audit Sécurité WordPress** | Audit **OWASP ZAP** : vulnérabilités & configuration, rapport de **correctifs priorisés**.<br>Guide d’actions **before/after** directement activable. | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/04-audit-securite-wordpress) · [Synthèse](https://github.com/Eddyazebaze/portfolio-projets/blob/main/04-audit-securite-wordpress/exports/security-summary.md) |
-| **Analyse Dépenses Santé - BI** | Dashboard **OMS/OCDE** : KPIs, tendances, benchmarks et **scénarios d’arbitrage**.<br>Storytelling pour comités et décisions budgétaires. | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) · [Reporting]https://github.com/Eddyazebaze/portfolio-projets/blob/main/06-analytics-sante-bi/reporting/Depenses_Sante%20France_2012-2022_Ce%20que%20disent%20les%20donnees_OMS_Eddy%20AZEBAZE.pdf |
+| **Project Value Canvas** | **Canvas 1-page** pour cadrer **valeur/risques/dépendances** et hypothèses clés.<br>Décider **lancer/stopper/arbitrer** (narratif **board-ready**). | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-project-value-canvas) · [Démo](https://project-value-canvas.vercel.app/) |
+| **Audit Sécurité WordPress** | Audit **OWASP ZAP** - vulnérabilités & configuration, **correctifs** priorisés.<br>Guide d’actions **before/after** activable. | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/04-audit-securite-wordpress) · [Synthèse](https://github.com/Eddyazebaze/portfolio-projets/blob/main/04-audit-securite-wordpress/exports/security-summary.md) |
+| **Analyse Dépenses Santé - BI** | Dashboard **OMS/OCDE** - KPIs, tendances & benchmarks.<br>**Scénarios d’arbitrage** et storytelling comité. | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) · [Reporting](https://github.com/Eddyazebaze/portfolio-projets/blob/main/06-analytics-sante-bi/reporting/Depenses_Sante%20France_2012-2022_Ce%20que%20disent%20les%20donnees_OMS_Eddy%20AZEBAZE.pdf) |
+
 
 ---
 
