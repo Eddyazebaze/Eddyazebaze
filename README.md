@@ -82,6 +82,7 @@
 ![Security Headers](https://img.shields.io/badge/Security-Headers-333333)
 ![Archer](https://img.shields.io/badge/RSA-Archer-gray)
 ![OneTrust](https://img.shields.io/badge/OneTrust-GRC-3cb371)
+![Aravo](https://img.shields.io/badge/Aravo-GRC-informational)
 
 ### ⚙️ Automatisation & Orchestration
 ![Make.com](https://img.shields.io/badge/Make.com-Automation-blue)
