@@ -42,6 +42,7 @@
 
 Je suis **Eddy AZEBAZE**, **Chef de projet IT stratégique**, **formateur certifié PMP® (PMI ATP)**, mentor et expert GRC, IA, Data & cybersécurité.  
 10+ ans d’impact terrain (ex. **MSD, BNP Paribas, Accenture, CGI, SG…**).
+
 J’accompagne DSI, PMO, dirigeants et équipes pour **reprendre le contrôle** sur des projets **complexes, réglementaires ou à forts enjeux** (AI Act, RGPD, NIS2…).  
 
 ---
@@ -78,7 +79,12 @@ J’accompagne DSI, PMO, dirigeants et équipes pour **reprendre le contrôle** 
 
 ## 📦 Livrables inclus 
 
-Project charter plan, RACI, backlog/story map · Artefacts conformité (AI Act/NIS2/RGPD) · Stratégie/tests/évidences · Rapport de résultats, ROI · **Runbook** opérationnel · Formation/transfert de compétences
+- Project charter plan, RACI, backlog/story map 
+- Artefacts conformité (AI Act/NIS2/RGPD)
+- Stratégie/tests/évidences
+- Rapport de résultats, ROI
+- **Runbook** opérationnel
+- Formation/transfert de compétences
 
 ---
 
@@ -138,7 +144,7 @@ Livrables pensés, documentés et déployés par mes soins (validés et testés)
 
 ---
 
-💬 **Posez vos questions stratégiques à mon assistant IA**  
+🤖 **Posez vos questions stratégiques à mon assistant IA**  
 
 ➡️ [Démarrer la FAQ interactive](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json)
 
@@ -161,8 +167,11 @@ Livrables pensés, documentés et déployés par mes soins (validés et testés)
 
 ## 🧩 Glossaire express
 
-**GRC** : Gouvernance, Risques, Conformité · **AI Act/NIS2/RGPD** : réglementation IA, cybersécurité, données personnelles · **Runbook** : guide d’exploitation / mode opératoire  
- · **KPI/OKR** : indicateurs de performance / objectifs mesurables · **Delivery** : exécution
+**GRC** : Gouvernance, Risques, Conformité  
+**AI Act/NIS2/RGPD** : réglementation IA, cybersécurité, données personnelles 
+**Runbook** : guide d’exploitation / mode opératoire  
+**KPI/OKR** : indicateurs de performance / objectifs mesurables
+**Delivery** : exécution
 
 ---
 
@@ -181,9 +190,11 @@ Accès au moindre privilège · chiffrement · journalisation· conformité **RG
 ## 🕑 Besoin d’une réponse sur-mesure ?
 
 Certaines demandes sortent du cadre de cette vitrine, ou méritent un traitement sur-mesure. Pour maximiser valeur & impact :  
+
 - Reformulez votre question en **une phrase**    
 - Parcourez la **FAQ interactive**  
 - 📅 **[Prendre RDV 30 min](https://calendly.com/eddy-azebaze-proton/30min)**  
+
 📧 **[eddy.azebaze@proton.me](mailto:eddy.azebaze@proton.me)** 
 
 ---
