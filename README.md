@@ -99,7 +99,8 @@
 ## ✨ À propos
 
 Je suis **Eddy AZEBAZE**, **Chef de projet IT stratégique**, **formateur certifié PMP® (PMI ATP)**, mentor et expert GRC, IA, Data & cybersécurité.  
-10+ ans d’impact terrain (ex. **MSD, BNP Paribas, Accenture, CGI, SG…**).
+
++ 10 ans d’impact terrain (ex. **MSD, BNP Paribas, Accenture, CGI, SG …**).
 
 J’accompagne DSI, PMO, dirigeants et équipes pour **reprendre le contrôle** sur des projets **complexes, réglementaires ou à forts enjeux** (AI Act, RGPD, NIS2…).  
 
