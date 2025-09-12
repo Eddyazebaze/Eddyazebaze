@@ -1,6 +1,6 @@
 # 👨‍💻 Eddy AZEBAZE
 
-🎯 **Chef de projet IT stratégique | Formateur PMP® (PMI ATP) | GRC • IA • Data & Insights • Cybersécurité**  
+🎯 **Chef de projet IT stratégique | Formateur PMP® (PMI ATP) | CISM® | GRC • IA • Data & Insights • Cybersécurité**  
 
 📍 France · 🌐 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-034a20226) · 🧠 [GitHub](https://github.com/Eddyazebaze) · ✍️ [Medium](https://medium.com/@eddyazebaze) · 🎓 [Mentoring Club](https://www.mentoring-club.com/profiles/eddy-azebaze#mentor-profile)
 
