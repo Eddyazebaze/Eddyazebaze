@@ -1,14 +1,14 @@
 <!--
-README • Landing Page (light) — Eddy AZEBAZE
+README • Landing Page (light) - Eddy AZEBAZE
 Objectif : conversion-first (GitHub → Calendly), mobile-first, skim-friendly
 -->
 
 <!-- BANNIÈRE -->
 <p align="center">
-  <img src="assets/banner-projet-augmente.png" alt="Projet Augmenté — From IT projects to strategic assets" width="880">
+  <img src="assets/banner-projet-augmente.png" alt="Projet Augmenté - From IT projects to strategic assets" width="880">
 </p>
 
-<h1 align="center">Eddy AZEBAZE — Projet Augmenté®</h1>
+<h1 align="center">Eddy AZEBAZE - Projet Augmenté®</h1>
 <p align="center"><strong>From IT projects to strategic assets</strong></p>
 
 <p align="center">
@@ -42,7 +42,7 @@ Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer
 
 ## Projets premium (preuves rapides)
 
-### 1) 🤖 Chatbot PMO — zéro hallucination (base interne, offline-ready)
+### 1) 🤖 Chatbot PMO - zéro hallucination (base interne, offline-ready)
 **Problème :** chatbots qui inventent, réponses non traçables.  
 **Solution :** assistant hors-ligne (RAG + garde-fous), réponses sourcées & journalisées.  
 **Vous gagnez :** qualification des demandes, FAQ projet, plan d’action, adoption rapide.  
@@ -50,7 +50,7 @@ Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer
 
 ---
 
-### 2) 📊 AI Act Readiness Scorecard — conformité IA prête audit
+### 2) 📊 AI Act Readiness Scorecard - conformité IA prête audit
 **Problème :** l’AI Act impose gouvernance & traçabilité (datasets, risques, registres).  
 **Solution :** scorecard de maturité, détection d’écarts, priorisation + artefacts (DPIA, journaux, notices).  
 **Vous gagnez :** conformité démontrable, décisions COMEX plus rapides & argumentées.  
@@ -58,7 +58,7 @@ Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer
 
 ---
 
-### 3) 💡 BI Santé — analytique OMS/OCDE pour arbitrage budgétaire
+### 3) 💡 BI Santé - analytique OMS/OCDE pour arbitrage budgétaire
 **Problème :** dépenses santé mal lues, arbitrages difficiles.  
 **Solution :** dashboard OMS/OCDE (tendances, benchmarks), scénarios d’arbitrage & storytelling comité.  
 **Vous gagnez :** vision claire, **time-to-value** réduit, narratif **board-ready**.  
@@ -68,10 +68,10 @@ Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer
 
 ## Ma méthode (simple & mesurable)
 
-1. **Diagnostic** — enjeux/risques, posture sécu, exigences réglementaires  
-2. **Cadrage** — objectifs, KPI/OKR, feuille de route, RACI  
-3. **Delivery** — itérations, démonstrations, contrôles, traçabilité IA/cyber  
-4. **Résultats** — scorecards, dashboards, ROI, amélioration continue
+1. **Diagnostic** - enjeux/risques, posture sécu, exigences réglementaires  
+2. **Cadrage** - objectifs, KPI/OKR, feuille de route, RACI  
+3. **Delivery** - itérations, démonstrations, contrôles, traçabilité IA/cyber  
+4. **Résultats** - scorecards, dashboards, ROI, amélioration continue
 
 **Livrables inclus :** charter, RACI, backlog/story map, artefacts conformité, runbook, rapport ROI.
 
@@ -122,4 +122,4 @@ Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer
 
 ---
 
-<sub>© Projet Augmenté® — démonstrateurs fournis “as-is” pour usage d’évaluation. Conformité RGPD/NIS2/AI Act, traçabilité et réversibilité au cœur de la démarche.</sub>
+<sub>© Projet Augmenté®  démonstrateurs fournis “as-is” pour usage d’évaluation. Conformité RGPD/NIS2/AI Act, traçabilité et réversibilité au cœur de la démarche.</sub>
