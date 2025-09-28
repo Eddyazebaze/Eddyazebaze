@@ -48,11 +48,11 @@ Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer
 
 ## Projets premium (preuve par l’exemple)
 
-### 1) Chatbot PMO - zéro hallucination (base interne, offline-ready)
+### 1) Chatbot PMO — zéro hallucination (base interne, offline-ready)
 **Problème :** chatbots qui inventent, réponses non traçables.  
 **Solution :** assistant hors-ligne (RAG + garde-fous), réponses sourcées, journalisées.  
 **Vous gagnez :** qualification des demandes, FAQ projet, plan d’action, adoption rapide.  
-**Voir :** 👉 <a href="https://github.com/Eddyazebaze/pmo-chatbot/tree/main">Repo</a> • <a href="https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json">Démo</a>
+**Voir :** 👉 <a href="https://github.com/Eddyazebaze/pmo-chatbot/tree/main">Repo</a> • <a href="https://cdn.botpress.cloud/webchat/v3.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/09/20/23/20250920230011-RY5POMNZ.json">Démo</a>
 
 ---
 
