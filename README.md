@@ -13,6 +13,7 @@ Objectif : conversion-first (GitHub → Calendly), mobile-first, skim-friendly
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism">LinkedIn</a> •
+  <a href="https://medium.com/@eddyazebaze">Medium</a> •
   <a href="mailto:eddy.azebaze@proton.me">Email</a> •
   <a href="https://calendly.com/eddy-azebaze-proton/30min">Réserver 30&nbsp;min</a>
 </p>
@@ -42,19 +43,19 @@ Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer
 
 ## Projets premium (preuves rapides)
 
-### 1) 🤖 Chatbot PMO - zéro hallucination (base interne, offline-ready)
+### 1) 🤖 Chatbot PMO — zéro hallucination (base interne, offline-ready)
 **Problème :** chatbots qui inventent, réponses non traçables.  
 **Solution :** assistant hors-ligne (RAG + garde-fous), réponses sourcées & journalisées.  
 **Vous gagnez :** qualification des demandes, FAQ projet, plan d’action, adoption rapide.  
-**Voir :** 👉 <a href="https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy">Repo</a> • <a href="https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json">Démo</a>
+**Voir :** 👉 [Repo GitHub](https://github.com/Eddyazebaze/pmo-chatbot/tree/main) • [Démo live](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json)
 
 ---
 
-### 2) 📊 AI Act Readiness Scorecard - conformité IA prête audit
-**Problème :** l’AI Act impose gouvernance & traçabilité (datasets, risques, registres).  
-**Solution :** scorecard de maturité, détection d’écarts, priorisation + artefacts (DPIA, journaux, notices).  
+### 2) 📊 AI Act Readiness Scorecard — conformité IA prête audit
+**Problème :** l’AI Act exige une **gouvernance traçable** (datasets, risques, registres).  
+**Solution :** scorecard de maturité, écart-type, priorisation & artefacts (DPIA, journaux, notices).  
 **Vous gagnez :** conformité démontrable, décisions COMEX plus rapides & argumentées.  
-**Voir :** 👉 <a href="https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard">Repo</a> • <a href="https://ai-act-score.vercel.app">Scorecard Live</a>
+**Voir :** 👉 [Repo GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) • [Scorecard Live](https://aiactreadinesssscorecard.netlify.app/)
 
 ---
 
