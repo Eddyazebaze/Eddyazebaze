@@ -1,6 +1,6 @@
 <!--
-README • Landing Page (light) - Eddy AZEBAZE
-Objectif : conversion-first (GitHub → Calendly), mobile-first, skim-friendly
+README • Landing Page - Eddy AZEBAZE
+Objectif : conversion-first (GitHub → Calendly/Email), mobile-first, lisible en 90 sec
 -->
 
 <!-- BANNIÈRE -->
@@ -32,35 +32,38 @@ Objectif : conversion-first (GitHub → Calendly), mobile-first, skim-friendly
 
 ---
 
-## Proposition de valeur (en bref)
+## Proposition de valeur
+Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer :  
+- **Valeur mesurable** (KPI, ROI, arbitrages COMEX)  
+- **Conformité démontrable** (AI Act, NIS2, RGPD, DORA)  
+- **Delivery audit-ready** (traçabilité, runbooks, scorecards)  
 
-Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer de la **valeur mesurable**, une **conformité démontrable** (AI Act, NIS2, RGPD, DORA) et un **delivery audit-ready**.  
-**Cible :** DSI, PMO, RSSI, directions métiers (pharma/lifesciences, banque/assurance, santé).
+**Cibles :** DSI, PMO, RSSI, directions métiers en environnements régulés (pharma/life sciences, banque/assurance, santé).  
 
-**CTA direct →** <a href="https://calendly.com/eddy-azebaze-proton/30min"><strong>Réserver 30 min</strong></a> • <a href="mailto:eddy.azebaze@proton.me"><strong>eddy.azebaze@proton.me</strong></a>
-
----
-
-## Projets premium (preuves rapides)
-
-### 1) 🤖 Chatbot PMO — zéro hallucination (base interne, offline-ready)
-**Problème :** chatbots qui inventent, réponses non traçables.  
-**Solution :** assistant hors-ligne (RAG + garde-fous), réponses sourcées & journalisées.  
-**Vous gagnez :** qualification des demandes, FAQ projet, plan d’action, adoption rapide.  
-**Voir :** 👉 [Repo GitHub](https://github.com/Eddyazebaze/pmo-chatbot/tree/main) • [Démo live](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json)
+👉 **<a href="https://calendly.com/eddy-azebaze-proton/30min">Réserver 30 min</a>** • **<a href="mailto:eddy.azebaze@proton.me">eddy.azebaze@proton.me</a>**
 
 ---
 
-### 2) 📊 AI Act Readiness Scorecard — conformité IA prête audit
-**Problème :** l’AI Act exige une **gouvernance traçable** (datasets, risques, registres).  
-**Solution :** scorecard de maturité, écart-type, priorisation & artefacts (DPIA, journaux, notices).  
+## Projets premium (preuve par l’exemple)
+
+### 1) Chatbot PMO - zéro hallucination
+**Problème :** Chatbots qui inventent, données non traçables.  
+**Solution :** assistant IA **hors-ligne (RAG + garde-fous)**, réponses sourcées et journalisées.  
+**Vous gagnez :** qualification des demandes, FAQ projet, adoption rapide.  
+**Voir :** 👉 <a href="https://github.com/Eddyazebaze/pmo-chatbot/tree/main">Repo</a> • <a href="https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json">Démo</a>
+
+---
+
+### 2) AI Act Readiness Scorecard - conformité IA prête audit
+**Problème :** L’AI Act impose une gouvernance **traçable** (datasets, registres, risques).  
+**Solution :** scorecard de maturité, écarts et priorisation, artefacts prêts audit (DPIA, journaux, notices).  
 **Vous gagnez :** conformité démontrable, décisions COMEX plus rapides & argumentées.  
-**Voir :** 👉 [Repo GitHub](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) • [Scorecard Live](https://aiactreadinesssscorecard.netlify.app/)
+**Voir :** 👉 <a href="https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard">Repo</a> • <a href="https://aiactreadinesssscorecard.netlify.app/">Scorecard Live</a>
 
 ---
 
-### 3) 💡 BI Santé - analytique OMS/OCDE pour arbitrage budgétaire
-**Problème :** dépenses santé mal lues, arbitrages difficiles.  
+### 3) BI Santé - analytique OMS/OCDE
+**Problème :** Dépenses santé mal expliquées, arbitrages difficiles.  
 **Solution :** dashboard OMS/OCDE (tendances, benchmarks), scénarios d’arbitrage & storytelling comité.  
 **Vous gagnez :** vision claire, **time-to-value** réduit, narratif **board-ready**.  
 **Voir :** 👉 <a href="https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi">Repo</a> • <a href="https://github.com/Eddyazebaze/portfolio-projets/blob/main/06-analytics-sante-bi/reporting/Depenses_Sante%20France_2012-2022_Ce%20que%20disent%20les%20donnees_OMS_Eddy%20AZEBAZE.pdf">Extrait PDF</a>
@@ -68,59 +71,53 @@ Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer
 ---
 
 ## Ma méthode (simple & mesurable)
+1. **Diagnostic** - enjeux/risques, posture sécu, exigences réglementaires.  
+2. **Cadrage** - objectifs, KPI/OKR, feuille de route, RACI.  
+3. **Delivery** - itérations, contrôles cyber/IA, traçabilité.  
+4. **Résultats** - scorecards, dashboards, ROI, amélioration continue.  
 
-1. **Diagnostic** - enjeux/risques, posture sécu, exigences réglementaires  
-2. **Cadrage** - objectifs, KPI/OKR, feuille de route, RACI  
-3. **Delivery** - itérations, démonstrations, contrôles, traçabilité IA/cyber  
-4. **Résultats** - scorecards, dashboards, ROI, amélioration continue
-
-**Livrables inclus :** charter, RACI, backlog/story map, artefacts conformité, runbook, rapport ROI.
-
----
-
-## Stack (sélection)
-
-**Gouvernance & Delivery :**  
-![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-PMO-black?logo=github)
-![Notion](https://img.shields.io/badge/Notion-Workspace-black?logo=notion)
-![ClickUp](https://img.shields.io/badge/ClickUp-Portfolio%20Mgmt-7b68ee)
-
-**Data & BI :**  
-![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-yellow?logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-Advanced-orange?logo=tableau)
-![Python](https://img.shields.io/badge/Python-Pandas-blue?logo=python)
-
-**IA & Agents :**  
-![OpenAI](https://img.shields.io/badge/OpenAI-API%20User-black?logo=openai)
-![Botpress](https://img.shields.io/badge/Botpress-Chatbots-purple)
-![LangChain](https://img.shields.io/badge/LangChain-Framework-00b894)
-
-**Sécurité & Conformité :**  
-![OWASP ZAP](https://img.shields.io/badge/OWASP-ZAP-000000?logo=owasp)
-![OneTrust](https://img.shields.io/badge/OneTrust-GRC-3cb371)
-![Archer](https://img.shields.io/badge/RSA-Archer-gray)
-
-**Automatisation :**  
-![Make.com](https://img.shields.io/badge/Make.com-Automation-4b7bec)
-![n8n](https://img.shields.io/badge/n8n-Workflows-00A884?logo=n8n)
-![Zapier](https://img.shields.io/badge/Zapier-Integration-FF4F00?logo=zapier)
+**Livrables inclus :** project charter, RACI, backlog, artefacts conformité, runbook, rapport ROI.  
 
 ---
 
 ## Mini-FAQ
-
 **Pourquoi “offline-ready” ?** Pour éviter les fuites de données et garantir la traçabilité.  
-**C’est adaptable à mon secteur ?** Oui : pharma/life sciences, finance/assurance, santé.  
-**On commence comment ?** Par un **diagnostic 30/60/90** et un pilote cadré **board-ready**.
+**Adaptable à mon secteur ?** Oui : pharma, banque/assurance, santé.  
+**On commence comment ?** Diagnostic 30/60/90 et un pilote cadré **board-ready**.  
+
+---
+
+## Stack (preuve technique)
+<details>
+  <summary>🧰 Voir ma stack complète</summary>
+
+### 🧭 Gouvernance & Delivery
+- GitHub Projects (PMO), Notion, Miro, MS Project, ClickUp  
+- **Cycle de vie projet (SDLC)** : cadrage → build → test → run  
+
+### 📊 Data & Insights
+- Power BI, Tableau, Qlik Sense, Dataiku  
+- Langages : SQL, DAX, Python (Pandas)
+
+### 🤖 IA & Agents
+- OpenAI API, Claude, Botpress, LangChain, LangFlow  
+
+### 🔒 Cybersécurité & Conformité
+- OWASP ZAP, Security Headers, Aravo, Archer, OneTrust  
+
+### ⚙️ Automatisation & Orchestration
+- Make.com, n8n, Zapier, Databricks, Apache Airflow  
+
+</details>
 
 ---
 
 ## Passer à l’action
-
-- <a href="https://calendly.com/eddy-azebaze-proton/30min"><strong>Réserver 30 min</strong></a> (exploration & cadrage)  
-- <a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism">LinkedIn</a> (parcours & publications)  
-- <a href="mailto:eddy.azebaze@proton.me">Email</a> (brief & disponibilité)
+- 👉 **<a href="https://calendly.com/eddy-azebaze-proton/30min">Réserver 30 min</a>**  
+- 👉 **<a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism">LinkedIn</a>**  
+- 👉 **<a href="mailto:eddy.azebaze@proton.me">eddy.azebaze@proton.me</a>**  
+- 👉 **<a href="https://medium.com/@eddyazebaze">Medium</a>**  
 
 ---
 
-<sub>© Projet Augmenté®  démonstrateurs fournis “as-is” pour usage d’évaluation. Conformité RGPD/NIS2/AI Act, traçabilité et réversibilité au cœur de la démarche.</sub>
+<sub>© Projet Augmenté® - assets démonstrateurs fournis “as-is” pour usage d’évaluation. Conformité RGPD/NIS2/Dora/AI Act, traçabilité et réversibilité au cœur de la démarche.</sub>
