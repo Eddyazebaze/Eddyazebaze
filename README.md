@@ -56,7 +56,7 @@ Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer
 **Problème :** l’AI Act exige une **gouvernance traçable** (datasets, risques, registres).  
 **Solution :** scorecard de maturité, priorisation et artefacts (DPIA, journaux, notices).  
 **Impact :** conformité démontrable, décisions COMEX plus rapides & argumentées.  
-**Voir :** 👉 [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) • [Scorecard Live](https://aiactreadinesssscorecard.netlify.app/)
+**Voir :** 👉 [Repo](https://github.com/Eddyazebaze/ai-act-readiness-scorecard) • [Scorecard Web Live](https://aiactreadinesssscorecard.netlify.app/)
 
 ---
 
