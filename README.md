@@ -1,6 +1,6 @@
 <!--
 README • Landing Page - Eddy AZEBAZE
-Objectif : conversion-first (GitHub → Calendly/Email), mobile-first, lisible en 90 sec
+Objectif : conversion-first (GitHub → Calendly), mobile-first, lisible rapidement
 -->
 
 <!-- BANNIÈRE -->
@@ -12,10 +12,18 @@ Objectif : conversion-first (GitHub → Calendly/Email), mobile-first, lisible e
 <p align="center"><strong>From IT projects to strategic assets</strong></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism">LinkedIn</a> •
-  <a href="https://medium.com/@eddyazebaze">Medium</a> •
-  <a href="mailto:eddy.azebaze@proton.me">Email</a> •
-  <a href="https://calendly.com/eddy-azebaze-proton/30min">Réserver 30&nbsp;min</a>
+  <a href="https://calendly.com/eddy-azebaze-proton/30min">
+    <img src="https://img.shields.io/badge/📅_Réserver-30_min-blue?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism">
+    <img src="https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:eddy.azebaze@proton.me">
+    <img src="https://img.shields.io/badge/✉️-Email_Direct-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://medium.com/@eddyazebaze">
+    <img src="https://img.shields.io/badge/✍️-Medium-black?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
@@ -32,38 +40,32 @@ Objectif : conversion-first (GitHub → Calendly/Email), mobile-first, lisible e
 
 ---
 
-## Proposition de valeur
-Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer :  
-- **Valeur mesurable** (KPI, ROI, arbitrages COMEX)  
-- **Conformité démontrable** (AI Act, NIS2, RGPD, DORA)  
-- **Delivery audit-ready** (traçabilité, runbooks, scorecards)  
-
-**Cibles :** DSI, PMO, RSSI, directions métiers en environnements régulés (pharma/life sciences, banque/assurance, santé).  
-
-👉 **<a href="https://calendly.com/eddy-azebaze-proton/30min">Réserver 30 min</a>** • **<a href="mailto:eddy.azebaze@proton.me">eddy.azebaze@proton.me</a>**
+## Proposition de valeur (en bref)
+Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer de la **valeur mesurable**, une **conformité démontrable** (AI Act, NIS2, RGPD, DORA) et un **delivery audit-ready**.  
+**Cible :** DSI, PMO, RSSI, directions métiers en environnements régulés (pharma/life sciences, banque/assurance, santé).
 
 ---
 
 ## Projets premium (preuve par l’exemple)
 
-### 1) Chatbot PMO - zéro hallucination
-**Problème :** Chatbots qui inventent, données non traçables.  
-**Solution :** assistant IA **hors-ligne (RAG + garde-fous)**, réponses sourcées et journalisées.  
-**Vous gagnez :** qualification des demandes, FAQ projet, adoption rapide.  
+### 1) Chatbot PMO - zéro hallucination (base interne, offline-ready)
+**Problème :** chatbots qui inventent, réponses non traçables.  
+**Solution :** assistant hors-ligne (RAG + garde-fous), réponses sourcées, journalisées.  
+**Vous gagnez :** qualification des demandes, FAQ projet, plan d’action, adoption rapide.  
 **Voir :** 👉 <a href="https://github.com/Eddyazebaze/pmo-chatbot/tree/main">Repo</a> • <a href="https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json">Démo</a>
 
 ---
 
 ### 2) AI Act Readiness Scorecard - conformité IA prête audit
-**Problème :** L’AI Act impose une gouvernance **traçable** (datasets, registres, risques).  
-**Solution :** scorecard de maturité, écarts et priorisation, artefacts prêts audit (DPIA, journaux, notices).  
+**Problème :** l’AI Act exige une **gouvernance traçable** (datasets, risques, registres).  
+**Solution :** scorecard de maturité, écart-type, priorisation & artefacts (DPIA, journaux, notices).  
 **Vous gagnez :** conformité démontrable, décisions COMEX plus rapides & argumentées.  
 **Voir :** 👉 <a href="https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard">Repo</a> • <a href="https://aiactreadinesssscorecard.netlify.app/">Scorecard Live</a>
 
 ---
 
-### 3) BI Santé - analytique OMS/OCDE
-**Problème :** Dépenses santé mal expliquées, arbitrages difficiles.  
+### 3) BI Santé - analytique OMS/OCDE, arbitrage budgétaire
+**Problème :** dépenses santé mal expliquées, arbitrages difficiles.  
 **Solution :** dashboard OMS/OCDE (tendances, benchmarks), scénarios d’arbitrage & storytelling comité.  
 **Vous gagnez :** vision claire, **time-to-value** réduit, narratif **board-ready**.  
 **Voir :** 👉 <a href="https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi">Repo</a> • <a href="https://github.com/Eddyazebaze/portfolio-projets/blob/main/06-analytics-sante-bi/reporting/Depenses_Sante%20France_2012-2022_Ce%20que%20disent%20les%20donnees_OMS_Eddy%20AZEBAZE.pdf">Extrait PDF</a>
@@ -73,17 +75,10 @@ Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer
 ## Ma méthode (simple & mesurable)
 1. **Diagnostic** - enjeux/risques, posture sécu, exigences réglementaires.  
 2. **Cadrage** - objectifs, KPI/OKR, feuille de route, RACI.  
-3. **Delivery** - itérations, contrôles cyber/IA, traçabilité.  
-4. **Résultats** - scorecards, dashboards, ROI, amélioration continue.  
+3. **Delivery** - itérations, démonstrations, contrôles, traçabilité IA/cyber.  
+4. **Résultats** - scorecards, dashboards, ROI, amélioration continue.
 
-**Livrables inclus :** project charter, RACI, backlog, artefacts conformité, runbook, rapport ROI.  
-
----
-
-## Mini-FAQ
-**Pourquoi “offline-ready” ?** Pour éviter les fuites de données et garantir la traçabilité.  
-**Adaptable à mon secteur ?** Oui : pharma, banque/assurance, santé.  
-**On commence comment ?** Diagnostic 30/60/90 et un pilote cadré **board-ready**.  
+**Livrables inclus :** charter, RACI, backlog/story map, artefacts conformité, runbook, rapport ROI.
 
 ---
 
@@ -96,28 +91,47 @@ Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer
 - **Cycle de vie projet (SDLC)** : cadrage → build → test → run  
 
 ### 📊 Data & Insights
-- Power BI, Tableau, Qlik Sense, Dataiku  
-- Langages : SQL, DAX, Python (Pandas)
+- Power BI, Tableau, Qlik Sense, Dataiku, Python (Pandas), SQL, DAX  
+- Langages : HTML, SQL, DAX, Dataiku  
 
 ### 🤖 IA & Agents
-- OpenAI API, Claude, Botpress, LangChain, LangFlow  
+- OpenAI API, Claude, Qwen, Botpress, LangChain, LangFlow  
 
 ### 🔒 Cybersécurité & Conformité
 - OWASP ZAP, Security Headers, Aravo, Archer, OneTrust  
 
 ### ⚙️ Automatisation & Orchestration
-- Make.com, n8n, Zapier, Databricks, Apache Airflow  
+- Make.com, Zapier, n8n, Databricks, Apache Airflow  
 
 </details>
 
 ---
 
-## Passer à l’action
-- 👉 **<a href="https://calendly.com/eddy-azebaze-proton/30min">Réserver 30 min</a>**  
-- 👉 **<a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism">LinkedIn</a>**  
-- 👉 **<a href="mailto:eddy.azebaze@proton.me">eddy.azebaze@proton.me</a>**  
-- 👉 **<a href="https://medium.com/@eddyazebaze">Medium</a>**  
+## Mini-FAQ
+**Pourquoi “offline-ready” ?** Pour éviter les fuites de données et maîtriser la traçabilité.  
+**C’est adaptable à mon secteur ?** Oui : pharma/life sciences, finance/assurance, santé.  
+**On commence comment ?** Par un **diagnostic 30/60/90** et un pilote cadré **board-ready**.
 
 ---
 
-<sub>© Projet Augmenté® - assets démonstrateurs fournis “as-is” pour usage d’évaluation. Conformité RGPD/NIS2/Dora/AI Act, traçabilité et réversibilité au cœur de la démarche.</sub>
+## Passer à l’action
+<p align="center">
+  <a href="https://calendly.com/eddy-azebaze-proton/30min">
+    <img src="https://img.shields.io/badge/📅_Réserver-30_min-blue?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism">
+    <img src="https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:eddy.azebaze@proton.me">
+    <img src="https://img.shields.io/badge/✉️-Email_Direct-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://medium.com/@eddyazebaze">
+    <img src="https://img.shields.io/badge/✍️-Medium-black?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+</p>
+
+---
+
+> 🧠 « On ne livre pas un projet. On construit un **actif stratégique** : durable, traçable et auditable. »
+
+<sub>© Projet Augmenté® - assets démonstrateurs fournis “as-is” pour usage d’évaluation. Conformité RGPD/NIS2/AI Act, traçabilité et réversibilité au cœur de la démarche.</sub>
