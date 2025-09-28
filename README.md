@@ -48,7 +48,7 @@ Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer
 
 ## Projets premium (preuve par l’exemple)
 
-### 1) Chatbot PMO — zéro hallucination (base interne, offline-ready)
+### 1) Chatbot PMO - zéro hallucination (base interne, offline-ready)
 **Problème :** chatbots qui inventent, réponses non traçables.  
 **Solution :** assistant hors-ligne (RAG + garde-fous), réponses sourcées, journalisées.  
 **Vous gagnez :** qualification des demandes, FAQ projet, plan d’action, adoption rapide.  
