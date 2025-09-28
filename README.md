@@ -1,276 +1,125 @@
-# 👨‍💻 Eddy AZEBAZE
+<!--
+README • Landing Page (light) — Eddy AZEBAZE
+Objectif : conversion-first (GitHub → Calendly), mobile-first, skim-friendly
+-->
 
-🎯 **Chef de projet IT stratégique | Formateur PMP® (PMI ATP) | CISM® | GRC • IA • Data & Insights • Cybersécurité**  
+<!-- BANNIÈRE -->
+<p align="center">
+  <img src="assets/banner-projet-augmente.png" alt="Projet Augmenté — From IT projects to strategic assets" width="880">
+</p>
 
-📍 France · 🌐 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-034a20226) · 🧠 [GitHub](https://github.com/Eddyazebaze) · ✍️ [Medium](https://medium.com/@eddyazebaze) · 🎓 [Mentoring Club](https://www.mentoring-club.com/profiles/eddy-azebaze#mentor-profile)
+<h1 align="center">Eddy AZEBAZE — Projet Augmenté®</h1>
+<p align="center"><strong>From IT projects to strategic assets</strong></p>
 
-> Expert en **gestion de projets IT (PMP®)**, **GRC & conformité (AI Act, NIS2, RGPD)**, **Data & Insights** et **cybersécurité**.  
-> J’aide DSI/PMO à **cadrer, piloter et mesurer la valeur** : méthode en 4 étapes, scorecards, dashboards, automations, **runbooks** et **artefacts** prêts audit.
+<p align="center">
+  <a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism">LinkedIn</a> •
+  <a href="mailto:eddy.azebaze@proton.me">Email</a> •
+  <a href="https://calendly.com/eddy-azebaze-proton/30min">Réserver 30&nbsp;min</a>
+</p>
 
----
-
-## ✨ TL;DR - L’essentiel
-
-**Je structure, sécurise et accélère vos projets IT.** Co-pilotage stratégique, livrables mesurables.  
-
-📅 **[Réserver 30 min](https://calendly.com/eddy-azebaze-proton/30min)** · 📧 **[eddy.azebaze@proton.me](mailto:eddy.azebaze@proton.me)** 
-
----
-
-## 🏅 Certifications & Accréditations
-
-<details>
-  <summary>🎖️ Voir mes certifications (Credly)</summary>
-
-[![PMI ATP Trainer](https://img.shields.io/badge/PMI-ATP%20Trainer-brightgreen?logo=pmiprojectmanagement)](https://www.credly.com/badges/3797a0f9-e5de-4ad9-acf0-d463596983ca)
-[![PMP®](https://img.shields.io/badge/PMP%C2%AE-Certified-blue?logo=pmiprojectmanagement)](https://www.credly.com/badges/80aef1a1-8173-45a6-b508-0892da3a8ef9)
-[![Inclusive & Ethical Leadership](https://img.shields.io/badge/Inclusive%20%26%20Ethical%20Leadership-Certificate-blueviolet)](https://www.credly.com/badges/1f347e3c-02ae-4065-a611-be44c666b2b6)
-[![IBM Enterprise Design Thinking Practitioner](https://img.shields.io/badge/IBM-Enterprise%20Design%20Thinking%20Practitioner-0F62FE?logo=ibm&logoColor=white)](https://www.credly.com/badges/a845fad5-e86e-46cc-a275-725a3cb987b7)
-[![Strategic Cybersecurity Management](https://img.shields.io/badge/Strategic%20Cybersecurity-Management-important)](https://www.credly.com/badges/fc330e54-b250-45e8-8d6a-f703906d482d)
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)
-![PRINCE2®](https://img.shields.io/badge/PRINCE2%C2%AE-Certified-4B2C83)
-![ITIL® 4](https://img.shields.io/badge/ITIL%C2%AE%204-Certified-purple)
-[![PSM I](https://img.shields.io/badge/Scrum-PSM%20I-0A66C2)](https://www.credly.com/badges/4650929a-95e3-44f4-bc86-c7b1d6048d44)
-[![PSPO I](https://img.shields.io/badge/Scrum-PSPO%20I-0A66C2)](https://www.credly.com/badges/6ca2f43b-6f8a-4362-ad7c-7327c41ee5ce)
-
-</details>
+<p align="center">
+  <a href="https://www.credly.com/badges/3797a0f9-e5de-4ad9-acf0-d463596983ca">
+    <img alt="PMI ATP Trainer" src="https://img.shields.io/badge/PMI-ATP%20Trainer-brightgreen?logo=pmiprojectmanagement">
+  </a>
+  <a href="https://www.credly.com/badges/80aef1a1-8173-45a6-b508-0892da3a8ef9">
+    <img alt="PMP Certified" src="https://img.shields.io/badge/PMP%C2%AE-Certified-0A66C2?logo=pmiprojectmanagement">
+  </a>
+  <a href="https://www.credly.com/badges/17512e3f-8b80-4de2-b3c8-896133b289f2/public_url">
+    <img alt="CISM Certified" src="https://img.shields.io/badge/CISM%C2%AE-Certified-2E8B57">
+  </a>
+</p>
 
 ---
 
-## 🚀 Stack
+## Proposition de valeur (en bref)
 
-## 🚀 Stack (sélection)
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-yellow?logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-Advanced-orange?logo=tableau)
-![Open AI API](https://img.shields.io/badge/Open%20AI%20API-User-black?logo=openai)
-![Botpress](https://img.shields.io/badge/Botpress-Chatbots-purple)
-![Make.com](https://img.shields.io/badge/Make.com-Automation-blue)
-![n8n](https://img.shields.io/badge/n8n-Automation-green?logo=n8n)
-![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-PMO-black?logo=github)
+Je co-pilote vos projets IT à fort enjeu (PMO / Project Leadership) pour livrer de la **valeur mesurable**, une **conformité démontrable** (AI Act, NIS2, RGPD, DORA) et un **delivery audit-ready**.  
+**Cible :** DSI, PMO, RSSI, directions métiers (pharma/lifesciences, banque/assurance, santé).
 
-<details>
-  <summary>🧰 Voir toute la stack par thème (cliquer pour déplier)</summary>
+**CTA direct →** <a href="https://calendly.com/eddy-azebaze-proton/30min"><strong>Réserver 30 min</strong></a> • <a href="mailto:eddy.azebaze@proton.me"><strong>eddy.azebaze@proton.me</strong></a>
 
-### 🧭 Gouvernance & Delivery
+---
+
+## Projets premium (preuves rapides)
+
+### 1) 🤖 Chatbot PMO — zéro hallucination (base interne, offline-ready)
+**Problème :** chatbots qui inventent, réponses non traçables.  
+**Solution :** assistant hors-ligne (RAG + garde-fous), réponses sourcées & journalisées.  
+**Vous gagnez :** qualification des demandes, FAQ projet, plan d’action, adoption rapide.  
+**Voir :** 👉 <a href="https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy">Repo</a> • <a href="https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json">Démo</a>
+
+---
+
+### 2) 📊 AI Act Readiness Scorecard — conformité IA prête audit
+**Problème :** l’AI Act impose gouvernance & traçabilité (datasets, risques, registres).  
+**Solution :** scorecard de maturité, détection d’écarts, priorisation + artefacts (DPIA, journaux, notices).  
+**Vous gagnez :** conformité démontrable, décisions COMEX plus rapides & argumentées.  
+**Voir :** 👉 <a href="https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard">Repo</a> • <a href="https://ai-act-score.vercel.app">Scorecard Live</a>
+
+---
+
+### 3) 💡 BI Santé — analytique OMS/OCDE pour arbitrage budgétaire
+**Problème :** dépenses santé mal lues, arbitrages difficiles.  
+**Solution :** dashboard OMS/OCDE (tendances, benchmarks), scénarios d’arbitrage & storytelling comité.  
+**Vous gagnez :** vision claire, **time-to-value** réduit, narratif **board-ready**.  
+**Voir :** 👉 <a href="https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi">Repo</a> • <a href="https://github.com/Eddyazebaze/portfolio-projets/blob/main/06-analytics-sante-bi/reporting/Depenses_Sante%20France_2012-2022_Ce%20que%20disent%20les%20donnees_OMS_Eddy%20AZEBAZE.pdf">Extrait PDF</a>
+
+---
+
+## Ma méthode (simple & mesurable)
+
+1. **Diagnostic** — enjeux/risques, posture sécu, exigences réglementaires  
+2. **Cadrage** — objectifs, KPI/OKR, feuille de route, RACI  
+3. **Delivery** — itérations, démonstrations, contrôles, traçabilité IA/cyber  
+4. **Résultats** — scorecards, dashboards, ROI, amélioration continue
+
+**Livrables inclus :** charter, RACI, backlog/story map, artefacts conformité, runbook, rapport ROI.
+
+---
+
+## Stack (sélection)
+
+**Gouvernance & Delivery :**  
 ![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-PMO-black?logo=github)
 ![Notion](https://img.shields.io/badge/Notion-Workspace-black?logo=notion)
-![Miro](https://img.shields.io/badge/Miro-Design%20Thinking-yellow?logo=miro)
-![MS Project](https://img.shields.io/badge/MS%20Project-Planning-brightgreen)
 ![ClickUp](https://img.shields.io/badge/ClickUp-Portfolio%20Mgmt-7b68ee)
 
-### 📊 Data & Insights
+**Data & BI :**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-yellow?logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-Advanced-orange?logo=tableau)
-![Qlik Sense](https://img.shields.io/badge/Qlik-Sense-6aa84f?logo=qlik)
-![Dataiku](https://img.shields.io/badge/Dataiku-Flow-0f8b8d?logo=dataiku)
 ![Python](https://img.shields.io/badge/Python-Pandas-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-Queries-336791)
-![DAX](https://img.shields.io/badge/DAX-Measures-2b579a)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Frames-150458?logo=pandas)
 
-### 🤖 IA & Agents
+**IA & Agents :**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-API%20User-black?logo=openai)
-![Claude](https://img.shields.io/badge/Anthropic-Claude-121212)
-![Qwen](https://img.shields.io/badge/Alibaba%20Cloud-Qwen-ff3500)
 ![Botpress](https://img.shields.io/badge/Botpress-Chatbots-purple)
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-00b894)
-![LangFlow](https://img.shields.io/badge/LangFlow-Orchestration-6c5ce7)
 
-### 🔒 Cybersécurité & Conformité
+**Sécurité & Conformité :**  
 ![OWASP ZAP](https://img.shields.io/badge/OWASP-ZAP-000000?logo=owasp)
-![Security Headers](https://img.shields.io/badge/Security-Headers-333333)
-![Archer](https://img.shields.io/badge/RSA-Archer-gray)
 ![OneTrust](https://img.shields.io/badge/OneTrust-GRC-3cb371)
-![Aravo](https://img.shields.io/badge/Aravo-GRC-informational)
+![Archer](https://img.shields.io/badge/RSA-Archer-gray)
 
-### ⚙️ Automatisation & Orchestration
-![Make.com](https://img.shields.io/badge/Make.com-Automation-blue)
-![Zapier](https://img.shields.io/badge/Zapier-Automation-orange?logo=zapier)
-![n8n](https://img.shields.io/badge/n8n-Workflows-green?logo=n8n)
-![Databricks](https://img.shields.io/badge/Databricks-Workflows-ee3b2d?logo=databricks)
-![Apache Airflow](https://img.shields.io/badge/Apache-Airflow-017CEE?logo=apacheairflow)
-
-</details>
-
+**Automatisation :**  
+![Make.com](https://img.shields.io/badge/Make.com-Automation-4b7bec)
+![n8n](https://img.shields.io/badge/n8n-Workflows-00A884?logo=n8n)
+![Zapier](https://img.shields.io/badge/Zapier-Integration-FF4F00?logo=zapier)
 
 ---
 
-## ✨ À propos
+## Mini-FAQ
 
-Je suis **Eddy AZEBAZE**, **Chef de projet IT stratégique**, **formateur certifié PMP® (PMI ATP)**, mentor et expert GRC, IA, Data & cybersécurité.  
-
-+ 10 ans d’impact terrain (ex. **MSD, BNP Paribas, Accenture, CGI, SG …**).
-
-J’accompagne DSI, PMO, dirigeants et équipes pour **reprendre le contrôle** sur des projets **complexes, réglementaires ou à forts enjeux** (AI Act, RGPD, NIS2…).  
+**Pourquoi “offline-ready” ?** Pour éviter les fuites de données et garantir la traçabilité.  
+**C’est adaptable à mon secteur ?** Oui : pharma/life sciences, finance/assurance, santé.  
+**On commence comment ?** Par un **diagnostic 30/60/90** et un pilote cadré **board-ready**.
 
 ---
 
-## 💡 Pour qui ?
+## Passer à l’action
 
-- **DSI / PMO** : gouvernance, conformité, portefeuille, crise  
-- **Tech & Data** : assets réutilisables, automatisations, docs claires, no/low-code  
-- **Décideurs & Métiers** : KPIs, ROI, feuille de route, narration de la valeur  
-- **Étudiants / Mentorés** : PMP®, posture PMO, coaching carrière
-
----
-
-## 🧭 Mon Fil rouge stratégique (Gouvernance → GRC → Cyber → Data → IA)
-
-| Pilier | Objectif | Livrables |
-|---|---|---|
-| **Gouvernance** | Objectifs, arbitrages, KPI/OKR | Roadmap, RACI, Canvas |
-| **GRC** | Risques & conformité (AI Act/NIS2/RGPD) | Scorecards, registres, plans |
-| **Cybersécurité** | Contrôles, SOC/SIEM | Dashboards sécu, protocoles |
-| **Data & Insights** | KPIs, ROI | Tableaux de bord COMEX |
-| **IA responsable** | Automatisation traçable | AI Act Readiness Scorecard |
+- <a href="https://calendly.com/eddy-azebaze-proton/30min"><strong>Réserver 30 min</strong></a> (exploration & cadrage)  
+- <a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism">LinkedIn</a> (parcours & publications)  
+- <a href="mailto:eddy.azebaze@proton.me">Email</a> (brief & disponibilité)
 
 ---
 
-## 🧭 Méthode en 4 étapes
-
-1) **Diagnostic** - audit enjeux/risques, exigences, posture sécu  
-2) **Cadrage** - objectifs, KPI/OKR, feuille de route, RACI  
-3) **Delivery** - itérations, démonstrations, contrôles cyber, traçabilité IA  
-4) **Résultats & Suivi** - scorecards, dashboards, ROI, amélioration continue
-
----
-
-## 📦 Livrables inclus 
-
-- Project charter plan, RACI, backlog/story map 
-- Artefacts conformité (AI Act/NIS2/RGPD)
-- Stratégie/tests/évidences
-- Rapport de résultats, ROI
-- **Runbook** opérationnel
-- Formation/transfert de compétences
-
----
-
-## 🛠️ Outils
-
-- **Gouvernance IT** : GitHub Projects, Notion, Miro, **MS Project**, ClickUp  
-- **Data/BI** : Power BI, Tableau, Qlik, Dataiku, Python, SQL, DAX, Pandas  
-- **IA & Agents** : OpenAI, Claude, Qwen, Botpress, LangChain, LangFlow  
-- **Cybersécurité** : OWASP ZAP, Security Headers, Aravo, Archer, OneTrust  
-- **Automatisation** : Make.com, Zapier, n8n, Databricks, Airflow
-
----
-
-## 🧩 Kits stratégiques
-
-🔥 **Ressources premium** conçues pour DSI/PMO/chefs de projet exigeants.  
-📧 **Contactez-moi** pour un kit personnalisé ou une démo : [eddy.azebaze@proton.me](mailto:eddy.azebaze@proton.me?subject=Demande%20Kit%20Strat%C3%A9gique%20by%20Eddy)
-
-- **AI Kit - GRC & Conformité** : checklists IA, prompts, matrices, outils d’évaluation réglementaire  
-- **Starter Kit Chef de Projet IT** : RACI, roadmap, backlog, templates de pilotage, plan de com’  
-- **Bootcamp PMP® by Eddy** : parcours intensif, guides & outils pour réussir la certification PMP®
-
----
-
-## 🎓 Témoignages & preuves d’impact
-
-> *“Your clarity, your listening, and the way you guided the discussion made it both insightful and motivating. The advice you shared on refining strategic positioning and keywords gave me concrete tools to better present my profile and stand out - even through ATS filters.”*  
-> L., Future Data Scientist (Mentoring Club)
-
-> *“Eddy doesn’t just answer questions, he connects the dots, anticipates doubts, and empowers action. Highly recommended for anyone transitioning into IT roles.”*  
-> B., Data Analyst (Mentoring Club)
-
-> *“J’ai testé le **AI Act Readiness Scorecard** conçu par Eddy. Démarche rigoureuse et pédagogique : diagnostic, plan d’action, documentation - vraie valeur ajoutée pour DSI confrontés à la conformité IA. Traçabilité et auditabilité exemplaires.”*  
-> **Malika Mir**, DSI 
-
-> *“Projet de conformité bancaire à la Société Générale : rigueur méthodologique, clarification des exigences, coordination IT-métier. Livrables structurés, adoption rapide. Une vraie valeur ajoutée.”*  
-> **Yannick Ouvrieu**, Directeur de projet IT
-
----
-
-## 📌 Projets démonstrateurs 
-
-| Projet | Description | Liens |
-|---|---|---|
-| **Assistant Virtuel Eddy** | Chatbot IA **hors-ligne** (base interne) - FAQ, qualification, plan d’action.<br>Spécialiste **GRC-IA-Data-PMP®**, **RDV 30 min**, **zéro hallucination**. | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/01-chatbot-assistant-eddy) · [Démo](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json) |
-| **AI Act Readiness Scorecard** | Évalue la **maturité AI Act** (scoring), détecte les écarts et **priorise** les actions.<br>Inclut des artefacts **prêts audit** (DPIA, journaux, notices). | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/02-ai-act-readiness-scorecard) · [Scorecard](https://ai-act-score.vercel.app) |
-| **Compliance & Incident Alert Flow (Make.com)** | **Workflow d’alerte** conformité/sécurité : détection → notification → journalisation → **escalade**.<br>Intégrations Slack/Sheets, réduction **MTTD/MTTR**. | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/03-automated-compliance-incident-alert-flow) · [Export](https://github.com/Eddyazebaze/portfolio-projets/blob/main/03-automated-compliance-incident-alert-flow/scenarios/make-scenario.json.json) |
-| **Project Value Canvas** | **Canvas 1-page** pour cadrer **valeur/risques/dépendances** et hypothèses clés d'un **projet**.<br>Décider **lancer/stopper/arbitrer** (narratif **board-ready**). | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/05-project-value-canvas) · [Démo](https://project-value-canvas.vercel.app/) |
-| **Audit Sécurité WordPress** | Audit **OWASP ZAP** - vulnérabilités & configuration, **correctifs** priorisés.<br>Guide d’actions **before/after** activable. | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/04-audit-securite-wordpress) · [Synthèse](https://github.com/Eddyazebaze/portfolio-projets/blob/main/04-audit-securite-wordpress/exports/security-summary.md) |
-| **Analyse Dépenses Santé - BI** | Dashboard **OMS/OCDE** - KPIs, tendances & benchmarks.<br>**Scénarios d’arbitrage** et storytelling comité. | [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) · [Reporting](https://github.com/Eddyazebaze/portfolio-projets/blob/main/06-analytics-sante-bi/reporting/Depenses_Sante%20France_2012-2022_Ce%20que%20disent%20les%20donnees_OMS_Eddy%20AZEBAZE.pdf) |
-
----
-
-## 🧠 Résultats & crédibilité
-
-- Livrables pensés, documentés et déployés par mes soins (validés et testés) 
-- Retours concrets (étudiants, mentorés, recruteurs, pairs tech)
-- Assets **réutilisables**, 
-- **personnalisables** et **activables** dans vos projets
-
----
-
-🤖 **Posez vos questions stratégiques à mon assistant IA**  
-
-➡️ [Démarrer la FAQ interactive](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json)
-
----
-
-## 💬 FAQ stratégique & avancée
-
-- **Alignement stratégique sur vos projets** : objectifs → KPI/OKR → feuille de route → arbitrages → revue trimestrielle  
-- **GRC vs Cybersécurité** : GRC = cadre/conformité ; Cyber = exécution/contrôles ; KPIs & KRIs unifiés  
-- **Livrables inclus** : Project charter plan, RACI, backlog, artefacts conformité, rapport ROI, runbook, transfert/formation  
-- **Data & Insights** : KPI, dashboards, value tracking, storytelling décisionnel, glossaire  
-- **Conformité AI Act** : classification risque, gouvernance IA, traçabilité, robustesse, documentation, **AI Act Readiness Scorecard**  
-- **Formation / Mentoring** : PMP®, IA responsable, GRC, cyber, bootcamps, mentoring individuel (FR/EN)  
-- **Portabilité & intégrations** : templates compatibles, import/export, documentation, réversibilité  
-- **Incidents & SLA** : SLA contractuel, priorisation, post-mortem, actions correctives
-  
-  *(FAQ complète disponible via le chatbot IA ou sur demande.)*
-
----
-
-## 🧩 Glossaire express
-
-- **GRC** : Gouvernance, Risques, Conformité  
-- **AI Act/NIS2/RGPD** : réglementation IA, cybersécurité, données personnelles 
-- **Runbook** : guide d’exploitation / mode opératoire  
-- **KPI/OKR** : indicateurs de performance / objectifs mesurables
-- **Delivery** : exécution
-
----
-
-## 🔒 Sécurité, confidentialité & licence
-
-Accès au moindre privilège · chiffrement · journalisation· conformité **RGPD/NIS2** · usage interne avec attribution · co-branding possible sur demande · pas de revente *as-is* · résidence des données conforme au contrat
-
----
-
-## ⚡ Plan 30/60/90 & mesure
-
-- **J+30** : diagnostic, quick wins, gouvernance stabilisée  
-- **J+60** : exécution rythmée, KPI visibles, backlog priorisé  
-- **J+90** : transferts, runbook, dashboards, amélioration continue  
-- **Mesure** : outcomes, ROI, satisfaction, conformité (auditabilité)
-
----
-
-## 🕑 Besoin d’une réponse sur-mesure ?
-
-Certaines demandes sortent du cadre de cette vitrine, ou méritent un traitement sur-mesure. Pour maximiser valeur & impact :  
-
-- Reformulez votre question en **une phrase**    
-- Parcourez la **[la FAQ interactive](https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/01/20250727010732-RSM5BWL1.json)**
-- 📅 **[Prendre RDV 30 min](https://calendly.com/eddy-azebaze-proton/30min)**  
-
-📧 **[eddy.azebaze@proton.me](mailto:eddy.azebaze@proton.me)** 
-
-> 🧠 “On ne livre pas un projet. On construit un **actif stratégique** : durable, traçable, auditable.”
-
----
-
-## 🏷️ Tags & Keywords
-
-- **Rôles & accréditations** - `chef de projet IT` `PMP` `PMI ATP` `PMO` `DSI` `PMI` `ISACA`  
-- **Gouvernance & conformité** - `GRC` `gouvernance IT` `AI governance` `AI Act` `NIS2` `RGPD` `compliance` `risk management`  
-- **Sécurité** - `cybersécurité` `security` `audit` `best practices`  
-- **Data & performance** - `Data & Insights` `business intelligence` `data analytics` `KPI` `OKR` `scorecard` `dashboard` `runbook`  
-- **Outils & stacks** - `Power BI` `Tableau` `Python` `OpenAI` `Botpress` `LangChain` `no-code` `low-code` `process automation`  
-- **Stratégie & services** - `IT strategy` `digital transformation` `project delivery` `consulting` `formation` `mentoring` `value creation` `documentation`
+<sub>© Projet Augmenté® — démonstrateurs fournis “as-is” pour usage d’évaluation. Conformité RGPD/NIS2/AI Act, traçabilité et réversibilité au cœur de la démarche.</sub>
