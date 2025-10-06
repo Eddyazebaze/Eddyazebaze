@@ -43,19 +43,20 @@ Je **co-pilote vos projets IT à fort enjeu** (PMO / Project Leadership) pour ga
 <!-- Favikon 2025 : réviser/retirer en janv. 2026 -->
 - **Top 20 - Favikon 2025 : Top Project Managers France**  
   _Classement mettant en lumière les leaders de projet qui transforment la visibilité en impact._  
-  **Eddy Azebaze - Project Leader | Data & Insights · GRC · IA · Cybersécurité**  
+  **Eddy AZEBAZE - Project Leader | Data & Insights · GRC · IA · Cybersécurité**  
   🔗 https://www.favikon.com/fr/blog/top-project-managers-france
 
 ---
 
 ## Projets premium (preuves terrain)
 
-### 1️⃣ Chatbot PMO - zéro hallucination (offline-ready)
-**Problème :** chatbots peu fiables, données non traçables.  
-**Solution :** assistant hors-ligne (RAG + garde-fous), réponses sourcées et journalisées.  
-**Impact :** qualification rapide des demandes, support projet intelligent.  
-👉 [Repo](https://github.com/Eddyazebaze/pmo-chatbot/tree/main) • [Démo](👉 <a href="https://cdn.botpress.cloud/webchat/v3.2/shareable.html?configUrl=https%3A%2F%2Fraw.githubusercontent.com%2FEddyazebaze%2Fpmo-chatbot%2Fmain%2Fwebchat.json" target="_blank" rel="noopener noreferrer">Démo</a>
-)
+<h3>1️⃣ Chatbot PMO - zéro hallucination (offline-ready)</h3>
+<p><strong>Problème :</strong> chatbots peu fiables, données non traçables.<br>
+<strong>Solution :</strong> assistant hors-ligne (RAG + garde-fous), réponses sourcées et journalisées.<br>
+<strong>Impact :</strong> qualification rapide des demandes, support projet intelligent.<br><br>
+👉 <a href="https://github.com/Eddyazebaze/pmo-chatbot/tree/main" target="_blank" rel="noopener">Repo</a> • 
+🎥 <a href="https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link" target="_blank" rel="noopener">Voir la démo sur Google Drive</a>
+</p>
 
 ---
 
