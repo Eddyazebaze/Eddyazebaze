@@ -54,7 +54,7 @@ Je **co-pilote vos projets IT à fort enjeu** (PMO / Project Leadership) pour ga
 **Problème :** chatbots peu fiables, données non traçables.  
 **Solution :** assistant hors-ligne (RAG + garde-fous), réponses sourcées et journalisées.  
 **Impact :** qualification rapide des demandes, support projet intelligent.  
-👉 [Repo](https://github.com/Eddyazebaze/pmo-chatbot/tree/main) • [Démo](https://cdn.botpress.cloud/webchat/v3.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/09/20/23/20250920230011-RY5POMNZ.json)
+👉 [Repo](https://github.com/Eddyazebaze/pmo-chatbot/tree/main) • [Démo](https://cdn.botpress.cloud/webchat/v3.2/shareable.html?configUrl=https%3A%2F%2Ffiles.bpcontent.cloud%2F2025%2F09%2F20%2F23%2F20250920230011-RY5POMNZ.json)
 
 ---
 
