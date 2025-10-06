@@ -43,7 +43,7 @@ Je **co-pilote vos projets IT à fort enjeu** (PMO / Project Leadership) pour ga
 <!-- Favikon 2025 : réviser/retirer en janv. 2026 -->
 - **Top 20 - Favikon 2025 : Top Project Managers France**  
   _Classement mettant en lumière les leaders de projet qui transforment la visibilité en impact._  
-  **Eddy Azebaze - Project Leader | Data & Insights · GRC · IA · Cynersécurité**  
+  **Eddy Azebaze - Project Leader | Data & Insights · GRC · IA · Cybersécurité**  
   🔗 https://www.favikon.com/fr/blog/top-project-managers-france
 
 ---
