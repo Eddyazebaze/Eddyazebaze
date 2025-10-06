@@ -58,6 +58,12 @@ Je **co-pilote vos projets IT à fort enjeu** (PMO / Project Leadership) pour ga
 🎥 <a href="https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link" target="_blank" rel="noopener">Voir la démo sur Google Drive</a>
 </p>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/demo-chatbot.png" alt="Miniature vidéo - Chatbot PMO Projet Augmenté (Eddy Azebaze)" width="780">
+  </a>
+</p>
+
 ---
 
 ### 2️⃣ AI Act Readiness Scorecard - conformité IA prête audit
@@ -134,4 +140,6 @@ Make.com, Zapier, n8n, Databricks, Apache Airflow
 
 ---
 
-<sub>© 2025 Projet Augmenté® - assets démonstrateurs fournis “as-is” pour usage d’évaluation. Conformité RGPD / NIS2 / DORA / AI Act - traçabilité et réversibilité au cœur de la démarche. · README mis à jour : Oct 2025</sub>
+<sub>© 2025 Projet Augmenté® - assets démonstrateurs fournis “as-is” pour usage d’évaluation.  
+Conformité RGPD / NIS2 / DORA / AI Act - traçabilité et réversibilité au cœur de la démarche.  
+README mis à jour : Oct 2025</sub>
