@@ -54,7 +54,8 @@ Je **co-pilote vos projets IT à fort enjeu** (PMO / Project Leadership) pour ga
 **Problème :** chatbots peu fiables, données non traçables.  
 **Solution :** assistant hors-ligne (RAG + garde-fous), réponses sourcées et journalisées.  
 **Impact :** qualification rapide des demandes, support projet intelligent.  
-👉 [Repo](https://github.com/Eddyazebaze/pmo-chatbot/tree/main) • [Démo](https://cdn.botpress.cloud/webchat/v3.2/shareable.html?configUrl=https%3A%2F%2Ffiles.bpcontent.cloud%2F2025%2F09%2F20%2F23%2F20250920230011-RY5POMNZ.json)
+👉 [Repo](https://github.com/Eddyazebaze/pmo-chatbot/tree/main) • [Démo](👉 <a href="https://cdn.botpress.cloud/webchat/v3.2/shareable.html?configUrl=https%3A%2F%2Fraw.githubusercontent.com%2FEddyazebaze%2Fpmo-chatbot%2Fmain%2Fwebchat.json" target="_blank" rel="noopener noreferrer">Démo</a>
+)
 
 ---
 
@@ -119,10 +120,10 @@ Make.com, Zapier, n8n, Databricks, Apache Airflow
 ---
 
 ## Passer à l’action
-- 👉 [Planifier 30 min](https://calendly.com/eddy-azebaze-proton/30min)  
-- 👉 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
-- 👉 [Email direct](mailto:eddy.azebaze@proton.me)  
-- 👉 [Medium](https://medium.com/@eddyazebaze)
+👉 [Planifier 30 min](https://calendly.com/eddy-azebaze-proton/30min)  
+👉 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
+👉 [Email direct](mailto:eddy.azebaze@proton.me)  
+👉 [Medium](https://medium.com/@eddyazebaze)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism"><img alt="LinkedIn - Eddy Azebaze" src="https://img.shields.io/badge/LinkedIn-Eddy%20Azebaze-blue"></a>
