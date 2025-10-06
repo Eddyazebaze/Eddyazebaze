@@ -8,7 +8,7 @@ Objectif : crédibilité + conversion (GitHub → Calendly/LinkedIn)
   <img src="assets/banner-projet-augmente.png" alt="Projet Augmenté - From IT projects to strategic assets" width="880">
 </p>
 
-<h1 align="center">Eddy AZEBAZE — Projet Augmenté®</h1>
+<h1 align="center">Eddy AZEBAZE - Projet Augmenté®</h1>
 <p align="center"><strong>From IT projects to strategic assets</strong></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism">LinkedIn</a> •
@@ -43,7 +43,7 @@ Je **co-pilote vos projets IT à fort enjeu** (PMO / Project Leadership) pour ga
 <!-- Favikon 2025 : réviser/retirer en janv. 2026 -->
 - **Top 20 - Favikon 2025 : Top Project Managers France**  
   _Classement mettant en lumière les leaders de projet qui transforment la visibilité en impact._  
-  **Eddy Azebaze — Project Leader | GRC · IA · Transformation IT**  
+  **Eddy Azebaze - Project Leader | Data & Insights · GRC · IA · Cynersécurité**  
   🔗 https://www.favikon.com/fr/blog/top-project-managers-france
 
 ---
@@ -132,4 +132,4 @@ Make.com, Zapier, n8n, Databricks, Apache Airflow
 
 ---
 
-<sub>© 2025 Projet Augmenté® — assets démonstrateurs fournis “as-is” pour usage d’évaluation. Conformité RGPD / NIS2 / DORA / AI Act — traçabilité et réversibilité au cœur de la démarche. · README mis à jour : Oct 2025</sub>
+<sub>© 2025 Projet Augmenté® - assets démonstrateurs fournis “as-is” pour usage d’évaluation. Conformité RGPD / NIS2 / DORA / AI Act - traçabilité et réversibilité au cœur de la démarche. · README mis à jour : Oct 2025</sub>
