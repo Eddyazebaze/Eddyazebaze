@@ -55,7 +55,7 @@ Je **co-pilote vos projets IT à fort enjeu** (PMO / Project Leadership) pour ga
 ☉ <strong>Solution :</strong> assistant hors-ligne (RAG + garde-fous), réponses sourcées et journalisées.<br>
 ☉ <strong>Impact :</strong> qualification rapide des demandes, support projet intelligent.<br><br>
 ⭓ <a href="https://github.com/Eddyazebaze/pmo-chatbot/tree/main" target="_blank" rel="noopener">Repo</a> • 
-🎥 <a href="https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link" target="_blank" rel="noopener">Voir la démo sur Google Drive</a>
+🎥 <a href="https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link" target="_blank" rel="noopener">Voir la vidéo démo</a>
 </p>
 
 <p align="center">
@@ -97,22 +97,22 @@ Je **co-pilote vos projets IT à fort enjeu** (PMO / Project Leadership) pour ga
 <details>
   <summary> Voir ma stack complète</summary>
 
-### Gouvernance & Delivery
-GitHub Projects, Notion, Miro, MS Project, ClickUp  
-**Cycle de vie projet (SDLC)** : cadrage → build → test → run  
+### ◉ Gouvernance & Delivery
+➤ GitHub Projects, Notion, Miro, MS Project, ClickUp  
+➤ **Cycle de vie projet (SDLC)** : cadrage → build → test → run  
 
-### Data & Insights
-Power BI, Tableau, Qlik Sense, Dataiku, Python (Pandas)  
-Langages : HTML, SQL, DAX  
+### ◉ Data & Insights
+➤ Power BI, Tableau, Qlik Sense, Dataiku, Python (Pandas)  
+➤ Langages : HTML, SQL, DAX  
 
-### IA & Agents
-OpenAI API, Claude, Qwen, Botpress, LangChain, LangFlow  
+### ◉ IA & Agents
+➤ OpenAI API, Claude, Qwen, Botpress, LangChain, LangFlow  
 
-### Cybersécurité & Conformité
-OWASP ZAP, Security Headers, Aravo, Archer, OneTrust  
+### ◉ Cybersécurité & Conformité
+➤ OWASP ZAP, Security Headers, Aravo, Archer, OneTrust  
 
-### Automatisation & Orchestration
-Make.com, Zapier, n8n, Databricks, Apache Airflow  
+### ◉ Automatisation & Orchestration
+➤ Make.com, Zapier, n8n, Databricks, Apache Airflow  
 
 </details>
 
