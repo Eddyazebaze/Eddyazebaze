@@ -78,10 +78,10 @@ Lien : <a href="https://www.favikon.com/fr/blog/top-project-managers-france" ti
 <hr/>
 
 ### Démonstrateurs réservés (projets confidentiels)
-Ces projets illustrent des cas d’usage réels en *GRC, **IA, **Cybersécurité* et *Data*.  
+Ces projets illustrent des cas d’usage réels en **GRC**, **IA**, **Cybersécurité** et **Data**.  
 Ils démontrent la mise en œuvre concrète de cadres de conformité, d’orchestration et de pilotage stratégique à fort enjeu.
 
-*Exemples de projets réservés :*
+**Exemples de projets réservés :**
 - Automated Compliance & Incident Alert Flow (Make.com)  
 - Project Value Canvas (1-page framework)  
 - Audit Sécurité WordPress (OWASP ZAP)  
