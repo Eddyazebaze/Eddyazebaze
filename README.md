@@ -77,14 +77,17 @@ Lien : <a href="https://www.favikon.com/fr/blog/top-project-managers-france" ti
 
 <hr/>
 
-<h3>3. BI Santé - OMS/OCDE pour arbitrages</h3>
-<p><strong>Problème</strong> : données santé fragmentées, décisions non étayées.<br/>
-<strong>Solution</strong> : dashboard OMS/OCDE : tendances, benchmarks, scénarios d’arbitrage.<br/>
-<strong>Impact</strong> : vision clarifiée, ROI mesurable, restitution <em>board‑ready</em>.<br/>
-<strong>Liens</strong> : <a href="https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi" title="Dépôt GitHub - BI Santé OMS/OCDE">voir le dépôt</a> ·
-<a href="https://github.com/Eddyazebaze/portfolio-projets/blob/main/06-analytics-sante-bi/reporting/Depenses_Sante%20France_2012-2022_Ce%20que%20disent%20les%20donnees_OMS_Eddy%20AZEBAZE.pdf" title="Extrait PDF - Dépenses Santé France 2012‑2022 (OMS/OCDE)">extrait PDF</a></p>
+### Démonstrateurs réservés (projets confidentiels)
+Ces projets illustrent des cas d’usage réels en *GRC, **IA, **Cybersécurité* et *Data*.  
+Ils démontrent la mise en œuvre concrète de cadres de conformité, d’orchestration et de pilotage stratégique à fort enjeu.
 
-<hr/>
+*Exemples de projets réservés :*
+- Automated Compliance & Incident Alert Flow (Make.com)  
+- Project Value Canvas (1-page framework)  
+- Audit Sécurité WordPress (OWASP ZAP)  
+- BI Santé - Dashboard OMS/OCDE (Power BI)  
+
+👉 Présentation disponible sur demande qualifiée : [réserver un échange](https://calendly.com/eddy-azebaze-proton/30min)
 
 <!-- MÉTHODE (numérotation claire, mots‑clés naturels) -->
 <h2>Méthode de delivery (sûre &amp; mesurable)</h2>
