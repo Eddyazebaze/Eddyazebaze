@@ -28,33 +28,33 @@ Objectif : crédibilité + conversion (GitHub → Calendly/LinkedIn)
 ## Proposition de valeur
 
 Je **co-pilote vos projets IT à fort enjeu** (PMO / Project Leadership) pour garantir :  
-- une **valeur mesurable** alignée sur vos KPI,  
-- une **conformité démontrable** (AI Act, NIS2, RGPD, DORA),  
-- un **delivery auditable & durable**, prêt pour le COMEX.  
+☉ une **valeur mesurable** alignée sur vos KPI,  
+☉ une **conformité démontrable** (AI Act, NIS2, RGPD, DORA),  
+☉ un **delivery auditable & durable**, prêt pour le COMEX.  
 
 💡 *« On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable. »*
 
-**Cible :** DSI, PMO, RSSI, directions métiers (pharma, banque, santé).  
-**CTA →** 👉 [Planifier 30 min](https://calendly.com/eddy-azebaze-proton/30min) • [Contact direct](mailto:eddy.azebaze@proton.me)
+☉ **Cible :** DSI, PMO, RSSI, directions métiers (pharma, banque, santé).  
+☉ **CTA →** 👉 [Planifier 30 min](https://calendly.com/eddy-azebaze-proton/30min) • [Contact direct](mailto:eddy.azebaze@proton.me)
 
 ---
 
 ## Mentions / Distinctions
 <!-- Favikon 2025 : réviser/retirer en janv. 2026 -->
-- **Top 20 - Favikon 2025 : Top Project Managers France**  
+☉ **Top 20 - Favikon 2025 : Top Project Managers France**  
   _Classement mettant en lumière les leaders de projet qui transforment la visibilité en impact._  
   **Eddy AZEBAZE - Project Leader | Data & Insights · GRC · IA · Cybersécurité**  
-  🔗 https://www.favikon.com/fr/blog/top-project-managers-france
+  ⭓ 🔗 https://www.favikon.com/fr/blog/top-project-managers-france
 
 ---
 
 ## Projets premium (preuves terrain)
 
 <h3>1️⃣ Chatbot PMO - zéro hallucination (offline-ready)</h3>
-<p><strong>Problème :</strong> chatbots peu fiables, données non traçables.<br>
-<strong>Solution :</strong> assistant hors-ligne (RAG + garde-fous), réponses sourcées et journalisées.<br>
-<strong>Impact :</strong> qualification rapide des demandes, support projet intelligent.<br><br>
-👉 <a href="https://github.com/Eddyazebaze/pmo-chatbot/tree/main" target="_blank" rel="noopener">Repo</a> • 
+☉ <p><strong>Problème :</strong> chatbots peu fiables, données non traçables.<br>
+☉ <strong>Solution :</strong> assistant hors-ligne (RAG + garde-fous), réponses sourcées et journalisées.<br>
+☉ <strong>Impact :</strong> qualification rapide des demandes, support projet intelligent.<br><br>
+⭓ <a href="https://github.com/Eddyazebaze/pmo-chatbot/tree/main" target="_blank" rel="noopener">Repo</a> • 
 🎥 <a href="https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link" target="_blank" rel="noopener">Voir la démo sur Google Drive</a>
 </p>
 
@@ -67,18 +67,18 @@ Je **co-pilote vos projets IT à fort enjeu** (PMO / Project Leadership) pour ga
 ---
 
 ### 2️⃣ AI Act Readiness Scorecard - conformité IA prête audit
-**Problème :** l’AI Act impose une gouvernance traçable (datasets, risques, registre).  
-**Solution :** scorecard de maturité + artefacts (DPIA, journaux, notices).  
-**Impact :** conformité prouvée, décisions COMEX plus rapides et argumentées.  
-👉 [Repo](https://github.com/Eddyazebaze/ai-act-readiness-scorecard) • [Scorecard Live](https://aiactreadinesssscorecard.netlify.app/)
+☉ **Problème :** l’AI Act impose une gouvernance traçable (datasets, risques, registre).  
+☉ **Solution :** scorecard de maturité + artefacts (DPIA, journaux, notices).  
+☉ **Impact :** conformité prouvée, décisions COMEX plus rapides et argumentées.  
+⭓ [Repo](https://github.com/Eddyazebaze/ai-act-readiness-scorecard) • [Scorecard Live](https://aiactreadinesssscorecard.netlify.app/)
 
 ---
 
 ### 3️⃣ BI Santé - analyse OMS / OCDE pour arbitrages
-**Problème :** données santé fragmentées, décisions non étayées.  
-**Solution :** dashboard OMS/OCDE : tendances, benchmarks, scénarios d’arbitrage.  
-**Impact :** vision clarifiée, ROI mesurable, storytelling board-ready.  
-👉 [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) • [Extrait PDF](https://github.com/Eddyazebaze/portfolio-projets/blob/main/06-analytics-sante-bi/reporting/Depenses_Sante%20France_2012-2022_Ce%20que%20disent%20les%20donnees_OMS_Eddy%20AZEBAZE.pdf)
+☉ **Problème :** données santé fragmentées, décisions non étayées.  
+☉ **Solution :** dashboard OMS/OCDE : tendances, benchmarks, scénarios d’arbitrage.  
+☉ **Impact :** vision clarifiée, ROI mesurable, storytelling board-ready.  
+⭓ [Repo](https://github.com/Eddyazebaze/portfolio-projets/tree/main/06-analytics-sante-bi) • [Extrait PDF](https://github.com/Eddyazebaze/portfolio-projets/blob/main/06-analytics-sante-bi/reporting/Depenses_Sante%20France_2012-2022_Ce%20que%20disent%20les%20donnees_OMS_Eddy%20AZEBAZE.pdf)
 
 ---
 
@@ -120,9 +120,9 @@ Make.com, Zapier, n8n, Databricks, Apache Airflow
 
 ## Mini-FAQ
 
-**Pourquoi “offline-ready” ?** → Pour maîtriser les données et garantir la traçabilité.  
-**Adaptable à mon secteur ?** → Oui : pharma / banque / santé.  
-**Comment démarrer ?** → Diagnostic 30-60-90 puis pilote board-ready.
+☉ **Pourquoi “offline-ready” ?** → Pour maîtriser les données et garantir la traçabilité.  
+☉ **Adaptable à mon secteur ?** → Oui : pharma / banque / santé.  
+☉ **Comment démarrer ?** → Diagnostic 30-60-90 puis pilote board-ready.
 
 ---
 
