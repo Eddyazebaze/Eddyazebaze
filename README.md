@@ -137,10 +137,10 @@ Ils démontrent la mise en œuvre concrète de cadres de conformité, d’orches
 <!-- CTA final avec ancres sémantiques -->
 <h2>Passer à l’action</h2>
 <p>
-<a href="https://calendly.com/eddy-azebaze-proton/30min" title="Planifier un appel de cadrage de 30 minutes avec Eddy AZEBAZE">➡ Planifier 30&nbsp;min (appel de cadrage)</a><br/>
-<a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism" title="Profil LinkedIn - Eddy AZEBAZE">💼 Profil LinkedIn</a><br/>
-<a href="mailto:eddy.azebaze@proton.me" title="Écrire à Eddy AZEBAZE">✉ Email direct</a><br/>
-<a href="https://medium.com/@eddyazebaze" title="Articles d’analyse - Gouvernance, IA, Cybersécurité">📰 Articles Medium</a>
+<a ➡ href="https://calendly.com/eddy-azebaze-proton/30min" title="Planifier un appel de cadrage de 30 minutes avec Eddy AZEBAZE"> Planifier 30&nbsp;min (appel de cadrage)</a><br/>
+<a 💼 href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism" title="Profil LinkedIn - Eddy AZEBAZE"> Profil LinkedIn</a><br/>
+<a ✉ href="mailto:eddy.azebaze@proton.me" title="Écrire à Eddy AZEBAZE"> Email direct</a><br/>
+<a 📰 href="https://medium.com/@eddyazebaze" title="Articles d’analyse - Gouvernance, IA, Cybersécurité"> Articles Medium</a>
 </p>
 
 <p align="left">
