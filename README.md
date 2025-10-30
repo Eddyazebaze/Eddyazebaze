@@ -172,55 +172,48 @@ Classement des leaders de projet axés impact et gouvernance.<br/>
 
 <details>
   <summary>Quelle est votre approche de cadrage projet ?</summary>
-  Le cadrage repose sur trois livrables : un RACI clair, une feuille de route orientée résultats, et un “Project Charter” synthétisant enjeux, risques et livrables.  
-  Tout est pensé pour être lisible par un comité de direction ou un board.
+  Un cadrage clair, orienté résultats : RACI, objectifs, feuille de route, et livrables audités.  
+  L’enjeu : garantir la cohérence entre ambition, ressources et valeur mesurable.
 </details>
 
 <details>
   <summary>Quelle différence entre un projet « livré » et un projet « abouti » ?</summary>
-  Un projet livré respecte un plan.  
-  Un projet abouti crée une valeur d’usage mesurable, documentée et durable pour les parties prenantes.  
-  La différence se joue sur la traçabilité, l’adoption et la capacité à évoluer.
+  Un projet livré respecte le plan ; un projet abouti crée une valeur durable, documentée et mesurable.  
+  C’est la base de l’approche Projet Augmenté®.
 </details>
 
-<h3>Gouvernance & Conformité</h3>
+<h3>Gouvernance, Conformité & Infrastructure</h3>
+
+<details>
+  <summary>Comment animez-vous les comités projet et de pilotage ?</summary>
+  En rendant chaque comité utile : décisions claires, actions tracées, vision partagée.  
+  L’objectif n’est pas d’informer, mais de faire progresser collectivement le projet.
+</details>
 
 <details>
   <summary>Comment gérez-vous les risques IA, RGPD ou cybersécurité ?</summary>
-  Par une approche GRC intégrée : DPIA, registre des traitements, journalisation, plans de contrôle et réversibilité.  
-  Chaque initiative IA ou Data est documentée, audit-ready et alignée avec l’AI Act.
+  Par une approche GRC intégrée : DPIA, registre des traitements, plan de contrôle et audit readiness.  
+  Objectif : transformer la conformité en levier de performance durable.
 </details>
 
 <details>
-  <summary>Comment introduire l’IA dans un projet sans dérive ?</summary>
-  L’IA s’intègre dans les processus existants avec des garde-fous GRC et une traçabilité complète.  
-  Objectif : fiabiliser la donnée et accélérer la décision sans compromettre la conformité.
+  <summary>Comment abordez-vous les sujets d’infrastructure (cloud, sécurité, intégration) ?</summary>
+  Avec une approche <strong>DevSecOps et ITIL 4</strong> intégrée dès la conception : conformité, performance et sécurité avancent ensemble.  
+  Chaque environnement est conçu pour être <strong>scalable, traçable et résilient</strong>, sans compromis sur la gouvernance ni la qualité de service.
 </details>
 
-<details>
-  <summary>Comment pilotez-vous la relation avec les parties prenantes ?</summary>
-  Par un pilotage multi-niveaux : comités projet réguliers, synthèses exécutives pour la direction, et feedbacks utilisateurs intégrés au cycle.  
-  Transparence et traçabilité remplacent le “reporting défensif”.
-</details>
-
-<h3>Produit & Stakeholders</h3>
+<h3>Produit & Collaboration</h3>
 
 <details>
   <summary>Quelle est votre approche orientée « produit » ?</summary>
-  Chaque projet est traité comme un produit vivant : valeur d’usage, maintenabilité et capacité d’évolution.  
-  Les équipes adoptent une logique de <em>continuous value delivery</em>.
-</details>
-
-<details>
-  <summary>Quels outils privilégiez-vous pour piloter vos projets ?</summary>
-  GitHub Projects pour la traçabilité, Power BI pour les indicateurs, Notion pour la gouvernance et Miro pour les ateliers de cadrage.  
-  Tous les artefacts convergent vers une source de vérité unique et auditable.
+  Un projet est un produit vivant : il évolue, se maintient, et délivre une valeur d’usage continue.  
+  La valeur se mesure autant dans le temps que dans le livrable initial.
 </details>
 
 <details>
   <summary>Quelle est la première étape si nous collaborons ?</summary>
-  Un diagnostic 30-60-90 : identification des enjeux, cartographie des risques et plan d’action pragmatique.  
-  Puis cadrage d’un pilote à impact mesurable.
+  Un diagnostic 30-60-90 : évaluation des enjeux, risques, et livrables attendus.  
+  Puis un pilote concret, mesuré, et <em>board-ready</em>.
 </details>
 
 <hr/>
@@ -236,8 +229,3 @@ Classement des leaders de projet axés impact et gouvernance.<br/>
 <hr/>
 
 <p><sub>© 2025 Projet Augmenté® - démonstrateurs fournis « as-is ». Conformité RGPD / NIS2 / DORA / AI Act. Dernière mise à jour : Octobre 2025.</sub></p>
-"""
-
-out = Path("/mnt/data/README-projet-augmente-complet-UX-stack.md")
-out.write_text(readme_full, encoding="utf-8")
-out
