@@ -36,7 +36,7 @@
 
 <h2 id="proposition-de-valeur">Proposition de valeur</h2>
 <p>
-Je co-pilote vos <strong>projets IT les plus exigeants</strong> pour en faire de <strong>véritables actifs stratégiques</strong> — mesurables, conformes et durables.
+Je co-pilote vos <strong>projets IT les plus exigeants</strong> pour en faire de <strong>véritables actifs stratégiques</strong> : mesurables, conformes et durables.
 Intégration GRC, conformité (AI Act, NIS2, RGPD, DORA) et cybersécurité pour des environnements régulés (pharma, banque, santé).
 Pilotage PMO, KPI/OKR et traçabilité complète pour des décisions <em>board-ready</em>.
 </p>
