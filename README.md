@@ -36,7 +36,7 @@
 
 <h2 id="proposition-de-valeur">Proposition de valeur</h2>
 <p>
-Je co-pilote vos <strong>projets IT les plus exigeants</strong> pour en faire de <strong>véritables actifs stratégiques</strong> - mesurables, conformes et durables.
+Je co-pilote vos <strong>projets IT les plus exigeants</strong> pour en faire de <strong>véritables actifs stratégiques</strong> — mesurables, conformes et durables.
 Intégration GRC, conformité (AI Act, NIS2, RGPD, DORA) et cybersécurité pour des environnements régulés (pharma, banque, santé).
 Pilotage PMO, KPI/OKR et traçabilité complète pour des décisions <em>board-ready</em>.
 </p>
@@ -128,7 +128,28 @@ dialogue, transmission et engagement au service de la performance durable.
 <hr/>
 
 <h2 id="stack">Stack / outils</h2>
-<p>GitHub Projects, Notion, Miro, Power BI, Botpress, LangChain, OWASP ZAP, Make.com, Dataiku, Tableau, n8n, Zapier.</p>
+
+<!-- STACK dans un <details> pour ne pas alourdir la page -->
+<details>
+  <summary>Voir la stack complète</summary>
+
+  <h3>Gouvernance &amp; Delivery</h3>
+  <p>GitHub Projects, Notion, Miro, MS Project, ClickUp<br/>
+  <strong>Cycle de vie projet (SDLC)</strong> : cadrage → build → test → run</p>
+
+  <h3>Data &amp; Insights</h3>
+  <p>Power BI, Tableau, Qlik Sense, Dataiku, Python (Pandas)<br/>
+  Langages : HTML, SQL, DAX</p>
+
+  <h3>IA &amp; Agents</h3>
+  <p>OpenAI API, Claude, Qwen, Botpress, LangChain, LangFlow</p>
+
+  <h3>Cybersécurité &amp; Conformité</h3>
+  <p>OWASP ZAP, Security Headers, Aravo, Archer, OneTrust</p>
+
+  <h3>Automatisation &amp; Orchestration</h3>
+  <p>Make.com, Zapier, n8n, Databricks, Apache Airflow</p>
+</details>
 
 <hr/>
 
@@ -140,11 +161,67 @@ Classement des leaders de projet axés impact et gouvernance.<br/>
 <hr/>
 
 <h2 id="faq">Questions fréquentes</h2>
-<ul>
-  <li><strong>Pourquoi « offline-ready » ?</strong> Pour maîtriser les données, tracer chaque réponse et limiter l’exposition externe.</li>
-  <li><strong>Adaptable à mon secteur ?</strong> Oui : pharma, banque, santé et environnements régulés similaires.</li>
-  <li><strong>Comment démarrer ?</strong> Diagnostic 30-60-90, puis pilote ciblé et restitution <em>board-ready</em>.</li>
-</ul>
+
+<h3>Pilotage & Valeur</h3>
+
+<details open>
+  <summary>Comment mesurez-vous la valeur d’un projet IT ?</summary>
+  Par un modèle à cinq dimensions : valeur business, utilisateur, opérationnelle, réglementaire et stratégique.  
+  Chaque livrable est relié à un indicateur concret (KPI/OKR) et à une priorité métier validée par le sponsor.
+</details>
+
+<details>
+  <summary>Quelle est votre approche de cadrage projet ?</summary>
+  Le cadrage repose sur trois livrables : un RACI clair, une feuille de route orientée résultats, et un “Project Charter” synthétisant enjeux, risques et livrables.  
+  Tout est pensé pour être lisible par un comité de direction ou un board.
+</details>
+
+<details>
+  <summary>Quelle différence entre un projet « livré » et un projet « abouti » ?</summary>
+  Un projet livré respecte un plan.  
+  Un projet abouti crée une valeur d’usage mesurable, documentée et durable pour les parties prenantes.  
+  La différence se joue sur la traçabilité, l’adoption et la capacité à évoluer.
+</details>
+
+<h3>Gouvernance & Conformité</h3>
+
+<details>
+  <summary>Comment gérez-vous les risques IA, RGPD ou cybersécurité ?</summary>
+  Par une approche GRC intégrée : DPIA, registre des traitements, journalisation, plans de contrôle et réversibilité.  
+  Chaque initiative IA ou Data est documentée, audit-ready et alignée avec l’AI Act.
+</details>
+
+<details>
+  <summary>Comment introduire l’IA dans un projet sans dérive ?</summary>
+  L’IA s’intègre dans les processus existants avec des garde-fous GRC et une traçabilité complète.  
+  Objectif : fiabiliser la donnée et accélérer la décision sans compromettre la conformité.
+</details>
+
+<details>
+  <summary>Comment pilotez-vous la relation avec les parties prenantes ?</summary>
+  Par un pilotage multi-niveaux : comités projet réguliers, synthèses exécutives pour la direction, et feedbacks utilisateurs intégrés au cycle.  
+  Transparence et traçabilité remplacent le “reporting défensif”.
+</details>
+
+<h3>Produit & Stakeholders</h3>
+
+<details>
+  <summary>Quelle est votre approche orientée « produit » ?</summary>
+  Chaque projet est traité comme un produit vivant : valeur d’usage, maintenabilité et capacité d’évolution.  
+  Les équipes adoptent une logique de <em>continuous value delivery</em>.
+</details>
+
+<details>
+  <summary>Quels outils privilégiez-vous pour piloter vos projets ?</summary>
+  GitHub Projects pour la traçabilité, Power BI pour les indicateurs, Notion pour la gouvernance et Miro pour les ateliers de cadrage.  
+  Tous les artefacts convergent vers une source de vérité unique et auditable.
+</details>
+
+<details>
+  <summary>Quelle est la première étape si nous collaborons ?</summary>
+  Un diagnostic 30-60-90 : identification des enjeux, cartographie des risques et plan d’action pragmatique.  
+  Puis cadrage d’un pilote à impact mesurable.
+</details>
 
 <hr/>
 
@@ -159,3 +236,8 @@ Classement des leaders de projet axés impact et gouvernance.<br/>
 <hr/>
 
 <p><sub>© 2025 Projet Augmenté® - démonstrateurs fournis « as-is ». Conformité RGPD / NIS2 / DORA / AI Act. Dernière mise à jour : Octobre 2025.</sub></p>
+"""
+
+out = Path("/mnt/data/README-projet-augmente-complet-UX-stack.md")
+out.write_text(readme_full, encoding="utf-8")
+out
