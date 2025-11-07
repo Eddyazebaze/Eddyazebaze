@@ -12,10 +12,36 @@
   <a href="https://medium.com/@eddyazebaze" title="Articles Medium - Gouvernance, IA, GRC">Medium</a>
 </p>
 
+<!-- Badges de certifications alignés sur une ligne -->
 <p align="center">
-  <a href="https://www.credly.com/badges/3797a0f9-e5de-4ad9-acf0-d463596983ca"><img alt="Badge PMI ATP Trainer - Eddy AZEBAZE" src="https://img.shields.io/badge/PMI-ATP%20Trainer-brightgreen?logo=pmiprojectmanagement"></a>
-  <a href="https://www.credly.com/badges/80aef1a1-8173-45a6-b508-0892da3a8ef9"><img alt="Badge PMP Certified - Eddy AZEBAZE" src="https://img.shields.io/badge/PMP%C2%AE-Certified-0A66C2?logo=pmiprojectmanagement"></a>
-  <a href="https://www.credly.com/badges/17512e3f-8b80-4de2-b3c8-896133b289f2/public_url"><img alt="Badge CISM Certified - Eddy AZEBAZE" src="https://img.shields.io/badge/CISM%C2%AE-Certified-2E8B57"></a>
+  <a href="https://www.credly.com/badges/3797a0f9-e5de-4ad9-acf0-d463596983ca" title="Vérifier le badge PMI ATP Trainer">
+    <img alt="PMI ATP Trainer — Eddy AZEBAZE"
+         src="https://img.shields.io/badge/PMI-ATP%20Trainer-0A66C2?style=flat-square&logo=pmiprojectmanagement&logoColor=white">
+  </a>
+  <a href="https://www.credly.com/badges/80aef1a1-8173-45a6-b508-0892da3a8ef9" title="Vérifier le badge PMP®">
+    <img alt="PMP® Certified — Eddy AZEBAZE"
+         src="https://img.shields.io/badge/PMP%C2%AE-Certified-0A66C2?style=flat-square&logo=pmiprojectmanagement&logoColor=white">
+  </a>
+  <a href="https://www.credly.com/badges/17512e3f-8b80-4de2-b3c8-896133b289f2/public_url" title="Vérifier le badge CISM®">
+    <img alt="CISM® Certified — Eddy AZEBAZE"
+         src="https://img.shields.io/badge/CISM%C2%AE-Certified-2E8B57?style=flat-square&logo=isaca&logoColor=white">
+  </a>
+  <a href="https://www.peoplecert.org/for-corporations/certificate-verification-service" title="Vérifier la certification ITIL 4 (PeopleCert)">
+    <img alt="ITIL 4 Certified — Eddy AZEBAZE"
+         src="https://img.shields.io/badge/ITIL%204-Certified-6B3FA0?style=flat-square">
+  </a>
+  <a href="https://education.securiti.ai/verification/13EFA4243-13EFA40B2-138D62491/" title="Vérifier la certification AI Security &amp; Governance (Securiti Education)">
+    <img alt="AI Security &amp; Governance — Eddy AZEBAZE"
+         src="https://img.shields.io/badge/AI%20Security%20%26%20Governance-Certified-111827?style=flat-square">
+  </a>
+  <a href="https://www.credly.com/badges/4650929a-95e3-44f4-bc86-c7b1d6048d44/public_url" title="Vérifier le badge PSM I (Scrum.org)">
+    <img alt="PSM I — Professional Scrum Master I — Eddy AZEBAZE"
+         src="https://img.shields.io/badge/PSM%20I-Scrum.org-0C4A6E?style=flat-square">
+  </a>
+  <a href="https://www.credly.com/badges/6ca2f43b-6f8a-4362-ad7c-7327c41ee5ce/public_url" title="Vérifier le badge PSPO I (Scrum.org)">
+    <img alt="PSPO I — Professional Scrum Product Owner I — Eddy AZEBAZE"
+         src="https://img.shields.io/badge/PSPO%20I-Scrum.org-166534?style=flat-square">
+  </a>
 </p>
 
 <hr/>
@@ -129,7 +155,6 @@ dialogue, transmission et engagement au service de la performance durable.
 
 <h2 id="stack">Stack / outils</h2>
 
-<!-- STACK dans un <details> pour ne pas alourdir la page -->
 <details>
   <summary>Voir la stack complète</summary>
 
