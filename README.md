@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Eddy AZEBAZE - Projet Augmenté®</h1>
-<p align="center"><strong>IT Project Leader (PMP® · CISM® · AWS CCP) - GRC • AI Act • Cybersécurité • Data &amp; Insights</strong></p>
+<p align="center"><strong>IT Project Leader (PMP® · CISM®) - GRC • AI Act • Cybersécurité • Data &amp; Insights</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism" title="Profil LinkedIn - Eddy AZEBAZE">LinkedIn</a> •
@@ -12,38 +12,38 @@
   <a href="https://medium.com/@eddyazebaze" title="Articles Medium - Gouvernance, IA, GRC">Medium</a>
 </p>
 
-<!-- Badges de certifications alignés sur une seule ligne -->
+<!-- Badges de certifications (ligne unique, palette pro) -->
 <p align="center">
   <a href="https://www.credly.com/badges/3797a0f9-e5de-4ad9-acf0-d463596983ca" title="Vérifier le badge PMI ATP Trainer">
-    <img alt="PMI ATP Trainer - Eddy AZEBAZE"
+    <img alt="PMI ATP Trainer — Eddy AZEBAZE"
          src="https://img.shields.io/badge/PMI-ATP%20Trainer-0A66C2?style=flat-square&logo=pmiprojectmanagement&logoColor=white">
   </a>
   <a href="https://www.credly.com/badges/80aef1a1-8173-45a6-b508-0892da3a8ef9" title="Vérifier le badge PMP®">
-    <img alt="PMP® Certified - Eddy AZEBAZE"
+    <img alt="PMP® Certified — Eddy AZEBAZE"
          src="https://img.shields.io/badge/PMP%C2%AE-Certified-0A66C2?style=flat-square&logo=pmiprojectmanagement&logoColor=white">
   </a>
   <a href="https://www.credly.com/badges/17512e3f-8b80-4de2-b3c8-896133b289f2/public_url" title="Vérifier le badge CISM®">
-    <img alt="CISM® Certified - Eddy AZEBAZE"
+    <img alt="CISM® Certified — Eddy AZEBAZE"
          src="https://img.shields.io/badge/CISM%C2%AE-Certified-2E8B57?style=flat-square&logo=isaca&logoColor=white">
   </a>
   <a href="https://www.peoplecert.org/for-corporations/certificate-verification-service" title="Vérifier la certification ITIL 4 (PeopleCert)">
-    <img alt="ITIL 4 Certified - Eddy AZEBAZE"
+    <img alt="ITIL 4 Certified — Eddy AZEBAZE"
          src="https://img.shields.io/badge/ITIL%204-Certified-6B3FA0?style=flat-square">
   </a>
   <a href="https://education.securiti.ai/verification/13EFA4243-13EFA40B2-138D62491/" title="Vérifier la certification AI Security &amp; Governance (Securiti Education)">
-    <img alt="AI Security &amp; Governance - Eddy AZEBAZE"
+    <img alt="AI Security &amp; Governance — Eddy AZEBAZE"
          src="https://img.shields.io/badge/AI%20Security%20%26%20Governance-Certified-111827?style=flat-square">
   </a>
   <a href="https://www.credly.com/badges/4650929a-95e3-44f4-bc86-c7b1d6048d44/public_url" title="Vérifier le badge PSM I (Scrum.org)">
-    <img alt="PSM I - Professional Scrum Master I - Eddy AZEBAZE"
+    <img alt="PSM I — Professional Scrum Master I — Eddy AZEBAZE"
          src="https://img.shields.io/badge/PSM%20I-Scrum.org-0C4A6E?style=flat-square">
   </a>
   <a href="https://www.credly.com/badges/6ca2f43b-6f8a-4362-ad7c-7327c41ee5ce/public_url" title="Vérifier le badge PSPO I (Scrum.org)">
-    <img alt="PSPO I - Professional Scrum Product Owner I - Eddy AZEBAZE"
+    <img alt="PSPO I — Professional Scrum Product Owner I — Eddy AZEBAZE"
          src="https://img.shields.io/badge/PSPO%20I-Scrum.org-166534?style=flat-square">
   </a>
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential" title="Vérifier la certification AWS Certified Cloud Practitioner (AWS CCP)">
-    <img alt="AWS Certified Cloud Practitioner (AWS CCP) - Eddy AZEBAZE"
+    <img alt="AWS Certified Cloud Practitioner (AWS CCP) — Eddy AZEBAZE"
          src="https://img.shields.io/badge/AWS%20CCP-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
   </a>
 </p>
@@ -113,7 +113,7 @@ Pilotage PMO, KPI/OKR et traçabilité complète pour des décisions <em>board-r
   <li>Audit Sécurité WordPress (OWASP ZAP)</li>
   <li>BI Santé - Dashboard OMS/OCDE (Power BI)</li>
 </ul>
-<p>👉 Présentation disponible sur demande qualifiée :  
+<p>👉 Présentation disponible sur demande qualifiée :
 <a href="https://calendly.com/eddy-azebaze-proton/30min">réserver un échange</a></p>
 
 <hr/>
@@ -125,7 +125,9 @@ Je coordonne des initiatives qui renforcent la <strong>culture projet</strong> e
 </p>
 
 <h3>Questions pour un PM 2025</h3>
-<p>Initiative nationale portée par le <strong>PMI France</strong> : coordination, cohérence et pilotage global de l’édition hybride.</p>
+<p>
+Initiative nationale portée par le <strong>PMI France</strong> : coordination, cohérence et pilotage global de l’édition hybride.
+</p>
 
 <p align="center" style="margin:16px 0;">
   <a href="https://pmi-france.org/conferences/questions-pour-un-pm-2025-le-quiz-national-du-pmi-france-c34035" target="_blank" rel="noopener">
@@ -136,19 +138,124 @@ Je coordonne des initiatives qui renforcent la <strong>culture projet</strong> e
 </p>
 
 <h3>ProBono - Les collectifs qui transforment l’entreprise de l’intérieur</h3>
-<p>Webinaire du <strong>pôle La Défense</strong> sur la transformation culturelle par les dynamiques collectives : dialogue, transmission et engagement au service de la performance durable.</p>
+<p>
+Webinaire du <strong>pôle La Défense</strong> sur la transformation culturelle par les dynamiques collectives :
+dialogue, transmission et engagement au service de la performance durable.
+</p>
 <p><a href="https://pmi-france.org/blog/retour-sur-le-webinaire-probono-pole-la-defense-x-les-collectifs-comment-les-salaries-transforment-l-entreprise-de-l-interieur-20-mai-2025-2-a706" target="_blank" rel="noopener">Voir la présentation</a></p>
+
+<hr/>
+
+<h2 id="methode">Méthode de delivery (sûre &amp; mesurable)</h2>
+<ol>
+  <li><strong>Diagnostic</strong> - enjeux, risques, exigences réglementaires.</li>
+  <li><strong>Cadrage</strong> - objectifs, KPI/OKR, feuille de route, RACI.</li>
+  <li><strong>Delivery</strong> - itérations, contrôles, traçabilité IA/cyber.</li>
+  <li><strong>Résultats</strong> - scorecards, dashboards, ROI, amélioration continue.</li>
+</ol>
+<p><em>Livrables</em> : project charter, RACI, artefacts conformité, runbook, rapport ROI.</p>
+
+<hr/>
+
+<h2 id="stack">Stack / outils</h2>
+
+<!-- STACK dans un <details> pour ne pas alourdir la page -->
+<details>
+  <summary>Voir la stack complète</summary>
+
+  <h3>Gouvernance &amp; Delivery</h3>
+  <p>GitHub Projects, Notion, Miro, MS Project, ClickUp<br/>
+  <strong>Cycle de vie projet (SDLC)</strong> : cadrage → build → test → run</p>
+
+  <h3>Data &amp; Insights</h3>
+  <p>Power BI, Tableau, Qlik Sense, Dataiku, Python (Pandas)<br/>
+  Langages : HTML, SQL, DAX</p>
+
+  <h3>IA &amp; Agents</h3>
+  <p>OpenAI API, Claude, Qwen, Botpress, LangChain, LangFlow</p>
+
+  <h3>Cybersécurité &amp; Conformité</h3>
+  <p>OWASP ZAP, Security Headers, Aravo, Archer, OneTrust</p>
+
+  <h3>Automatisation &amp; Orchestration</h3>
+  <p>Make.com, Zapier, n8n, Databricks, Apache Airflow</p>
+</details>
+
+<hr/>
+
+<h2 id="mentions">Mentions &amp; distinctions</h2>
+<p><strong>Top 20 - Favikon 2025 : Project Managers France</strong><br/>
+Classement des leaders de projet axés impact et gouvernance.<br/>
+<a href="https://www.favikon.com/fr/blog/top-project-managers-france" title="Classement Favikon Project Managers France 2025">voir le classement</a></p>
+
+<hr/>
+
+<h2 id="faq">Questions fréquentes</h2>
+
+<h3>Pilotage & Valeur</h3>
+
+<details open>
+  <summary>Comment mesurez-vous la valeur d’un projet IT ?</summary>
+  Par un modèle à cinq dimensions : valeur business, utilisateur, opérationnelle, réglementaire et stratégique.  
+  Chaque livrable est relié à un indicateur concret (KPI/OKR) et à une priorité métier validée par le sponsor.
+</details>
+
+<details>
+  <summary>Quelle est votre approche de cadrage projet ?</summary>
+  Un cadrage clair, orienté résultats : RACI, objectifs, feuille de route, et livrables audités.  
+  L’enjeu : garantir la cohérence entre ambition, ressources et valeur mesurable.
+</details>
+
+<details>
+  <summary>Quelle différence entre un projet « livré » et un projet « abouti » ?</summary>
+  Un projet livré respecte le plan ; un projet abouti crée une valeur durable, documentée et mesurable.  
+  C’est la base de l’approche Projet Augmenté®.
+</details>
+
+<h3>Gouvernance, Conformité & Infrastructure</h3>
+
+<details>
+  <summary>Comment animez-vous les comités projet et de pilotage ?</summary>
+  En rendant chaque comité utile : décisions claires, actions tracées, vision partagée.  
+  L’objectif n’est pas d’informer, mais de faire progresser collectivement le projet.
+</details>
+
+<details>
+  <summary>Comment gérez-vous les risques IA, RGPD ou cybersécurité ?</summary>
+  Par une approche GRC intégrée : DPIA, registre des traitements, plan de contrôle et audit readiness.  
+  Objectif : transformer la conformité en levier de performance durable.
+</details>
+
+<details>
+  <summary>Comment abordez-vous les sujets d’infrastructure (cloud, sécurité, intégration) ?</summary>
+  Avec une approche <strong>DevSecOps et ITIL 4</strong> intégrée dès la conception : conformité, performance et sécurité avancent ensemble.  
+  Chaque environnement est conçu pour être <strong>scalable, traçable et résilient</strong>, sans compromis sur la gouvernance ni la qualité de service.
+</details>
+
+<h3>Produit & Collaboration</h3>
+
+<details>
+  <summary>Quelle est votre approche orientée « produit » ?</summary>
+  Un projet est un produit vivant : il évolue, se maintient, et délivre une valeur d’usage continue.  
+  La valeur se mesure autant dans le temps que dans le livrable initial.
+</details>
+
+<details>
+  <summary>Quelle est la première étape si nous collaborons ?</summary>
+  Un diagnostic 30-60-90 : évaluation des enjeux, risques, et livrables attendus.  
+  Puis un pilote concret, mesuré, et <em>board-ready</em>.
+</details>
 
 <hr/>
 
 <h2 id="cta">Passer à l’action</h2>
 <p>
-📅 <a href="https://calendly.com/eddy-azebaze-proton/30min">Planifier 30 min</a><br/>
+📅 <a href="https://calendly.com/eddy-azebaze-proton/30min">Planifier 30&nbsp;min</a><br/>
 💼 <a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism">Profil LinkedIn</a><br/>
-✉ <a href="mailto:eddy.azebaze@proton.me">Email direct</a><br/>
+✉ <a href="mailto:eddyazebaze@proton.me">Email direct</a><br/>
 📰 <a href="https://medium.com/@eddyazebaze">Articles Medium</a>
 </p>
 
 <hr/>
 
-<p><sub>© 2025 Projet Augmenté® - démonstrateurs fournis « as-is ». Conformité RGPD / NIS2 / DORA / AI Act. Dernière mise à jour : Novembre 2025.</sub></p>
+<p><sub>© 2025 Projet Augmenté® - démonstrateurs fournis « as-is ». Conformité RGPD / NIS2 / DORA / AI Act. Dernière mise à jour : Octobre 2025.</sub></p>
