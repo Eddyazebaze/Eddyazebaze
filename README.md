@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:042C53&height=180&section=header&text=Projet%20Augment%C3%A9%C2%AE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Eddy AZEBAZE - Projet Augmenté" width="100%">
+  <img src="assets/banner-projet-augmente.png" alt="Eddy AZEBAZE - Projet Augmenté - Gouvernance Cloud & Plateformes - PMP CISM" width="100%">
 </p>
 
 <h1 align="center">Eddy AZEBAZE - Projet Augmenté®</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Gouvernance+Cloud+%26+Plateformes+%C2%B7+PMP%C2%AE+%C2%B7+CISM%C2%AE;Kubernetes%2C+IA%2C+r%C3%A9silience+%26+auditabilit%C3%A9" alt="tagline animée">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3000&pause=1000&color=F2994A&center=true&vCenter=true&width=650&lines=Gouvernance+Cloud+%26+Plateformes+%C2%B7+PMP%C2%AE+%C2%B7+CISM%C2%AE;Kubernetes%2C+IA%2C+r%C3%A9silience+%26+auditabilit%C3%A9" alt="tagline animée">
 </p>
 
 <p align="center">
