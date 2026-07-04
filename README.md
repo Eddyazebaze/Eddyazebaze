@@ -43,9 +43,9 @@
     <img alt="PSPO I, Eddy AZEBAZE"
          src="https://img.shields.io/badge/PSPO%20I-Scrum.org-166534?style=flat-square">
   </a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential" title="Vérifier la certification AWS CCP">
-    <img alt="AWS Certified Cloud Practitioner, Eddy AZEBAZE"
-         src="https://img.shields.io/badge/AWS%20CCP-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
+  <a href="https://www.credly.com/badges/68fbcb70-2e8e-4331-9422-808566983c63/linked_in_profile" title="Vérifier la certification AWS Certified Solutions Architect, Associate">
+    <img alt="AWS Certified Solutions Architect, Associate, Eddy AZEBAZE"
+         src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
   </a>
 </p>
 
