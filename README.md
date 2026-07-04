@@ -172,7 +172,7 @@ programme, partenaires, logistique et finance. Contribution structurante, pas po
 c'est ce même pôle IT-Tech qui porte la coordination technique des grands événements du PMI France.
 </p>
 <p align="center" style="margin:16px 0;">
-  <img src="assets/events/eddy-azebaze-pmi-france-futuroscope-poitiers-2026-cloture.jpg"
+  <img src="assets/events/eddy-azebaze-pmi-france-futuroscope-poitiers-2026-cloture.jpeg"
        alt="Équipe organisatrice sur scène, Les rencontres du PMI, Futuroscope de Poitiers 2026"
        width="700">
 </p>
